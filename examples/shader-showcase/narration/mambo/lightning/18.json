@@ -1,0 +1,25 @@
+{
+  "index": 18,
+  "chapter": "实际调参：粗细亮度",
+  "start": 123.25,
+  "end": 126.8,
+  "text": "再调核心亮度，观察颜色的表现。",
+  "spokenText": "再调核心亮度，观察颜色的表现。",
+  "key": "d391aef36806bfc9e795529aca79ef4075a447449151cc85bfe389050979aa24",
+  "file": "E:\\视频\\shader-showcase\\narration\\mambo\\lightning\\18.wav",
+  "duration": 2.706979,
+  "nativeSpeed": 1.0,
+  "tempo": 1.0,
+  "sourceLoudness": {
+    "input_i": "-18.37",
+    "input_tp": "-2.11",
+    "input_lra": "0.00",
+    "input_thresh": "-28.73",
+    "output_i": "-17.75",
+    "output_tp": "-1.50",
+    "output_lra": "0.00",
+    "output_thresh": "-28.12",
+    "normalization_type": "linear",
+    "target_offset": "1.75"
+  }
+}

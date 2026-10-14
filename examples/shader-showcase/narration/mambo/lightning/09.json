@@ -1,0 +1,25 @@
+{
+  "index": 9,
+  "chapter": "环形电弧",
+  "start": 59.25,
+  "end": 65.8,
+  "text": "把这些控制用在环绕电流上，就能让电弧围着对象扫过。",
+  "spokenText": "把这些控制用在环绕电流上，就能让电弧围着对象扫过。",
+  "key": "d9d1030b7a260c6ccac444a90dcdfb25bc92c617d0940802bf2c99e523aa2271",
+  "file": "E:\\视频\\shader-showcase\\narration\\mambo\\lightning\\09.wav",
+  "duration": 4.200125,
+  "nativeSpeed": 1.0,
+  "tempo": 1.0,
+  "sourceLoudness": {
+    "input_i": "-19.42",
+    "input_tp": "-1.27",
+    "input_lra": "1.80",
+    "input_thresh": "-29.68",
+    "output_i": "-16.89",
+    "output_tp": "-1.50",
+    "output_lra": "1.10",
+    "output_thresh": "-27.11",
+    "normalization_type": "dynamic",
+    "target_offset": "0.89"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "index": 34,
+  "chapter": "白洞真实调参",
+  "start": 202.25,
+  "end": 205.8,
+  "text": "回到工作台，把核心光晕调到合适的亮度。",
+  "spokenText": "回到工作台，把核心光晕调到合适的亮度。",
+  "key": "2e799af2871551cd5dbff8480b7a0132d8430367ee10a1df86651e123bbaa8f1",
+  "file": "E:\\视频\\shader-showcase\\narration\\mambo\\blackhole\\34.wav",
+  "duration": 3.396917,
+  "nativeSpeed": 1.0,
+  "tempo": 1.0,
+  "sourceLoudness": {
+    "input_i": "-18.86",
+    "input_tp": "-3.22",
+    "input_lra": "0.90",
+    "input_thresh": "-28.86",
+    "output_i": "-16.28",
+    "output_tp": "-1.50",
+    "output_lra": "0.00",
+    "output_thresh": "-26.28",
+    "normalization_type": "dynamic",
+    "target_offset": "0.28"
+  }
+}

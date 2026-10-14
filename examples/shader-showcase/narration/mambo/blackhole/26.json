@@ -1,0 +1,25 @@
+{
+  "index": 26,
+  "chapter": "真实调参：颜色",
+  "start": 153.25,
+  "end": 157.8,
+  "text": "外盘可以单独选色，内外层次由你搭配。",
+  "spokenText": "外盘可以单独选色，内外层次由你搭配。",
+  "key": "7f75977c1781221e42d77e12989d6f82766deaaaae358f807d24a527b9bd0655",
+  "file": "E:\\视频\\shader-showcase\\narration\\mambo\\blackhole\\26.wav",
+  "duration": 3.092104,
+  "nativeSpeed": 1.0,
+  "tempo": 1.0,
+  "sourceLoudness": {
+    "input_i": "-18.58",
+    "input_tp": "-2.87",
+    "input_lra": "0.50",
+    "input_thresh": "-28.73",
+    "output_i": "-16.26",
+    "output_tp": "-1.50",
+    "output_lra": "0.00",
+    "output_thresh": "-26.42",
+    "normalization_type": "dynamic",
+    "target_offset": "0.26"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "index": 11,
+  "chapter": "集束群雷",
+  "start": 73.25,
+  "end": 80.8,
+  "text": "需要更强的冲击感？把多道落雷集中到一个区域，组成群雷。",
+  "spokenText": "需要更强的冲击感？把多道落雷集中到一个区域，组成群雷。",
+  "key": "f0f4e88c4b6389805d1129e37df5ed1a4907c705c75c120443eea25b60ecf29b",
+  "file": "E:\\视频\\shader-showcase\\narration\\mambo\\lightning\\11.wav",
+  "duration": 5.164333,
+  "nativeSpeed": 1.0,
+  "tempo": 1.0,
+  "sourceLoudness": {
+    "input_i": "-18.35",
+    "input_tp": "-1.42",
+    "input_lra": "0.50",
+    "input_thresh": "-28.64",
+    "output_i": "-16.67",
+    "output_tp": "-1.50",
+    "output_lra": "0.50",
+    "output_thresh": "-26.97",
+    "normalization_type": "dynamic",
+    "target_offset": "0.67"
+  }
+}

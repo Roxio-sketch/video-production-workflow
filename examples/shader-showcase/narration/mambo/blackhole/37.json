@@ -1,0 +1,25 @@
+{
+  "index": 37,
+  "chapter": "使用路线",
+  "start": 214.25,
+  "end": 225.8,
+  "text": "效果满意后，就可以保存成配方。技能包附带工作台和演示模组，也提供源码，方便接入自己的模组。",
+  "spokenText": "效果满意后，就可以保存成配方。技能包附带工作台和演示模组，也提供源码，方便接入自己的模组。",
+  "key": "f03356510def0cc10b2a12692bd08cc0dbdaf3f4611d7ecc011f668daa1074ce",
+  "file": "E:\\视频\\shader-showcase\\narration\\mambo\\blackhole\\37.wav",
+  "duration": 8.299271,
+  "nativeSpeed": 1.0,
+  "tempo": 1.0,
+  "sourceLoudness": {
+    "input_i": "-18.41",
+    "input_tp": "-1.43",
+    "input_lra": "1.00",
+    "input_thresh": "-28.79",
+    "output_i": "-16.45",
+    "output_tp": "-1.50",
+    "output_lra": "0.60",
+    "output_thresh": "-26.79",
+    "normalization_type": "dynamic",
+    "target_offset": "0.45"
+  }
+}

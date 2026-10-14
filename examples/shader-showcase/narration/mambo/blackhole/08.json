@@ -1,0 +1,25 @@
+{
+  "index": 8,
+  "chapter": "自然语言需求",
+  "start": 49.25,
+  "end": 57.8,
+  "text": "你也可以直接描述：做一个冰蓝色黑洞，盘面薄一点，旋转慢一点。让代理整理参数，再到工作台细调。",
+  "spokenText": "你也可以直接描述：做一个冰蓝色黑洞，盘面薄一点，旋转慢一点。让代理整理参数，再到工作台细调。",
+  "key": "107d3ec6741b1e81e7e195882122153799db487f076e087c064ea8f99706b3a8",
+  "file": "E:\\视频\\shader-showcase\\narration\\mambo\\blackhole\\08.wav",
+  "duration": 8.520125,
+  "nativeSpeed": 1.0,
+  "tempo": 1.0459949471210344,
+  "sourceLoudness": {
+    "input_i": "-18.47",
+    "input_tp": "-1.90",
+    "input_lra": "1.00",
+    "input_thresh": "-28.84",
+    "output_i": "-15.97",
+    "output_tp": "-1.50",
+    "output_lra": "0.90",
+    "output_thresh": "-26.42",
+    "normalization_type": "dynamic",
+    "target_offset": "-0.03"
+  }
+}

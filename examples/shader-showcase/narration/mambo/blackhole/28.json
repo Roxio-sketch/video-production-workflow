@@ -1,0 +1,25 @@
+{
+  "index": 28,
+  "chapter": "真实调参：运动",
+  "start": 162.25,
+  "end": 165.8,
+  "text": "向内流动，有自己独立的节奏。",
+  "spokenText": "向内流动，有自己独立的节奏。",
+  "key": "723ff7c7a0b3bc1a1420ada890f2ec0badd8ddfd79975d1a79e02e7c215de733",
+  "file": "E:\\视频\\shader-showcase\\narration\\mambo\\blackhole\\28.wav",
+  "duration": 2.448583,
+  "nativeSpeed": 1.0,
+  "tempo": 1.0,
+  "sourceLoudness": {
+    "input_i": "-18.70",
+    "input_tp": "-2.01",
+    "input_lra": "0.00",
+    "input_thresh": "-29.11",
+    "output_i": "-18.18",
+    "output_tp": "-1.50",
+    "output_lra": "0.00",
+    "output_thresh": "-28.60",
+    "normalization_type": "linear",
+    "target_offset": "2.18"
+  }
+}

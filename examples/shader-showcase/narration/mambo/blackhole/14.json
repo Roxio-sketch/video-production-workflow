@@ -1,0 +1,25 @@
+{
+  "index": 14,
+  "chapter": "世界透镜关闭",
+  "start": 92.25,
+  "end": 96.8,
+  "text": "外观调好了，再看世界透镜。先保留原来的网格。",
+  "spokenText": "外观调好了，再看世界透镜。先保留原来的网格。",
+  "key": "8f0729e393f9d1b194505c663dbec54925f3683e242e192c4a4f1672bcaaaceb",
+  "file": "E:\\视频\\shader-showcase\\narration\\mambo\\blackhole\\14.wav",
+  "duration": 4.454521,
+  "nativeSpeed": 1.0,
+  "tempo": 1.0,
+  "sourceLoudness": {
+    "input_i": "-18.80",
+    "input_tp": "-1.92",
+    "input_lra": "0.80",
+    "input_thresh": "-29.28",
+    "output_i": "-15.70",
+    "output_tp": "-1.50",
+    "output_lra": "0.60",
+    "output_thresh": "-26.16",
+    "normalization_type": "dynamic",
+    "target_offset": "-0.30"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "index": 33,
+  "chapter": "白洞外扩光壳",
+  "start": 194.25,
+  "end": 201.8,
+  "text": "如果想要一层层向外传播的能量，还可以加入光壳，调整扩散速度与厚度。",
+  "spokenText": "如果想要一层层向外传播的能量，还可以加入光壳，调整扩散速度与厚度。",
+  "key": "12829dbacdac54c17b05d50154b34a55a88f8d56679a1b370795b394656564b7",
+  "file": "E:\\视频\\shader-showcase\\narration\\mambo\\blackhole\\33.wav",
+  "duration": 5.553458,
+  "nativeSpeed": 1.0,
+  "tempo": 1.0,
+  "sourceLoudness": {
+    "input_i": "-18.99",
+    "input_tp": "-2.61",
+    "input_lra": "0.40",
+    "input_thresh": "-29.26",
+    "output_i": "-16.27",
+    "output_tp": "-1.50",
+    "output_lra": "0.80",
+    "output_thresh": "-26.52",
+    "normalization_type": "dynamic",
+    "target_offset": "0.27"
+  }
+}

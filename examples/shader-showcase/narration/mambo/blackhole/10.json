@@ -1,0 +1,25 @@
+{
+  "index": 10,
+  "chapter": "紫色配色",
+  "start": 64.25,
+  "end": 69.8,
+  "text": "再换一组紫色。同样的结构，也能呈现另一种气氛。",
+  "spokenText": "再换一组紫色。同样的结构，也能呈现另一种气氛。",
+  "key": "96432f69da0850c3d2cf8eea847dacdb74d4c5cac777f3d115f6bfdebfa464c7",
+  "file": "E:\\视频\\shader-showcase\\narration\\mambo\\blackhole\\10.wav",
+  "duration": 4.377063,
+  "nativeSpeed": 1.0,
+  "tempo": 1.0,
+  "sourceLoudness": {
+    "input_i": "-18.55",
+    "input_tp": "-1.59",
+    "input_lra": "0.80",
+    "input_thresh": "-28.74",
+    "output_i": "-16.23",
+    "output_tp": "-1.50",
+    "output_lra": "0.60",
+    "output_thresh": "-26.47",
+    "normalization_type": "dynamic",
+    "target_offset": "0.23"
+  }
+}

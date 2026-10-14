@@ -1,0 +1,138 @@
+[
+  {
+    "kind": "blackhole",
+    "index": 0,
+    "expected": "这款黑洞模组，是我用人工智能制作并开源的。黑洞和白洞，都能自定义。",
+    "recognized": "这款黑洞模组是我用联工技能制作并开源的。黑洞和白洞都能自定义。",
+    "similarity": 0.9310344827586207,
+    "reviewNeeded": false
+  },
+  {
+    "kind": "blackhole",
+    "index": 1,
+    "expected": "先看盘面。光带、颗粒和体积尘埃，可以换成完全不同的风格。",
+    "recognized": "先看盘面,光带、颗粒和体积强爱,可以换成完全不同的风格。",
+    "similarity": 0.9166666666666666,
+    "reviewNeeded": false
+  },
+  {
+    "kind": "blackhole",
+    "index": 2,
+    "expected": "形态确定以后，再换一组配色。内盘和外缘，可以分别设计。",
+    "recognized": "形态确定以后,再换一组配色, 内盘和外园,可以分别设计。",
+    "similarity": 0.9565217391304348,
+    "reviewNeeded": false
+  },
+  {
+    "kind": "blackhole",
+    "index": 3,
+    "expected": "这些变化不是后期做的。在模组里拖动参数，暗核大小和盘面厚度会同步改变。",
+    "recognized": "这些变化不是后期做的。在模组里拖动拆绣,按和大小和盘面厚度会同步改变。",
+    "similarity": 0.875,
+    "reviewNeeded": false
+  },
+  {
+    "kind": "blackhole",
+    "index": 4,
+    "expected": "再看引力透镜。开启以后，真实背景会发生扭曲。",
+    "recognized": "再看隐蔽透镜。开机以后,监视背景会发现牛躯。",
+    "similarity": 0.5789473684210527,
+    "reviewNeeded": true
+  },
+  {
+    "kind": "blackhole",
+    "index": 5,
+    "expected": "范围可以单独调节，从只影响附近，到覆盖更宽的场景。",
+    "recognized": "范围可以单独调解,从其影响附近,到覆盖更宽的场景。",
+    "similarity": 0.9090909090909091,
+    "reviewNeeded": false
+  },
+  {
+    "kind": "blackhole",
+    "index": 6,
+    "expected": "人物是否跟着扭曲，也有独立开关。你可以按想要的画面来选择。",
+    "recognized": "人物是否跟见扭曲,也有独立开关。你可以按想要的画面来选择。",
+    "similarity": 0.9615384615384616,
+    "reviewNeeded": false
+  },
+  {
+    "kind": "blackhole",
+    "index": 7,
+    "expected": "白洞同样能设计。明亮核心、双极喷流，还有一层层向外传播的光壳。",
+    "recognized": "白洞同样的设计, 凝量核心、相机碳流,还有一层层向外铲播的光壳。",
+    "similarity": 0.7407407407407407,
+    "reviewNeeded": false
+  },
+  {
+    "kind": "blackhole",
+    "index": 8,
+    "expected": "想做自己的版本，可以用配套技能整理需求，再到工作台细调。模组、技能和源码都已开源。",
+    "recognized": "想做自己的版本,可以用配套技能整理需求,再到工作台洗掉。模组技能和圆码,都已开圆。",
+    "similarity": 0.8888888888888888,
+    "reviewNeeded": false
+  },
+  {
+    "kind": "lightning",
+    "index": 0,
+    "expected": "这组雷劫，用的是我制作并开源的闪电模组。形状、颜色和落雷布局，都能自定义。",
+    "recognized": "借助雷劫,用的是我制作并开源的响电模组、形状颜色和裸雷布局,都能自定义。",
+    "similarity": 0.875,
+    "reviewNeeded": false
+  },
+  {
+    "kind": "lightning",
+    "index": 1,
+    "expected": "先从一道落雷开始。换一个种子，主干和分叉，就能形成另一种形状。",
+    "recognized": "先从移到诺雷开始,换一个种子、竹干和分叉,就能行强弊一种形状。",
+    "similarity": 0.7407407407407407,
+    "reviewNeeded": false
+  },
+  {
+    "kind": "lightning",
+    "index": 2,
+    "expected": "接着实际调参数。分叉概率、层数和预算，分别控制它的复杂程度。",
+    "recognized": "接着十几条参秀,分叉概率、层秀和议赛、分别控制它的复杂程度。",
+    "similarity": 0.7307692307692307,
+    "reviewNeeded": false
+  },
+  {
+    "kind": "lightning",
+    "index": 3,
+    "expected": "形状确定以后，再改配色。渐变比例和光晕亮度，也可以分别调整。",
+    "recognized": "形状确定以后,再改配色。渐变比例和光晕亮度,也可以分别调整。",
+    "similarity": 1.0,
+    "reviewNeeded": false
+  },
+  {
+    "kind": "lightning",
+    "index": 4,
+    "expected": "把多道雷集中起来，命中后继续播放地面电弧和火花，就能组合出雷劫效果。",
+    "recognized": "把多大雷集中起来,命救后继续播放地面电壶和火花,就能组合出雷劫效果。",
+    "similarity": 0.9032258064516129,
+    "reviewNeeded": false
+  },
+  {
+    "kind": "lightning",
+    "index": 5,
+    "expected": "想覆盖更大的区域，还能修改落雷数量、散布范围，以及击地放电的半径。",
+    "recognized": "想覆盖更大的區域,还能修改落雷朽量、散布范围,以及基地放电的半径。",
+    "similarity": 0.896551724137931,
+    "reviewNeeded": false
+  },
+  {
+    "kind": "lightning",
+    "index": 6,
+    "expected": "这段以五行仙途的高阶雷劫配方为起点，调整了线宽、亮度与配色。",
+    "recognized": "这段以武航先途的高階雷劫配方为起点,瞧瞧们先宽,亮度已配色。",
+    "similarity": 0.6666666666666666,
+    "reviewNeeded": false
+  },
+  {
+    "kind": "lightning",
+    "index": 7,
+    "expected": "配套技能可以把你的想法整理成配方，再到工作台细调。模组、技能和源码都已开源。",
+    "recognized": "配套技能可以把你的想法整理成配方,再到工作台细调。模组技能和研码斗一开源。",
+    "similarity": 0.9117647058823529,
+    "reviewNeeded": false
+  }
+]

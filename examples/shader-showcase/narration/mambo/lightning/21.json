@@ -1,0 +1,25 @@
+{
+  "index": 21,
+  "chapter": "实际调参：分叉",
+  "start": 139.25,
+  "end": 142.8,
+  "text": "分叉也是这样，先调整出现的概率。",
+  "spokenText": "分叉也是这样，先调整出现的概率。",
+  "key": "1c6ef58f8226c9f35c3a52ce1f3d60334a9dbcf60b53b24a9c654af11b393635",
+  "file": "E:\\视频\\shader-showcase\\narration\\mambo\\lightning\\21.wav",
+  "duration": 2.645083,
+  "nativeSpeed": 1.0,
+  "tempo": 1.0,
+  "sourceLoudness": {
+    "input_i": "-18.51",
+    "input_tp": "-1.92",
+    "input_lra": "0.00",
+    "input_thresh": "-28.71",
+    "output_i": "-18.11",
+    "output_tp": "-1.50",
+    "output_lra": "0.00",
+    "output_thresh": "-28.30",
+    "normalization_type": "linear",
+    "target_offset": "2.11"
+  }
+}

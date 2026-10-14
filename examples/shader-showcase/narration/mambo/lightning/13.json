@@ -1,0 +1,25 @@
+{
+  "index": 13,
+  "chapter": "击地特写",
+  "start": 88.25,
+  "end": 94.8,
+  "text": "落雷命中后，电弧和火花继续展开，还有向外扩散的环形效果。",
+  "spokenText": "落雷命中后，电弧和火花继续展开，还有向外扩散的环形效果。",
+  "key": "523bfd62fab75831ee757e67ab24b73350c2ce14deb26002066945a3dc96e669",
+  "file": "E:\\视频\\shader-showcase\\narration\\mambo\\lightning\\13.wav",
+  "duration": 5.170083,
+  "nativeSpeed": 1.0,
+  "tempo": 1.0,
+  "sourceLoudness": {
+    "input_i": "-19.03",
+    "input_tp": "-1.67",
+    "input_lra": "0.60",
+    "input_thresh": "-29.20",
+    "output_i": "-16.24",
+    "output_tp": "-1.50",
+    "output_lra": "0.80",
+    "output_thresh": "-26.43",
+    "normalization_type": "dynamic",
+    "target_offset": "0.24"
+  }
+}

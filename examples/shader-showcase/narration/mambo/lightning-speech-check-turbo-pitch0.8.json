@@ -1,0 +1,10 @@
+[
+  {
+    "index": 19,
+    "chapter": "实际调参：渐变光晕",
+    "expected": "把第一种颜色的比例，从百分之零，调到百分之百。",
+    "recognized": "把第一种颜色的比例从0%调到900%。",
+    "similarity": 0.9375,
+    "reviewNeeded": false
+  }
+]

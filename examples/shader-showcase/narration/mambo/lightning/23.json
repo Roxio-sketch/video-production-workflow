@@ -1,0 +1,25 @@
+{
+  "index": 23,
+  "chapter": "实际调参：分叉",
+  "start": 147.25,
+  "end": 150.8,
+  "text": "再限制总预算，让复杂程度保持可控。",
+  "spokenText": "再限制总预算，让复杂程度保持可控。",
+  "key": "190f9db092054910a5a054a4f6274b8a87d8cd1d80eb47109c3cdedbf572c2a0",
+  "file": "E:\\视频\\shader-showcase\\narration\\mambo\\lightning\\23.wav",
+  "duration": 3.049583,
+  "nativeSpeed": 1.0,
+  "tempo": 1.0,
+  "sourceLoudness": {
+    "input_i": "-18.61",
+    "input_tp": "-2.04",
+    "input_lra": "0.70",
+    "input_thresh": "-28.93",
+    "output_i": "-16.23",
+    "output_tp": "-1.50",
+    "output_lra": "0.00",
+    "output_thresh": "-26.56",
+    "normalization_type": "dynamic",
+    "target_offset": "0.23"
+  }
+}

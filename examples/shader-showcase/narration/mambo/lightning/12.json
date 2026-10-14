@@ -1,0 +1,25 @@
+{
+  "index": 12,
+  "chapter": "散布群雷",
+  "start": 81.25,
+  "end": 87.8,
+  "text": "再把范围展开，同样的群雷就变成了散布的布局。",
+  "spokenText": "再把范围展开，同样的群雷就变成了散布的布局。",
+  "key": "f80116a9ec9b1ce704e4f0abd668118d4d86ad8dfb68789ceb6d35ab0b110f66",
+  "file": "E:\\视频\\shader-showcase\\narration\\mambo\\lightning\\12.wav",
+  "duration": 3.723208,
+  "nativeSpeed": 1.0,
+  "tempo": 1.0,
+  "sourceLoudness": {
+    "input_i": "-18.88",
+    "input_tp": "-1.96",
+    "input_lra": "1.60",
+    "input_thresh": "-29.02",
+    "output_i": "-16.45",
+    "output_tp": "-1.50",
+    "output_lra": "0.00",
+    "output_thresh": "-26.58",
+    "normalization_type": "dynamic",
+    "target_offset": "0.45"
+  }
+}

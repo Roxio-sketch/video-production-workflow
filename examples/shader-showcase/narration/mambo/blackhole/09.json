@@ -1,0 +1,25 @@
+{
+  "index": 9,
+  "chapter": "冰蓝配色",
+  "start": 58.25,
+  "end": 63.8,
+  "text": "按照这个想法，保持原来的形状，把盘面换成冰蓝色。",
+  "spokenText": "按照这个想法，保持原来的形状，把盘面换成冰蓝色。",
+  "key": "aa086b1db30eb4a92f97758580267001973764c937bfc8edd5d80befa85cda91",
+  "file": "E:\\视频\\shader-showcase\\narration\\mambo\\blackhole\\09.wav",
+  "duration": 4.216271,
+  "nativeSpeed": 1.0,
+  "tempo": 1.0,
+  "sourceLoudness": {
+    "input_i": "-18.17",
+    "input_tp": "-1.30",
+    "input_lra": "0.50",
+    "input_thresh": "-28.37",
+    "output_i": "-16.48",
+    "output_tp": "-1.50",
+    "output_lra": "0.40",
+    "output_thresh": "-26.71",
+    "normalization_type": "dynamic",
+    "target_offset": "0.48"
+  }
+}

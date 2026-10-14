@@ -1,0 +1,25 @@
+{
+  "index": 29,
+  "chapter": "开源资源",
+  "start": 183.25,
+  "end": 194.8,
+  "text": "这些工具和演示源码都已开源。项目链接与下载入口放在视频简介里，你可以从现有配方开始，做出自己的版本。",
+  "spokenText": "这些工具和演示源码都已开源。项目链接与下载入口放在视频简介里，你可以从现有配方开始，做出自己的版本。",
+  "key": "366d5be30952a918bbf5938f4162535eb1b6b4ef73e159182149beea79bc25b8",
+  "file": "E:\\视频\\shader-showcase\\narration\\mambo\\lightning\\29.wav",
+  "duration": 9.401438,
+  "nativeSpeed": 1.0,
+  "tempo": 1.0,
+  "sourceLoudness": {
+    "input_i": "-18.96",
+    "input_tp": "-1.78",
+    "input_lra": "1.90",
+    "input_thresh": "-29.26",
+    "output_i": "-16.15",
+    "output_tp": "-1.50",
+    "output_lra": "1.50",
+    "output_thresh": "-26.50",
+    "normalization_type": "dynamic",
+    "target_offset": "0.15"
+  }
+}

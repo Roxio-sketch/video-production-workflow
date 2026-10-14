@@ -1,0 +1,313 @@
+{
+  "blackhole": {
+    "seconds": 72.0,
+    "frames": 2160,
+    "cues": [
+      {
+        "chapter": "我用GPT制作并开源",
+        "text": "这款黑洞模组，是我用人工智能制作并开源的。黑洞和白洞，都能自定义。",
+        "clips": [
+          "bh-hero"
+        ],
+        "mode": "hero",
+        "minimum": 8,
+        "index": 0,
+        "start": 0,
+        "seconds": 8.0,
+        "frames": 240,
+        "voiceDuration": 6.32175,
+        "voice": "E:\\视频\\shader-showcase\\narration\\portrait\\blackhole\\00.wav",
+        "source": "MamboTTS 1.2.1 community preset; native speed; no pitch shift"
+      },
+      {
+        "chapter": "同一个黑洞，多种盘面",
+        "text": "先看盘面。光带、颗粒和体积尘埃，可以换成完全不同的风格。",
+        "clips": [
+          "bh-ribbons",
+          "bh-granular",
+          "bh-dust"
+        ],
+        "mode": "variants",
+        "minimum": 9,
+        "index": 1,
+        "start": 8.0,
+        "seconds": 9.0,
+        "frames": 270,
+        "voiceDuration": 5.713938,
+        "voice": "E:\\视频\\shader-showcase\\narration\\portrait\\blackhole\\01.wav",
+        "source": "MamboTTS 1.2.1 community preset; native speed; no pitch shift"
+      },
+      {
+        "chapter": "配色也由你决定",
+        "text": "形态确定以后，再换一组配色。内盘和外缘，可以分别设计。",
+        "clips": [
+          "bh-color-gold",
+          "bh-color-ice",
+          "bh-color-violet"
+        ],
+        "mode": "variants",
+        "minimum": 7,
+        "index": 2,
+        "start": 17.0,
+        "seconds": 7.0,
+        "frames": 210,
+        "voiceDuration": 5.000417,
+        "voice": "E:\\视频\\shader-showcase\\narration\\portrait\\blackhole\\02.wav",
+        "source": "MamboTTS 1.2.1 community preset; native speed; no pitch shift"
+      },
+      {
+        "chapter": "真实拖动参数",
+        "text": "这些变化不是后期做的。在模组里拖动参数，暗核大小和盘面厚度会同步改变。",
+        "clips": [
+          "bh-ui-shape"
+        ],
+        "mode": "ui",
+        "minimum": 9,
+        "index": 3,
+        "start": 24.0,
+        "seconds": 9.0,
+        "frames": 270,
+        "voiceDuration": 6.388625,
+        "voice": "E:\\视频\\shader-showcase\\narration\\portrait\\blackhole\\03.wav",
+        "source": "MamboTTS 1.2.1 community preset; native speed; no pitch shift"
+      },
+      {
+        "chapter": "透镜开关，同机位对照",
+        "text": "再看引力透镜。开启以后，真实背景会发生扭曲。",
+        "clips": [
+          "bh-lens-off",
+          "bh-lens-on"
+        ],
+        "labels": [
+          "透镜关闭",
+          "透镜开启"
+        ],
+        "mode": "compare",
+        "minimum": 6,
+        "index": 4,
+        "start": 33.0,
+        "seconds": 6.0,
+        "frames": 180,
+        "voiceDuration": 4.547167,
+        "voice": "E:\\视频\\shader-showcase\\narration\\portrait\\blackhole\\04.wav",
+        "source": "MamboTTS 1.2.1 community preset; native speed; no pitch shift"
+      },
+      {
+        "chapter": "范围大小，单独控制",
+        "text": "范围可以单独调节，从只影响附近，到覆盖更宽的场景。",
+        "clips": [
+          "bh-lens-small",
+          "bh-lens-large"
+        ],
+        "labels": [
+          "范围 3",
+          "范围 12"
+        ],
+        "mode": "compare",
+        "minimum": 6,
+        "index": 5,
+        "start": 39.0,
+        "seconds": 6.0,
+        "frames": 180,
+        "voiceDuration": 4.408875,
+        "voice": "E:\\视频\\shader-showcase\\narration\\portrait\\blackhole\\05.wav",
+        "source": "MamboTTS 1.2.1 community preset; native speed; no pitch shift"
+      },
+      {
+        "chapter": "人物是否参与，也能选",
+        "text": "人物是否跟着扭曲，也有独立开关。你可以按想要的画面来选择。",
+        "clips": [
+          "bh-player-off",
+          "bh-player-on"
+        ],
+        "labels": [
+          "人物不参与",
+          "人物参与"
+        ],
+        "mode": "compare",
+        "minimum": 7,
+        "index": 6,
+        "start": 45.0,
+        "seconds": 7.0,
+        "frames": 210,
+        "voiceDuration": 5.227,
+        "voice": "E:\\视频\\shader-showcase\\narration\\portrait\\blackhole\\06.wav",
+        "source": "MamboTTS 1.2.1 community preset; native speed; no pitch shift"
+      },
+      {
+        "chapter": "白洞也有自己的形态",
+        "text": "白洞同样能设计。明亮核心、双极喷流，还有一层层向外传播的光壳。",
+        "clips": [
+          "wh-hero",
+          "wh-jets",
+          "wh-shell"
+        ],
+        "mode": "variants",
+        "minimum": 10,
+        "index": 7,
+        "start": 52.0,
+        "seconds": 10.0,
+        "frames": 300,
+        "voiceDuration": 6.270104,
+        "voice": "E:\\视频\\shader-showcase\\narration\\portrait\\blackhole\\07.wav",
+        "source": "MamboTTS 1.2.1 community preset; native speed; no pitch shift"
+      },
+      {
+        "chapter": "开源 Mod · Skill · 源码",
+        "text": "想做自己的版本，可以用配套技能整理需求，再到工作台细调。模组、技能和源码都已开源。",
+        "clips": [
+          "bh-finale"
+        ],
+        "mode": "outro",
+        "minimum": 10,
+        "index": 8,
+        "start": 62.0,
+        "seconds": 10.0,
+        "frames": 300,
+        "voiceDuration": 7.818979,
+        "voice": "E:\\视频\\shader-showcase\\narration\\portrait\\blackhole\\08.wav",
+        "source": "MamboTTS 1.2.1 community preset; native speed; no pitch shift"
+      }
+    ]
+  },
+  "lightning": {
+    "seconds": 65.0,
+    "frames": 1950,
+    "cues": [
+      {
+        "chapter": "我用GPT制作并开源",
+        "text": "这组雷劫，用的是我制作并开源的闪电模组。形状、颜色和落雷布局，都能自定义。",
+        "clips": [
+          "lt-wuxing-vivid"
+        ],
+        "mode": "hero",
+        "minimum": 9,
+        "index": 0,
+        "start": 0,
+        "seconds": 9.0,
+        "frames": 270,
+        "voiceDuration": 6.742125,
+        "voice": "E:\\视频\\shader-showcase\\narration\\portrait\\lightning\\00.wav",
+        "source": "MamboTTS 1.2.1 community preset; native speed; no pitch shift"
+      },
+      {
+        "chapter": "先设计落雷的形状",
+        "text": "先从一道落雷开始。换一个种子，主干和分叉，就能形成另一种形状。",
+        "clips": [
+          "lt-seed-a",
+          "lt-seed-b"
+        ],
+        "labels": [
+          "种子 18234",
+          "种子 9417"
+        ],
+        "mode": "compare",
+        "minimum": 7,
+        "index": 1,
+        "start": 9.0,
+        "seconds": 7.0,
+        "frames": 210,
+        "voiceDuration": 5.951063,
+        "voice": "E:\\视频\\shader-showcase\\narration\\portrait\\lightning\\01.wav",
+        "source": "MamboTTS 1.2.1 community preset; native speed; no pitch shift"
+      },
+      {
+        "chapter": "实际修改分叉参数",
+        "text": "接着实际调参数。分叉概率、层数和预算，分别控制它的复杂程度。",
+        "clips": [
+          "lt-ui-branch"
+        ],
+        "mode": "ui",
+        "minimum": 8,
+        "index": 2,
+        "start": 16.0,
+        "seconds": 8.0,
+        "frames": 240,
+        "voiceDuration": 5.79225,
+        "voice": "E:\\视频\\shader-showcase\\narration\\portrait\\lightning\\02.wav",
+        "source": "MamboTTS 1.2.1 community preset; native speed; no pitch shift"
+      },
+      {
+        "chapter": "颜色与光晕分别调",
+        "text": "形状确定以后，再改配色。渐变比例和光晕亮度，也可以分别调整。",
+        "clips": [
+          "lt-ui-gradient"
+        ],
+        "mode": "ui",
+        "minimum": 8,
+        "index": 3,
+        "start": 24.0,
+        "seconds": 8.0,
+        "frames": 240,
+        "voiceDuration": 6.106625,
+        "voice": "E:\\视频\\shader-showcase\\narration\\portrait\\lightning\\03.wav",
+        "source": "MamboTTS 1.2.1 community preset; native speed; no pitch shift"
+      },
+      {
+        "chapter": "群雷与击地放电",
+        "text": "把多道雷集中起来，命中后继续播放地面电弧和火花，就能组合出雷劫效果。",
+        "clips": [
+          "lt-cluster",
+          "lt-impact"
+        ],
+        "mode": "variants",
+        "minimum": 8,
+        "index": 4,
+        "start": 32.0,
+        "seconds": 8.0,
+        "frames": 240,
+        "voiceDuration": 6.289438,
+        "voice": "E:\\视频\\shader-showcase\\narration\\portrait\\lightning\\04.wav",
+        "source": "MamboTTS 1.2.1 community preset; native speed; no pitch shift"
+      },
+      {
+        "chapter": "数量、范围与半径",
+        "text": "想覆盖更大的区域，还能修改落雷数量、散布范围，以及击地放电的半径。",
+        "clips": [
+          "lt-ui-layout"
+        ],
+        "mode": "ui",
+        "minimum": 8,
+        "index": 5,
+        "start": 40.0,
+        "seconds": 8.0,
+        "frames": 240,
+        "voiceDuration": 5.983417,
+        "voice": "E:\\视频\\shader-showcase\\narration\\portrait\\lightning\\05.wav",
+        "source": "MamboTTS 1.2.1 community preset; native speed; no pitch shift"
+      },
+      {
+        "chapter": "五行仙途雷劫配方起点",
+        "text": "这段以五行仙途的高阶雷劫配方为起点，调整了线宽、亮度与配色。",
+        "clips": [
+          "lt-wuxing-vivid"
+        ],
+        "mode": "hero",
+        "minimum": 7,
+        "index": 6,
+        "start": 48.0,
+        "seconds": 7.0,
+        "frames": 210,
+        "voiceDuration": 5.352813,
+        "voice": "E:\\视频\\shader-showcase\\narration\\portrait\\lightning\\06.wav",
+        "source": "MamboTTS 1.2.1 community preset; native speed; no pitch shift"
+      },
+      {
+        "chapter": "开源 Mod · Skill · 源码",
+        "text": "配套技能可以把你的想法整理成配方，再到工作台细调。模组、技能和源码都已开源。",
+        "clips": [
+          "lt-wuxing-vivid"
+        ],
+        "mode": "outro",
+        "minimum": 10,
+        "index": 7,
+        "start": 55.0,
+        "seconds": 10.0,
+        "frames": 300,
+        "voiceDuration": 6.702854,
+        "voice": "E:\\视频\\shader-showcase\\narration\\portrait\\lightning\\07.wav",
+        "source": "MamboTTS 1.2.1 community preset; native speed; no pitch shift"
+      }
+    ]
+  }
+}

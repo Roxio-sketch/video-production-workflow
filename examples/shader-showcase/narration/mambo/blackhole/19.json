@@ -1,0 +1,25 @@
+{
+  "index": 19,
+  "chapter": "玩家透镜开启",
+  "start": 121.25,
+  "end": 127.8,
+  "text": "打开这个开关，同一个机位下，人物和头盔也会一起扭曲。",
+  "spokenText": "打开这个开关，同一个机位下，人物和头盔也会一起扭曲。",
+  "key": "7bbd37613a74eb18457648853dcae141ad7372e2cdd4fd0f12b7868249fe6286",
+  "file": "E:\\视频\\shader-showcase\\narration\\mambo\\blackhole\\19.wav",
+  "duration": 4.728375,
+  "nativeSpeed": 1.0,
+  "tempo": 1.0,
+  "sourceLoudness": {
+    "input_i": "-19.42",
+    "input_tp": "-1.51",
+    "input_lra": "1.90",
+    "input_thresh": "-29.72",
+    "output_i": "-16.88",
+    "output_tp": "-1.50",
+    "output_lra": "1.30",
+    "output_thresh": "-27.19",
+    "normalization_type": "dynamic",
+    "target_offset": "0.88"
+  }
+}

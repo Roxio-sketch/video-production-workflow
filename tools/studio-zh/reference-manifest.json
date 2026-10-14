@@ -1,0 +1,3871 @@
+{
+  "version": "4.0.534",
+  "sourceCommit": "885239c3fc78a8fc11da39d411011b09b9b9da43",
+  "strategy": "Official 4.0.534 dist, presentation localization with scoped DOM fallback",
+  "changes": [
+    {
+      "file": "components/ActionTooltip.js",
+      "before": "227cb9bf121f1a0a3dd5db0dbf4f00b01af79569d743edd9986884bd7360f8e3",
+      "after": "46c40f028a0296aaf89064c51bc67e1fab9b41a28fb76a699dd38d16b3dfbc2d",
+      "count": 0,
+      "dynamicDisplayValues": 3
+    },
+    {
+      "file": "components/AgentPrompt.js",
+      "before": "4e32b5ef4ae5b1c89f7c35ec645feda9664b0d436e46244bcbbd09c3f57a5919",
+      "after": "5637725e76d098d0a4cdcd4d22a9e80f5728b6242d2ca1cd2a8dc58a98a67ec0",
+      "count": 6,
+      "dynamicDisplayValues": 5
+    },
+    {
+      "file": "components/AppLaunchButton.js",
+      "before": "a30fa59b6f5b4f1c2c82f032e6f8a6a10d972abd4aff93c526dea99daecd9df5",
+      "after": "de3817bf51e66276d2496bdf69a455f00f30de11ffe0875bd6953a7dfce402bc",
+      "count": 0,
+      "dynamicDisplayValues": 1
+    },
+    {
+      "file": "components/AskAiModal.js",
+      "before": "4fe852cc226928586e5b260f4918d9e9f8ff62bcc67851eafceb3c346c808a7a",
+      "after": "329874c5ed07476881d768b724c44d75cbd01a1a8a15c277158e07c70e000ecf",
+      "count": 1,
+      "dynamicDisplayValues": 1
+    },
+    {
+      "file": "components/asset-context-menu.js",
+      "before": "5de973262542ed310a9bee9db70fd7c6fc2d47620071810aed15ffb92119684b",
+      "after": "d0bb004771189eb1294a8154bcc2a38edfddcb4c14142d3388fdf253bb5951b2",
+      "count": 14,
+      "dynamicDisplayValues": 1
+    },
+    {
+      "file": "components/AssetAudioVolume.js",
+      "before": "dd2a58bf7d2e3f45e5afb4fb9b0eebb2c574cd0656c210ec82015368193b24a0",
+      "after": "7a570254d63f5a8a42681a333c121bad68e1af10292be63ea8eba5580275756e",
+      "count": 1,
+      "dynamicDisplayValues": 1
+    },
+    {
+      "file": "components/AssetSelector.js",
+      "before": "d45dcea3f8f300b8b0f4533ce4c6a65dfee276ec1044991bd8c57055e5e66847",
+      "after": "d1e4eea091f46b14f824779e31b09608a395cbb5a1f903560174e6a9ca2fb08e",
+      "count": 6,
+      "dynamicDisplayValues": 3
+    },
+    {
+      "file": "components/AssetSelectorItem.js",
+      "before": "bdadbb71ae63e66b702023a249279974e447efc3d8bb5228d345c40dc345a63e",
+      "after": "2d6971a8dec717071d7a97e1eff3a8b0e93ba6ce7b940506939607611fc6bdde",
+      "count": 14,
+      "dynamicDisplayValues": 10
+    },
+    {
+      "file": "components/AssetSelectorModal.js",
+      "before": "b6945705718d04bbfb0eb7eb7467b6eafb6fd53f541cce5a5793ce5a1acd9c05",
+      "after": "4b85020003df97cef2adef45edcc41d84bd41fd89e3d1befdca588c52065d92c",
+      "count": 10,
+      "dynamicDisplayValues": 6
+    },
+    {
+      "file": "components/AudioWaveform.js",
+      "before": "86cf3a693c510562a582479f1daf15180d288d84e6de09b61abef4da741f7a58",
+      "after": "d3dad12a55bc4348c76114980dd074f234c99e409cf8ee37ccdebf98a9770322",
+      "count": 0,
+      "dynamicDisplayValues": 1
+    },
+    {
+      "file": "components/BrowserStudioExperimentingNotice.js",
+      "before": "089ea3101852244b0784a16d36e8b37e586e52115a9a50b80c885f860817f635",
+      "after": "8e9a1480d72f5417bdf13f7125e468d9401e6ed197e57adf69a9a2b3649efb75",
+      "count": 9,
+      "dynamicDisplayValues": 6
+    },
+    {
+      "file": "components/Button.js",
+      "before": "8a1c24d46708814dc6c2f5452133233e0ddd3bd4ccea1703e64aa975aa40f0b0",
+      "after": "825783bcec7035bc0cc9ce005365465563323d607e2f8585b543038c5370bcb1",
+      "count": 0,
+      "dynamicDisplayValues": 2
+    },
+    {
+      "file": "components/Canvas.js",
+      "before": "21e27d86bf8c6cf010bc76d486dda28ba758ea49d0a24c3b13337577a7b56c26",
+      "after": "44896b3fa7e471dfafd26473f8c2343ebc5e63c4eed035309d3ec415dc059a0b",
+      "count": 0,
+      "dynamicDisplayValues": 2
+    },
+    {
+      "file": "components/CanvasOrLoading.js",
+      "before": "f23910454a09e105e224e0e2454ba1fea9c1aa8a638030953094401e90e05aed",
+      "after": "0fcbe99b71f0717b9e20c0332c7ce14edcfe8cdb440b35d06a18470f031f519e",
+      "count": 7,
+      "dynamicDisplayValues": 6
+    },
+    {
+      "file": "components/CanvasTabs.js",
+      "before": "b22f3365b9f7ce29ade7b2a8abb0996edc0c30c48d06f4c032de360a05d51af2",
+      "after": "1430547b87b7f665ea1fa5d6a146af9199c0e78e021153d99ac582d1f0b542ec",
+      "count": 4,
+      "dynamicDisplayValues": 5
+    },
+    {
+      "file": "components/CaptionInspector.js",
+      "before": "fef8c5ca56483e98055755e77f12c45dafeed2546d643968649fc5477104b531",
+      "after": "8b486507161b574c9a48f397e75b04e4a8a005bdc5e6bce1f804f29e4c9647d9",
+      "count": 6,
+      "dynamicDisplayValues": 2
+    },
+    {
+      "file": "components/CaptionTextEditor.js",
+      "before": "76b2ca2d5f3adb5c76eb71fdf7e3cb7c1cd90bd19fc3090336aae7383dbd80f6",
+      "after": "60a4aa08af9df4c888448e2f61270ace2bfea10d14a2cbee671f040fb86d4889",
+      "count": 6,
+      "dynamicDisplayValues": 4
+    },
+    {
+      "file": "components/CheckboardToggle.js",
+      "before": "7cdc220da6de5b2e2afe4964c14d219f5e8c58cff8932986734f8b36cd7dde56",
+      "after": "b36402927485255676414687f13d0414d841be7bc19a22886155ca077ea07c58",
+      "count": 2,
+      "dynamicDisplayValues": 2
+    },
+    {
+      "file": "components/Checkbox.js",
+      "before": "d2f1623f372d50e0a819eb319e7e164c2df2fb922b95b2e57f0d19836d488f29",
+      "after": "fe1a443845636e94143485e672569027a371ca36eff8960d09aa5a2bc502c451",
+      "count": 0,
+      "dynamicDisplayValues": 1
+    },
+    {
+      "file": "components/CheckerboardProvider.js",
+      "before": "7c73f71ff9f40c262057ec674e836d4c7616c93ce2c94105e374910374d3571d",
+      "after": "b980c81ca0ede6b417a1be1f9fd3e014fda911d5175c66e800e28d01f6bdf6d4",
+      "count": 0,
+      "dynamicDisplayValues": 1
+    },
+    {
+      "file": "components/CodeFrame.js",
+      "before": "886606a543374d29d450e18c8ccaafcbd07d406a223412b87bedb2a9b0d06920",
+      "after": "90f58646d976ed3b7191c4665f5b0327eafb7156e12c07904fc57bf6c1f80bdf",
+      "count": 0,
+      "dynamicDisplayValues": 2
+    },
+    {
+      "file": "components/CodingAgentButton.js",
+      "before": "fea36139c35456acf37e4a820bb2fe3f3fe1342a67e132ba7d91475d05fdd6e0",
+      "after": "4916ac5752a714332356da571b88b53e625eefcc49c4f98f343247b02fbf182e",
+      "count": 0,
+      "dynamicDisplayValues": 3
+    },
+    {
+      "file": "components/ColorPicker/AlphaSlider.js",
+      "before": "b15f286dc464dabb00d2d86b087909511e0fb2200eaf3923c53e33bca06fcd3e",
+      "after": "f7db009e0f98decc037ffd0b0ef6fc6ca7fa53c075dff273f77ac376379d8ae1",
+      "count": 0,
+      "dynamicDisplayValues": 1
+    },
+    {
+      "file": "components/ColorPicker/ColorPicker.js",
+      "before": "c765aaf3b6031cad9b9bc71df4e0643e59cd7d52b62db8115a65f93221ee2512",
+      "after": "b2255bc910486354e9171cfbe8a42ff252a82289a20306af6b030462f2b57def",
+      "count": 1,
+      "dynamicDisplayValues": 4
+    },
+    {
+      "file": "components/ColorPicker/ColorPickerPopup.js",
+      "before": "c2b57c1111a270244f57fa41d5e5c7b95e281029e370096a086e8b120fdd6073",
+      "after": "238613cedf1c05f749958d026e5194e2817d73d8497374497c77377c279e1adc",
+      "count": 2,
+      "dynamicDisplayValues": 7
+    },
+    {
+      "file": "components/ColorPicker/HueSlider.js",
+      "before": "3fe0321bb158209e78541a4760b1e77a0494a5c0645b5298d2d4a3ae6b5a0b99",
+      "after": "9b22d3dd9ca18afec49591ad0ecde1721a4fea42e1af7b61f1fd70681eef3c34",
+      "count": 0,
+      "dynamicDisplayValues": 1
+    },
+    {
+      "file": "components/ColorPicker/SaturationValueArea.js",
+      "before": "09f7740306fcb3698bef1c236630a2f29de0a13fcbfdbc60764c524db596e698",
+      "after": "8ec9f318c0ffb8f6142c72093dd69105328794f7cdfdc3563156fb06d3b88d63",
+      "count": 0,
+      "dynamicDisplayValues": 1
+    },
+    {
+      "file": "components/CompactExplanation.js",
+      "before": "a8d5ff215289509434e79e04ebd01742f05fccbf721ddfbc05fb82e9de92d505",
+      "after": "143575bd50e6a1cc902a92b48951a6dae20b013d24f6ba37c25456f53b068909",
+      "count": 1,
+      "dynamicDisplayValues": 3
+    },
+    {
+      "file": "components/composition-menu-items.js",
+      "before": "d85462db0940078e5827ed22607bb52ea9658058be00305abb907daa8a59a012",
+      "after": "881a6db25329b46a1412d61ebac286473ad8ac799aebcd746f1105de19c9f9d4",
+      "count": 19,
+      "dynamicDisplayValues": 8
+    },
+    {
+      "file": "components/CompositionContextButton.js",
+      "before": "48d5f7951bc7c1c2d898ef8d85cc5f60d4907f537d6232859eff1b75e674c64c",
+      "after": "d8219a9b2d104e95c8025d85a173d7e25fe5845ee993fa430b2f96731a208b83",
+      "count": 2,
+      "dynamicDisplayValues": 1
+    },
+    {
+      "file": "components/CompositionSelector.js",
+      "before": "a2d3023a4ce81cd1cff42434f19f86a4897addd88c45ffb5e852b24e9b701a7a",
+      "after": "efb2edc36ce63786aecdc3bde8bac4b1e524c68c481f974fc9b17cd7244e941e",
+      "count": 0,
+      "dynamicDisplayValues": 1
+    },
+    {
+      "file": "components/CompositionSelectorItem.js",
+      "before": "70c353ff79462786ee49b02db95197d128dd9c2f3b01d6d835532774abf568b0",
+      "after": "0ccf44061e61949049e923a146d0796bea035fa6c16fd3494236dd89ef650fd2",
+      "count": 0,
+      "dynamicDisplayValues": 5
+    },
+    {
+      "file": "components/CompSelectorRef.js",
+      "before": "104ae5a3aa12642f9e245661a14d95772494f7b73fea59aaa9ed62add530064f",
+      "after": "1e41ccc8e49019fc9ba0c6ea01f31511936f0dc538b37fca7690ff710b811716",
+      "count": 0,
+      "dynamicDisplayValues": 1
+    },
+    {
+      "file": "components/ConfigSelect.js",
+      "before": "35a84e2e261c85bfdac8a6b9781049cacf30bcfc2a87ab6f57acd2cee356d3ac",
+      "after": "e06e27c69d2da06a647341c1a3385df37af2d34d7a429861d82320c47dc6ae82",
+      "count": 3,
+      "dynamicDisplayValues": 4
+    },
+    {
+      "file": "components/ConfigureDefaultEditorModal.js",
+      "before": "95a78d5ae86c78f21dd6ee613c72204d8d440ffd7cbf34cbe1d06a7cb1f4a7f5",
+      "after": "d8fb4af54d2559e5566b21b7576db37a8f78c9f82915cb890d211141e73a2256",
+      "count": 10,
+      "dynamicDisplayValues": 5
+    },
+    {
+      "file": "components/ConfigureLicenseModal.js",
+      "before": "7ea76faeda31e2a019a0d35057dcf25fafb0660b93b23312dba2b4721edd20c3",
+      "after": "c2692ad19e7541bf0f9cbbd69adae071d9c575360e09c7aa79d9f1065efc5c25",
+      "count": 8,
+      "dynamicDisplayValues": 6
+    },
+    {
+      "file": "components/ConfirmationDialog.js",
+      "before": "c5e3e48abbe326c2de76158a3ec4f5604104ead618f570424adf51a00f86bacc",
+      "after": "47f5077f7348664e174c936d58d9324752055300327714be04971ae06c305cd2",
+      "count": 0,
+      "dynamicDisplayValues": 5
+    },
+    {
+      "file": "components/ContextMenu.js",
+      "before": "453ae8bd16b48d653988d34e98699d061eba907305b670d3caac0cdbd96c3252",
+      "after": "04ba448254d9e79bbe68c3e97e1112812af5946229de559eeb743057090dab0c",
+      "count": 0,
+      "dynamicDisplayValues": 2
+    },
+    {
+      "file": "components/CopyButton.js",
+      "before": "6b49d2494da7a2b300d410e5f7794b5204cb9c1582a8b63b519204235c9f8327",
+      "after": "37e1a1b2b52ba9986ba9f2e712d08f083283af17adf74703780d722ad48d45f7",
+      "count": 0,
+      "dynamicDisplayValues": 1
+    },
+    {
+      "file": "components/CurrentAsset.js",
+      "before": "8e9ad3aa89adc982319e88fe90b0c3a385df7dcef0718c5f154af24613e2b9f6",
+      "after": "9862fb5c97345fcfbe0a5465592b739da6a5ed2796c82b48be41429fd1632ec0",
+      "count": 22,
+      "dynamicDisplayValues": 12
+    },
+    {
+      "file": "components/Editor.js",
+      "before": "6e8811d13a36d297bf977f714ee2ff1ab6e2699d2d42d0d29efefc38f48c25c6",
+      "after": "ee3783ae8a6822594950fd6d142f0dbbe77d08a7cd90edf19eeae068a053c211",
+      "count": 0,
+      "dynamicDisplayValues": 3
+    },
+    {
+      "file": "components/EditorContent.js",
+      "before": "5a49bdc143f5af2729a53c24e9ea6102be1b3fd5d328b95341c1b75924b59832",
+      "after": "123fc6f84d60cae15ecb92559bf569728b8820bec7d760214c75ab24842f036a",
+      "count": 0,
+      "dynamicDisplayValues": 4
+    },
+    {
+      "file": "components/EditorContexts.js",
+      "before": "1e9b54302b7634ec876d28332e6fc48f76d3afb0e3a3a42694bb5975813e8977",
+      "after": "2b2b6a30a94de9116c39eed185f4d7baa6752122eb7a17c7e9035f45ec66dd8f",
+      "count": 0,
+      "dynamicDisplayValues": 1
+    },
+    {
+      "file": "components/EditorGuides/Guide.js",
+      "before": "4fef191ef0170805010f39284458e1d0cbfac6830049f4bba8c16a9f08182389",
+      "after": "97e2da563d4324c68d0f566bc442d7ae1403c4a846150dd1c8659d726fcf3b0b",
+      "count": 1,
+      "dynamicDisplayValues": 1
+    },
+    {
+      "file": "components/EditorGuides/index.js",
+      "before": "ac37919d4616a10e0e37cdd859991d2862c382c83322d32a65fe4cc8ba23bbe5",
+      "after": "5740f958fb49ffe7e9216a5f85287a8d8769c607a8904632e8ef80b5aa132f54",
+      "count": 0,
+      "dynamicDisplayValues": 1
+    },
+    {
+      "file": "components/EditorRuler/index.js",
+      "before": "c082cdbb818b214cc56cd782b37e63ff41a01dd0356ba9dba7fb0865a8ed892b",
+      "after": "76f944d92853090421475c57113793479ee836d5d5b30d245d2e4e01aed11cb8",
+      "count": 0,
+      "dynamicDisplayValues": 1
+    },
+    {
+      "file": "components/EditorRuler/Ruler.js",
+      "before": "1326acf11e1923faec36c174819463e7cc64c01efaf7ebeafef70ba3d1d9e182",
+      "after": "05589cee08822789f85f01b7b37ec5bc2fc380fd12fc839bc8cc980bb6100d4f",
+      "count": 3,
+      "dynamicDisplayValues": 1
+    },
+    {
+      "file": "components/EffectPickerModal.js",
+      "before": "047b88c58816d7d183ad67eba87b442247041b10f5ce004d4636212e76d5a5b9",
+      "after": "297aa24fda147301bdddcc3fd700b0c3f51ca4317dc0c19c4c32bd4e888d5522",
+      "count": 4,
+      "dynamicDisplayValues": 5
+    },
+    {
+      "file": "components/ElementInstallConfirmation.js",
+      "before": "fde6032995a296e717d63c8e7ac41f53df4b9ee2a68691bc4dbd749e1fbdfe43",
+      "after": "c64b1cf5c0a0151bcc26006cf81554571e2d3cf71e535cc9d7f70d117cfb4dcc",
+      "count": 30,
+      "dynamicDisplayValues": 13
+    },
+    {
+      "file": "components/ElementInstallRequestHandler.js",
+      "before": "81f75dc7994e543447abe14690c9928413d8fa42bcd11a5f6c6b318df23596a0",
+      "after": "952378ae0b20cfbc55366be2e1019b0591abac1047a4ccc3f1fded8f3aa63da2",
+      "count": 3,
+      "dynamicDisplayValues": 0
+    },
+    {
+      "file": "components/ElementLibrariesSettings.js",
+      "before": "39d304f85ed66e8dbfade3b497cee22f73eec025acf2d3fad1b40e3de69461df",
+      "after": "f5c54821f03a849b8eecd4237e599439f82fc10569c8bef8c2ff7fdad393281a",
+      "count": 14,
+      "dynamicDisplayValues": 11
+    },
+    {
+      "file": "components/ElementLibraryModal.js",
+      "before": "acc53a0388ece5fd9279a36283b59cdaace862c6e837cbb97bf0d885f5938b19",
+      "after": "482c3f7af8f21ed9fa59972aad4552d34681af5f425e1c91a847ad886d579155",
+      "count": 4,
+      "dynamicDisplayValues": 5
+    },
+    {
+      "file": "components/ExpandedTracksProvider.js",
+      "before": "75b2bf4984c17e0035b18f0ae10c287be772a4a1b307cabb91725743ce4e70da",
+      "after": "a4648ca241940a40e55a8a82b5da4ffe8f84d0f32870a57cac1a37951adab2f9",
+      "count": 0,
+      "dynamicDisplayValues": 1
+    },
+    {
+      "file": "components/ExplorerPanel.js",
+      "before": "63b319fa1aa77c91393a632253d2963399a1229382762ddf873287c21e2d7712",
+      "after": "60d943b021845cbec46e9e78344503aafbd686e522054ed9f1b9fed08e19be80",
+      "count": 2,
+      "dynamicDisplayValues": 1
+    },
+    {
+      "file": "components/FilePreview.js",
+      "before": "ea0231604f3b5736505cbbc9625c3102bb37d98514d358563a4b2dd846620a55",
+      "after": "a5b1f4dd2d0638cd8c4cec404141c39f3b57cc3373a82b79c5d57dcd52c027da",
+      "count": 3,
+      "dynamicDisplayValues": 3
+    },
+    {
+      "file": "components/FixComputedValueModal.js",
+      "before": "b373183115acd23122a5d3ff3f6d7a8f25d343239f1295d6b35bde9647752dc3",
+      "after": "514e69b7350209fa9eb0fe2fff637ee28633c13055dc3be4349253ec62b586ea",
+      "count": 6,
+      "dynamicDisplayValues": 2
+    },
+    {
+      "file": "components/folder-menu-items.js",
+      "before": "8edcccd745efee8999cd61f289ab03adc275661197de3ea28abc52d4fda3ca45",
+      "after": "40f7c8392a50099324aa38246c23ca025b0919e1cd1b4c1f99f05ed32705a96c",
+      "count": 15,
+      "dynamicDisplayValues": 8
+    },
+    {
+      "file": "components/FpsCounter.js",
+      "before": "c489d2cdce2c01dd26df45906986294f571e2c0b0f20aaacde5a5453fcd99df4",
+      "after": "d67b8878e1dc730c2f28338687fa4a7d09dd9241f8e3c05791e508a8965ee044",
+      "count": 1,
+      "dynamicDisplayValues": 1
+    },
+    {
+      "file": "components/FullscreenToggle.js",
+      "before": "ff57a9784bad2d1bdc09ac489fe668eb7a36863826087dec192f42b5cc6f35a7",
+      "after": "455962d6dae69350ca3f95ae92846903a7bfd9c9a67c35eeaacc20bc2224eebc",
+      "count": 2,
+      "dynamicDisplayValues": 2
+    },
+    {
+      "file": "components/GenerateWithAgentModal.js",
+      "before": "b7bb5ecc23237196bbf175aac3edbb65462cddc6e0b853fcceb6c99137fccd82",
+      "after": "9338d07efd8ea3e465fa3ffba38b65a88e0904a86d11ff38f3660d4e78aeb906",
+      "count": 2,
+      "dynamicDisplayValues": 1
+    },
+    {
+      "file": "components/get-annotate-with-chatgpt-menu-item.js",
+      "before": "a775b176c12b97f87f7940401cf054160cb19c07e9c13460a7d4f2f39d353903",
+      "after": "b0aa30ad505a6b375419a8db90bd580a63009fbc72f81f032a73626635005795",
+      "count": 1,
+      "dynamicDisplayValues": 0
+    },
+    {
+      "file": "components/get-open-in-menu-items.js",
+      "before": "6bd877a80760bdfee4e529186f213569737ebb8fb32bd6289aa0ba4d0b4c9011",
+      "after": "602c1c37fa8e843245050243e671d6f4d3dbcd7198923d4f8e0fcd3867fe9a75",
+      "count": 14,
+      "dynamicDisplayValues": 8
+    },
+    {
+      "file": "components/get-zod-if-possible.js",
+      "before": "058c86c2c6edfe921a35c344d17eb3aec659f622c702073d42aa5fe0900ba9bd",
+      "after": "0f634fd8ec494748bcde4a143fe9829a0fff1f69fc8c2a86eca961653d42a977",
+      "count": 0,
+      "dynamicDisplayValues": 1
+    },
+    {
+      "file": "components/HtmlInCanvasUnavailableModal.js",
+      "before": "3ac144cd5e880af32e8a32e1de2a5d8047e672fb728f07b15d594718d2abd185",
+      "after": "970f44f25b683e77d612865ffbf901f4f24d3eae4d579d961e5cbcf3c22d5276",
+      "count": 7,
+      "dynamicDisplayValues": 3
+    },
+    {
+      "file": "components/InlineAction.js",
+      "before": "0cb224369f2abb2679e682284e1481c1d50b676f27da87999fdcf2a429a4da7d",
+      "after": "8a1e71493858903b6a5e1b77816c357a58807a81b91192959fd9ae13fda5708c",
+      "count": 0,
+      "dynamicDisplayValues": 1
+    },
+    {
+      "file": "components/InlineCaptionInspector.js",
+      "before": "937247209efb612168dfe29a01cd4481ceb9617bce4384bfbd0832d2fe00c0b8",
+      "after": "c4f25e1c6b8b00a6884c472fb9b9e8b7a3b3d741856486a5dc57f02602f6aeca",
+      "count": 4,
+      "dynamicDisplayValues": 1
+    },
+    {
+      "file": "components/InlineDropdown.js",
+      "before": "fcf114484be1c90933a3cf0d3d23cd6e97a7ea9c8d15e9459f0f1ac930ad356e",
+      "after": "a3ec54a4cce6fe2a56336924ed3e194253a518ac08d49ee7deff0baf17d28206",
+      "count": 0,
+      "dynamicDisplayValues": 2
+    },
+    {
+      "file": "components/InlineEditableTitle.js",
+      "before": "ae10dba72c662c7495b97fb2ecf0f34d80aba6fcd3acbafd850e40f61bdb8305",
+      "after": "b8a3dc3862e76608e3e542fb360dbc2fe84df182811042aa79433a28df6747e4",
+      "count": 0,
+      "dynamicDisplayValues": 3
+    },
+    {
+      "file": "components/InspectorInfoHeader.js",
+      "before": "3e42f910876b7f11eaebc9f00ed553dc33af7be6405d9615456af9d634cba10a",
+      "after": "a608360c8cbc8db2827ee9c998ae8c60173965c3379fc0041e5780d3f3834a60",
+      "count": 0,
+      "dynamicDisplayValues": 3
+    },
+    {
+      "file": "components/InspectorLocationCopy.js",
+      "before": "f83ced7a376a583e69c77359ff737f9b6a20e5f1b9be45a3acb83fc762ba8b1d",
+      "after": "5fd55406c58a3d6c57a4227419ea32f848ea8cad4251d589391a4833bd1c41f7",
+      "count": 3,
+      "dynamicDisplayValues": 2
+    },
+    {
+      "file": "components/InspectorOpenInEditor.js",
+      "before": "adb2b8923236b551b40d57162d8d0948aae07966a6b2d21a847a665478eae732",
+      "after": "25d87ebe526c4ac78213851755580d21af0b62ae7258318d5cc6c35f6aad5ce6",
+      "count": 4,
+      "dynamicDisplayValues": 2
+    },
+    {
+      "file": "components/InspectorPanel/AlignmentControls.js",
+      "before": "139ace025014ef0b6872ede8274b21881d37e891577a5c25826678a6149e6257",
+      "after": "07187bf884d0f564a1806650cbab40389db6c689045e45a54e61961719ebf2b2",
+      "count": 6,
+      "dynamicDisplayValues": 3
+    },
+    {
+      "file": "components/InspectorPanel/AssetInspector.js",
+      "before": "b0af7f1b46d8ca15f0574d444a33b775a010f283ed39b9eedee7500f9052aca6",
+      "after": "67bb72f9ecb444f78e454660a3e20bef5361d791f5623262d8e1bbb9f6811292",
+      "count": 0,
+      "dynamicDisplayValues": 1
+    },
+    {
+      "file": "components/InspectorPanel/CollapsibleInspectorSection.js",
+      "before": "8453b544bd3e02a56d4aa6cbd97004c83ba4d3ea09406b440607c36b1a2f4eb1",
+      "after": "9d0034505f39fffe916593423f17057b80af52f301a00451c3b0ad62d451e8b9",
+      "count": 0,
+      "dynamicDisplayValues": 2
+    },
+    {
+      "file": "components/InspectorPanel/CollapsibleInspectorSectionHeader.js",
+      "before": "1bb148ce2f92d7e86915b81ef87856d0ac3b01dcc80447185265caa5926ae747",
+      "after": "7d74b6d58a94a65a9514e45d92b7fe2bf4f4a202a9a2559e9f1830c94f7ba0fb",
+      "count": 2,
+      "dynamicDisplayValues": 4
+    },
+    {
+      "file": "components/InspectorPanel/common.js",
+      "before": "7d7c10e233dd7059ef52fb1875a0eb3c181ffce70996dabe1c8f34afdf40ed6b",
+      "after": "250be044717ec260da94ffd4ac88c6059d0961a294980ddd9de98c971ea347b3",
+      "count": 1,
+      "dynamicDisplayValues": 18
+    },
+    {
+      "file": "components/InspectorPanel/CompositionInspector.js",
+      "before": "0b9be10f58747001f04fcdfb95ce42ecc1a02681f10513ee0e0fe20fd129ba38",
+      "after": "6df6c0fad88f43f249ab66452accae1664f93dd51583131d389542dc1667af37",
+      "count": 15,
+      "dynamicDisplayValues": 7
+    },
+    {
+      "file": "components/InspectorPanel/CompositionInspectorHeader.js",
+      "before": "2f79c5769e20a3e70cfea624423f86bb0c3b34e30c75b06fafd5fe185ec63aa7",
+      "after": "1c2a4ff06f584332c48006374930dd0ab812e547228578a450baed1a50d38ec2",
+      "count": 0,
+      "dynamicDisplayValues": 1
+    },
+    {
+      "file": "components/InspectorPanel/CompositionMetadata.js",
+      "before": "9588a4f7598ee2e5caee3d13430f83771a7a4f53cdf74abd667b7e3e5443cf76",
+      "after": "7c75fa7f262ce564417437e6aa8dc09b4d4419a74e2adfb5aa8318693548d799",
+      "count": 16,
+      "dynamicDisplayValues": 13
+    },
+    {
+      "file": "components/InspectorPanel/ConnectedCompositionsSection.js",
+      "before": "40f881af73b7bca13b475487207d27895cbad366acef62e784fd7d9ba1411053",
+      "after": "80c463ebcf6df247c28c36b7adaee4a5b07168c0ca134a98c50ddda37b8868c1",
+      "count": 1,
+      "dynamicDisplayValues": 2
+    },
+    {
+      "file": "components/InspectorPanel/EasingInspector.js",
+      "before": "a34fd793e22b23f898ac1822946af3e7829dbafe81651ce3a2c113640d810a89",
+      "after": "d7c9697117511360a9abdd205d73dee5250143c315f58dc957c1e2dce8387433",
+      "count": 3,
+      "dynamicDisplayValues": 2
+    },
+    {
+      "file": "components/InspectorPanel/ElementLibraryButton.js",
+      "before": "1712e6cb18e5d0369fdfeb3b6bc62485df86b3de14dd726516efadd61b9d56cb",
+      "after": "9272ff87212c1376574ef6e5b8218fb9ed3fe7039bb0d20a72065da795522522",
+      "count": 6,
+      "dynamicDisplayValues": 2
+    },
+    {
+      "file": "components/InspectorPanel/GuideInspector.js",
+      "before": "d03bb20826bbe082e5e7908ddb04980c9b0df7bc8510238676c8a5103d07534b",
+      "after": "bd0431c41dfeb7b3ef3cc8c2a063a56f80bf55ae63e677f5951101a0aafabf0e",
+      "count": 6,
+      "dynamicDisplayValues": 3
+    },
+    {
+      "file": "components/InspectorPanel/KeyframeEasingNavigator.js",
+      "before": "2ed206ae950bcb009094c67536fdd7cee53f32759666741604dd257763078b7a",
+      "after": "623a78699ce9231ffab2a6c264cbd55654f32c853847517b543f12b9836a7c95",
+      "count": 4,
+      "dynamicDisplayValues": 4
+    },
+    {
+      "file": "components/InspectorPanel/KeyframeInspector.js",
+      "before": "58e9ef08ab8c15d79a08a6d5486eff1fb583bf77aa19d09f4b83b92b5e2647e0",
+      "after": "d7f1446759f99def69e6103e362d87b62b5b6fd0a52d54ff873aa93b340df252",
+      "count": 4,
+      "dynamicDisplayValues": 6
+    },
+    {
+      "file": "components/InspectorPanel/KeyframeSettings.js",
+      "before": "bb027bd3537ff7e61082066656c3a76d37bae6b9fb39676e4cf252dc215bf8ed",
+      "after": "6d34fe7e92feb843e6fb4210bab7daa2f57ff0a1654e4f8b15a4c5398e82bb2d",
+      "count": 8,
+      "dynamicDisplayValues": 6
+    },
+    {
+      "file": "components/InspectorPanel/MultiSequenceField.js",
+      "before": "207132f1b1a96b236d046a9d988ca067f77a850bb41f1dbb1aae1dca0f0070c8",
+      "after": "f4a7f4237b1704fa4cf3e8d933e132464e5ccf4c2a8b276477b3456f3a82915d",
+      "count": 7,
+      "dynamicDisplayValues": 3
+    },
+    {
+      "file": "components/InspectorPanel/MultiSequenceInspector.js",
+      "before": "667f5a7dae568b49d0c06620ee417f0286436c21e77111d52693829ae72bbfe0",
+      "after": "7ce5f5e53c0680e751c4a91fe2afd5f0adc293660f09be178016601bd9490351",
+      "count": 6,
+      "dynamicDisplayValues": 5
+    },
+    {
+      "file": "components/InspectorPanel/MultiSequenceNumberField.js",
+      "before": "3e4bc42133b4eb65a55b58474e020f04d540bad8fee5ea1a163390d0b0adbd38",
+      "after": "256ab731620c6ddcdcec17dc0c3efe836a2377112fbbe6b009a0cd8c034e059c",
+      "count": 1,
+      "dynamicDisplayValues": 2
+    },
+    {
+      "file": "components/InspectorPanel/SelectedInspector.js",
+      "before": "4d6544564f0f0d70e6e66838720a85952c0609b7083338a0fe5bdcfc7374828e",
+      "after": "a325693dfb227873873c08fe61c46b77b2d443948c4f3a7d86b0fb2e0299c46f",
+      "count": 1,
+      "dynamicDisplayValues": 0
+    },
+    {
+      "file": "components/InspectorPanel/SequenceInspectorHeader.js",
+      "before": "4e26ac0d9644de5eb469643ffc4bcc84a2387f9682c1add53fb69d8821e5cef9",
+      "after": "77fd94020366f7a3f32ccbfe42853993b3bfc9e4b55dcd52cd8214c09ba72f1a",
+      "count": 2,
+      "dynamicDisplayValues": 5
+    },
+    {
+      "file": "components/InspectorPanel/SequencePrecomposeAction.js",
+      "before": "c69ecff63127d6e8a9d5da7f7ff5e93de1cefdcb7e00a0d7e69d97e9a0d63e07",
+      "after": "634bdb21b11055e8add0a67c1217c6efacd77859861c5e1793ffc6802caea3e0",
+      "count": 1,
+      "dynamicDisplayValues": 0
+    },
+    {
+      "file": "components/InspectorPanel/SequenceSelectionInspector.js",
+      "before": "2e99c9dd71cd7dedab8b5038c0c5bd4432366836b07c4575bd7b277d50720e57",
+      "after": "1f588980154cff551713f113beadd80c3c5702819451effc13cfc5a3e057998c",
+      "count": 12,
+      "dynamicDisplayValues": 10
+    },
+    {
+      "file": "components/InspectorPanel/SequenceWrapAction.js",
+      "before": "86352d9726936de6ab570daff44392bf65f420002724bc27f048b32fc8087266",
+      "after": "44e7577602822e5d71f6dd7e1ac4e36bcb8b2eb0864b62588ff8fc04332479f1",
+      "count": 2,
+      "dynamicDisplayValues": 2
+    },
+    {
+      "file": "components/InspectorPanel.js",
+      "before": "75892ba4048e746f7a01e1de129929c647ae2d7f99d5fa05785b2d853f7e1529",
+      "after": "8ce86c248020f5040b8600f9a81e9691da0c615a36780aab977ce7f11d330d34",
+      "count": 1,
+      "dynamicDisplayValues": 3
+    },
+    {
+      "file": "components/InspectorSequenceSection.js",
+      "before": "825ab11e0e9405bd90af9777480762c03675d31c3ec16da5133beb4796538acd",
+      "after": "25a633064f5e633a390c95954e44f695f1332f70953e6604cd472ab22881242e",
+      "count": 11,
+      "dynamicDisplayValues": 14
+    },
+    {
+      "file": "components/InspectorSourceLocation.js",
+      "before": "c066b1724b7c5c510118b077cdb904e2fa0120a4090b2d7d429a710b0896da83",
+      "after": "3f50ce2fc5ff24e363ca24a8336359c313a84f72a8b66085bf57ffafe6258e44",
+      "count": 0,
+      "dynamicDisplayValues": 4
+    },
+    {
+      "file": "components/InstallablePackage.js",
+      "before": "a4a73fd97118aeefcbbac661c43f258d8d0167ffbdfc0e10533b4cf6e707280d",
+      "after": "fbc359f087558f31a6db49d18cd321b6c099fde2e648dc69dd6f06dfb7a3498c",
+      "count": 2,
+      "dynamicDisplayValues": 3
+    },
+    {
+      "file": "components/InstallPackage.js",
+      "before": "e303f9bff88043380ab5bbf99959107e72a3bfa74d5a056d93ff95852bce91f5",
+      "after": "5217b366e951d80bcdf7e0a09e83f0963b7260909072bea3f3ac822ba8067979",
+      "count": 18,
+      "dynamicDisplayValues": 6
+    },
+    {
+      "file": "components/KeyboardShortcutLabel.js",
+      "before": "44230c155d5b622a917354bd0b90479e18dfb9ebd70e6b088eba032069a84e7f",
+      "after": "034e3a2353dccd855774647d63a2b23d0a20b1fbda92877e34c98801a4a5ca36",
+      "count": 0,
+      "dynamicDisplayValues": 3
+    },
+    {
+      "file": "components/KeyboardShortcutsSettings.js",
+      "before": "ff63bcc0f6c4af5d83b798d1b0c3fd01cd40c0331e0c5e19a62510a620982782",
+      "after": "7c947e0143af8b09059524f23947e910d23eccdb850c45d9f9ba0d261f4bea9a",
+      "count": 10,
+      "dynamicDisplayValues": 10
+    },
+    {
+      "file": "components/KnownBugs.js",
+      "before": "4fa821f8d794207cadbe7214a7ea62c4c948e8e848ab44ca2f57a925e3aa4934",
+      "after": "53e3b0f9d46b3eeec0af932a8a3d940afc78bbd540e1da583bd64e9f5aa0d173",
+      "count": 0,
+      "dynamicDisplayValues": 2
+    },
+    {
+      "file": "components/layout.js",
+      "before": "b77f37c1c13f4cfea174811506c183a13d425918bc1c26bc1a0a9e30b2b174ce",
+      "after": "fa269d542381ff5ae05ce94c71b7108ee529a1934099316c08df22c0c1262ce8",
+      "count": 0,
+      "dynamicDisplayValues": 3
+    },
+    {
+      "file": "components/LazySyntaxHighlightedSource.js",
+      "before": "71bc1fd08883d1490bce5fb92354ddedfd3b44984ea024c7975d390a4231c7c3",
+      "after": "7050ee06093b8ce7b0370d2c8b4ae62e1249af71e610fd4458753e5d961bd46a",
+      "count": 0,
+      "dynamicDisplayValues": 1
+    },
+    {
+      "file": "components/LicenseExplanation.js",
+      "before": "efeb43c5b37ce9ca5aaa32a738fef3c170550375a4143c7f5defeeb7e4a471ee",
+      "after": "c70972741d40a8b637c3bb84975dc687f260bcd1089af76d7779499962571d73",
+      "count": 5,
+      "dynamicDisplayValues": 5
+    },
+    {
+      "file": "components/LicenseKeyValidation.js",
+      "before": "bdff0b7bb3d7d1f002008cff89cacbc3b0ea1eb1afe2472483481d7384f39cd2",
+      "after": "d031fca7933bdc3e5631e28b4b547972b5aba07787fdfb18718bb79907cbc600",
+      "count": 11,
+      "dynamicDisplayValues": 3
+    },
+    {
+      "file": "components/LoopToggle.js",
+      "before": "17304ac424cc33fff6daa6cd491dbc864b03660f7b2bfc928faf9c44e1eac613",
+      "after": "827b2626521638b91a111a42aef8b9e736983cb9255f6d4f618218ac82335aa8",
+      "count": 1,
+      "dynamicDisplayValues": 3
+    },
+    {
+      "file": "components/LutPreview.js",
+      "before": "1c68ffcb2f59f57b533497b7370549a9bc9c537ec8be55721754e3c81a73f76c",
+      "after": "d977f29b415ccef25e65b2bc7564d3fac14da30bdc08e9de9632d0800d84c895",
+      "count": 5,
+      "dynamicDisplayValues": 3
+    },
+    {
+      "file": "components/MediaVolumeProvider.js",
+      "before": "ee83af3df0cd7e4e5ea3a0532cb6453c41b8fd0a41c47737f58ede95a557780a",
+      "after": "e18de9a253330d1b65a7f7f43f4ae47bc0584d50ad98dd7416b0299b04aa7ed7",
+      "count": 0,
+      "dynamicDisplayValues": 1
+    },
+    {
+      "file": "components/Menu/MenuItem.js",
+      "before": "d96f1f09b8248edbc7ce7b81489048d3f4d961a984005d91555b34c19b543ef6",
+      "after": "c4286da85183546b90fa6ab8f950d17e1b78488bf1a802e11c9ad61be12d779a",
+      "count": 0,
+      "dynamicDisplayValues": 2
+    },
+    {
+      "file": "components/Menu/MenuSectionHeader.js",
+      "before": "702fa352e8cb45b85182b2089a73e3e029a34ff7cd7fd155720ac36f54d6cadd",
+      "after": "25395bb1f6cffc500fa55898ff1dc47929a91db8f93eda26663d71dc85964615",
+      "count": 0,
+      "dynamicDisplayValues": 1
+    },
+    {
+      "file": "components/Menu/MenuSubItem.js",
+      "before": "9e4f828583eb6977f493d51c2556e760a7cb8ba8a0d2e89a9573bdff5baafe76",
+      "after": "234716818eb1e7272f310689d0a8273c7507be5ec07560d78c8e7d36c65a290f",
+      "count": 0,
+      "dynamicDisplayValues": 3
+    },
+    {
+      "file": "components/Menu/SubMenu.js",
+      "before": "0f0ad2c9a9b1dcd60fa2fc8a0ca3f4233a411e6e7a5cc21c0825fb25f49731e7",
+      "after": "1ab9c7ee93d7c07447c996e0ea68648e61548a5bab6d7a89796a80167b886cc9",
+      "count": 0,
+      "dynamicDisplayValues": 1
+    },
+    {
+      "file": "components/MenuBuildIndicator.js",
+      "before": "ea5e716f738be192f249f6cf80d6acec2c65b3fdc36df90e15decb82f8db150d",
+      "after": "3ea2a1212f5b0c7b6d8809d9dbe945e9aff90fdc6c22f74c93a42605b3ae59e4",
+      "count": 0,
+      "dynamicDisplayValues": 4
+    },
+    {
+      "file": "components/MenuToolbar.js",
+      "before": "902cd6c676b1b527f52a4ea9d06460241ec8ee6005f9e1873a75325f031deea4",
+      "after": "f38b3eadc1ec770321369088ffee74fd3375514059c8f5b3490210eb57a53d42",
+      "count": 2,
+      "dynamicDisplayValues": 3
+    },
+    {
+      "file": "components/MobilePanel.js",
+      "before": "0663147d1c87281f4240a3a9f8f0d314186d8c6433ed94fae299747644291278",
+      "after": "edc69d837754b73cda2b91736666c6086631abb211f5b90b0981db7e340e17d6",
+      "count": 0,
+      "dynamicDisplayValues": 1
+    },
+    {
+      "file": "components/ModalContainer.js",
+      "before": "97212abc4e62551c73c12fbb4b1aca6dba30ec220e3655fe05fd4e0e8108ce4c",
+      "after": "532edc03cf3f0529011334f27175c7e7008dfa6cc33a049a5f942ad62ad30bc5",
+      "count": 0,
+      "dynamicDisplayValues": 2
+    },
+    {
+      "file": "components/ModalFooter.js",
+      "before": "b18fb0c65092b88c4c718cfec5554337f1d319ff1a1fdce01132b7d34d2aea02",
+      "after": "7708b6c515fca1d8460006756fb32a8fdba0a059db158215bcd2a1316bc0271c",
+      "count": 0,
+      "dynamicDisplayValues": 1
+    },
+    {
+      "file": "components/ModalHeader.js",
+      "before": "e19323137a7fbccd9c0d0717e23fced129fc3a1741388315ba82097dc089e947",
+      "after": "41a3d6bb34c11f15083bf797d09cff806984fde46efe724f221f127e1d1851b0",
+      "count": 0,
+      "dynamicDisplayValues": 1
+    },
+    {
+      "file": "components/Modals.js",
+      "before": "91df977e05613df454012454358d4f43d047d67b0055af648a86f8b0a901ce47",
+      "after": "9742d9af5a8b189d37a5f9e4ee2ba4222bea29c781628d61696cd91edc1795ec",
+      "count": 4,
+      "dynamicDisplayValues": 1
+    },
+    {
+      "file": "components/ModalsProvider.js",
+      "before": "b232af97dd462c58b192cbc89d6260a9e3bfd90ec34f0cbcbebf865ce171a1d8",
+      "after": "a372a8e349b5d81bb8ea2758dbfa0553554ae4c0059c540a6745260620f7bf4b",
+      "count": 0,
+      "dynamicDisplayValues": 1
+    },
+    {
+      "file": "components/ModelManager.js",
+      "before": "52919454df19eded7e1fd15cca065320f6e4bca512dc4ce618c8292d23d4e637",
+      "after": "051b2963f26e4856c557a9f1bb81a4d64f80aeb94c83efd69e962fbac2e38fa9",
+      "count": 4,
+      "dynamicDisplayValues": 8
+    },
+    {
+      "file": "components/ModelsSettings.js",
+      "before": "0a03b428d1a1cdca6d168b2517cf32fb7c73d6fe436166694e0ca58c3bcc618a",
+      "after": "e60535a3a0b8f55f36f31e89aa6dee8623237e1de631f90141260673932323de",
+      "count": 9,
+      "dynamicDisplayValues": 8
+    },
+    {
+      "file": "components/MuteToggle.js",
+      "before": "29bb20368ae9c9ad1ec416515b1d6e4b29977db5679530d8527adbd90dcc09a0",
+      "after": "f1fef8749b34822a976c38c0f8f8934dfdfacfb02a7b1360d955770a2d698cbd",
+      "count": 3,
+      "dynamicDisplayValues": 2
+    },
+    {
+      "file": "components/NewComposition/CancelButton.js",
+      "before": "dcbaa048396f95085bbe39d112949d48a1dc802d21766d37fbbfc72b5ba5b144",
+      "after": "4563e72e41aec85278a9d9476758c3f1e82e5c9d0da119b839dda642fba9da40",
+      "count": 1,
+      "dynamicDisplayValues": 2
+    },
+    {
+      "file": "components/NewComposition/ComboBox.js",
+      "before": "ae2042b3821bbe9193577abbfc4f23ba99394338ff0391e41e8422bdc9f30fc6",
+      "after": "899127b132ac2dea1d80da82e51d387093df0aeffbb8c288396d1e2b26a5a274",
+      "count": 0,
+      "dynamicDisplayValues": 4
+    },
+    {
+      "file": "components/NewComposition/CompositionEditFooter.js",
+      "before": "b57762dcd9678ec6523273c12f61434a89ed7475f7d169ea7454e275e2652f1d",
+      "after": "0eee5c92968f292f2b95facc0c6900b9d47b14cd294c6e3d5aaf273c12350ee7",
+      "count": 1,
+      "dynamicDisplayValues": 1
+    },
+    {
+      "file": "components/NewComposition/DeleteComposition.js",
+      "before": "639ba9363a0145ad885b2279f44b04ba2db0bca9cce330d1e88d787c1830dbf3",
+      "after": "7f77fec42508a4787ac92625d0b9ff3011c3ac083ea7a7c381374697ef816462",
+      "count": 6,
+      "dynamicDisplayValues": 3
+    },
+    {
+      "file": "components/NewComposition/DeleteFolder.js",
+      "before": "0e1759a839be10a370d5879948597594c97a24d820b009b6c6b2c648c13ed416",
+      "after": "970d99e4734dba63474253f59d2372510f2bf2b4264b6dfded8f4bbb84c5458c",
+      "count": 5,
+      "dynamicDisplayValues": 2
+    },
+    {
+      "file": "components/NewComposition/DismissableModal.js",
+      "before": "0f4a97c2c646f8b98583ebecf0d27429a748f4b43609f6fd8295ffced326b4b7",
+      "after": "8790d80cd68ca9ce724c82c26df66bab1945cc9c9cf6218252c49eccf588113f",
+      "count": 0,
+      "dynamicDisplayValues": 2
+    },
+    {
+      "file": "components/NewComposition/DuplicateComposition.js",
+      "before": "ee2ce77ab6867c0a4a63d236ff84b6839d2ec10cf156bb847b1f64b727162c4d",
+      "after": "93f6994b54cf13ddcdface7a4c99c0fc21669322aafd6fd0c7141ba3390b2f23",
+      "count": 10,
+      "dynamicDisplayValues": 8
+    },
+    {
+      "file": "components/NewComposition/InputAndValidationContainer.js",
+      "before": "d98c41c68a460fe021435abd7d945e6f219cb4ae3626698f6cd769165c866707",
+      "after": "2f1a9af2c53ff572df348e41539662ff703f2ee1ae3ea97f178297deda91a938",
+      "count": 0,
+      "dynamicDisplayValues": 1
+    },
+    {
+      "file": "components/NewComposition/InputDragger.js",
+      "before": "9823f2e2a4c025c75d4e2354e7efd0427cc02be391351026a46b97e307ed6a25",
+      "after": "20e4c48fa42782b3339a7e9bffada53edf834d3ddcff0ed18eaa34433ea19198",
+      "count": 8,
+      "dynamicDisplayValues": 4
+    },
+    {
+      "file": "components/NewComposition/MenuContent.js",
+      "before": "e74cd59af175679e9f7d13709dbbac895ffde144ff3f7ddb69e41a93e65b3b3e",
+      "after": "dc971549dff15b6950ee0121cd16da01b93ee02d2b004a79ee08a7b024e6ff4d",
+      "count": 0,
+      "dynamicDisplayValues": 2
+    },
+    {
+      "file": "components/NewComposition/NewCompDuration.js",
+      "before": "be7bc49407a83c3dd6282ba357077984373e10a62266457fb756de5874b1869e",
+      "after": "fc0cb605ae3a706a369740679c489ba8ff31d0acc36dfaefbe216cc664fbed12",
+      "count": 3,
+      "dynamicDisplayValues": 1
+    },
+    {
+      "file": "components/NewComposition/NewComposition.js",
+      "before": "5a3e7c9c303161a402efb2318fc3b14ba220ed0c69ef8aa883731e89bf48fa87",
+      "after": "a6f70bd46a871e97580c1fb3401be4ce27e897621d7e07156bd25a76406d5d94",
+      "count": 16,
+      "dynamicDisplayValues": 12
+    },
+    {
+      "file": "components/NewComposition/NewFolder.js",
+      "before": "b7fbfd325e39dd28a98547e4355692a06784c298d7e56a0df19a24ff206546a4",
+      "after": "d8754b273d7a34cef15663e1f2f4c80dae19f0d5d28af6e8a849a689351095a1",
+      "count": 4,
+      "dynamicDisplayValues": 3
+    },
+    {
+      "file": "components/NewComposition/RemInput.js",
+      "before": "fb08edf29019fb9c0aeb5b9577c06ed1ce9196fe0a219242ee02c5695cd2bad7",
+      "after": "f966166bce8c94a97ba5ca3df7bbe891dfb73793d4437180cc4f6a1434d5c75f",
+      "count": 0,
+      "dynamicDisplayValues": 1
+    },
+    {
+      "file": "components/NewComposition/RenameComposition.js",
+      "before": "31535a5aed2ee5d4be97d56666d1c12206d4d391d21c65747a94c6c073cfe3ae",
+      "after": "2ce26c9f2d648e0dfdd1b9c890da9084cc78b5c4f38e53d6f3e97ce30324eee6",
+      "count": 2,
+      "dynamicDisplayValues": 4
+    },
+    {
+      "file": "components/NewComposition/RenameFolder.js",
+      "before": "3392d355eec91f488b69048c49dc3a0badab394ba1c76bd7670fa5336a26e098",
+      "after": "a7d0ba8863cd2b6d963552c8353926f4cdf5ef7f3ba5c91a551f00be6e64b31a",
+      "count": 3,
+      "dynamicDisplayValues": 3
+    },
+    {
+      "file": "components/NewComposition/RenameStaticFile.js",
+      "before": "7450291330a52583bb270d740639cdbcbfc403f3eac86c461d736160d8245282",
+      "after": "e650faef624c5b0c19ad50373cea79ab47c4288d342f25ef619d8c1a7bda458e",
+      "count": 5,
+      "dynamicDisplayValues": 3
+    },
+    {
+      "file": "components/NewComposition/SlugPreview.js",
+      "before": "11b8eb0d8ca587af60dfaabb774630bb97e0d670c1edee2ca565c6c189881d4f",
+      "after": "d2b146953124ae72007223b0299caac7d804ed90ad9a2c8bc813ce870ed445e3",
+      "count": 3,
+      "dynamicDisplayValues": 1
+    },
+    {
+      "file": "components/NewComposition/ValidationMessage.js",
+      "before": "27cbedbdedb871f8d76747fdffb922e3433f42afe6a3fd3bc5f07d24b886e8dd",
+      "after": "0b7eea4625932423f7cfa6411837aaa926c0a8c21733228b771b462cbf8af7b7",
+      "count": 0,
+      "dynamicDisplayValues": 3
+    },
+    {
+      "file": "components/NoRegisterRoot.js",
+      "before": "9b634586ccfcfffcc155188bd2be7e08b3fa25fab2bec2716c97f516c2b59924",
+      "after": "70bf298622cab5d112654fe263186e8902237f898c8caa52c4e4ec2ed9857d51",
+      "count": 2,
+      "dynamicDisplayValues": 1
+    },
+    {
+      "file": "components/Notifications/Notification.js",
+      "before": "ee7892a50107b4e02c2704271a9a22c203382015a6fbd52577a795ec3c460e9c",
+      "after": "fb3f95a0cb76070a9539353848c747376d2d4c59279f9d4306d5404c29956344",
+      "count": 0,
+      "dynamicDisplayValues": 1
+    },
+    {
+      "file": "components/Notifications/NotificationCenter.js",
+      "before": "0c1c77d180830660c832f90826547a02f80702c31dc0a87e8bd4ea187aedb33e",
+      "after": "e6e86927628ee9a2314240d1e73d8bf765cda1f6a95639499da4ca90c979f183",
+      "count": 0,
+      "dynamicDisplayValues": 1
+    },
+    {
+      "file": "components/Notifications/ServerDisconnected.js",
+      "before": "cdc7ee770d035b8395efe4e28933f418c83594f21a4db10e05ef06a6d6cb90ca",
+      "after": "33400347000e327c9c7701b988fb033afc49c0dab79c7584c501893f8aa1930b",
+      "count": 5,
+      "dynamicDisplayValues": 2
+    },
+    {
+      "file": "components/ObserveDefaultPropsContext.js",
+      "before": "d769566fe148abdf7ba21fca95baa36d766e3b70f9fcd9c787a05db3f78cd0bb",
+      "after": "87eb9bacb1c58b26b2d72775d7243423ac488f21b4110789b4c13e03640cf223",
+      "count": 0,
+      "dynamicDisplayValues": 1
+    },
+    {
+      "file": "components/open-in-new-window.js",
+      "before": "ee89be9b162bb47d44fabcc7e3f287a3cac64a556a2aa56059ca496c48d4a334",
+      "after": "63af66f5fbe4b80d18912a0be6ab06418fed947aca74f71b67c9afe04c9aa993",
+      "count": 1,
+      "dynamicDisplayValues": 0
+    },
+    {
+      "file": "components/OpenIssueButton.js",
+      "before": "3421f75bdeda9e4b8ae3732b8548f012abf1c5e1fefa51a84afc8a69075062c1",
+      "after": "d84ceb8e282ee09c8dbcc1ab5ce4bc04aa94e4577d8dc2af67bcf55ec77adc87",
+      "count": 1,
+      "dynamicDisplayValues": 3
+    },
+    {
+      "file": "components/OptionalPackageModal.js",
+      "before": "9118751be55710c2457b1c560bfaa2aa1fc4381bfb45869b7ea7af407258fd79",
+      "after": "9f0696fd6238ac5650c76b5395630ed219b1c1fb56a55bd443f15d47f765e136",
+      "count": 6,
+      "dynamicDisplayValues": 6
+    },
+    {
+      "file": "components/OptionsPanel.js",
+      "before": "bc55ab035b1115921fca5ee1a02c0a04f60b112283fb9c5962805f54034a193c",
+      "after": "8373d9578b238857a18925c235d410396bf148c45ea1fba22f1b3891dcb07544",
+      "count": 1,
+      "dynamicDisplayValues": 1
+    },
+    {
+      "file": "components/OutlineToggle.js",
+      "before": "d015574370b512d1822500cc09fa1ee3e6b2cc318a4ce9fd4c4798c685115df7",
+      "after": "42653e0083298ecb5409a1b17e50ede48c10083a9897bffa224bde69590f299c",
+      "count": 3,
+      "dynamicDisplayValues": 2
+    },
+    {
+      "file": "components/OverrideInputProps.js",
+      "before": "3b39c8a9d5343734acb2aaa2ff49af107f8bb712b32b05307d21c874d3c79b29",
+      "after": "fb8b3b9065f99b8f376e11092a8890192365487f336f447dcd85359bba383d60",
+      "count": 5,
+      "dynamicDisplayValues": 3
+    },
+    {
+      "file": "components/PlaybackRateSelector.js",
+      "before": "2eaa99f97f5d56d4a439a4e81a1abc1436d9fdcbd89c28dba3bc87fdc7604927",
+      "after": "3cfc811c88249e12ce8c1230f44f5dca8c05c0cb0e2a189c677eb50ee4afa064",
+      "count": 1,
+      "dynamicDisplayValues": 2
+    },
+    {
+      "file": "components/PlayPause.js",
+      "before": "e0c4957fc1b1335f2bd14c43e4824378d8bf39cf460afb3aa79dc16f3516162d",
+      "after": "000fab1d2cc2a96c4f190b59fc12404aa5f18dfcf1515f1e5181d7e65ba41567",
+      "count": 10,
+      "dynamicDisplayValues": 6
+    },
+    {
+      "file": "components/PrecomposeRefactorModal.js",
+      "before": "ace0184728b864036c6f049cdec2a573bf6c1df067c33b5f19f7593717d403dd",
+      "after": "5e3c5604431d7685066e6577854484334d8aa5cc9847d663ac760032fd7efca7",
+      "count": 6,
+      "dynamicDisplayValues": 1
+    },
+    {
+      "file": "components/Preview.js",
+      "before": "6034440b984e2efb6baa93449677426107fe4b67c3b2dfde249c4bcb4eaa0961",
+      "after": "48bd22a25a993b7864cc22404b350b2b2eabe75462be18f6931e50491f819807",
+      "count": 2,
+      "dynamicDisplayValues": 9
+    },
+    {
+      "file": "components/PreviewToolbar.js",
+      "before": "b92709d525943c73e6cf5cc630ca208ff948de3da29dbe9dd046434bc096fb0a",
+      "after": "9452b8d1a9ae1f463e6ca43dba7083794aa1f966f8b710133e74b80d042e0a64",
+      "count": 0,
+      "dynamicDisplayValues": 15
+    },
+    {
+      "file": "components/PreviewToolbarOverflowButton.js",
+      "before": "19e66304c3e81134f0db05827636bbb57f1e5fbcc10fb60d06cc6017731e7579",
+      "after": "2ede7d403d6d938cecc759194e198091a5f9b6e844efd8381c6b1990dfd85ed3",
+      "count": 11,
+      "dynamicDisplayValues": 1
+    },
+    {
+      "file": "components/PreviewViewOptionsDropdown.js",
+      "before": "59e974669504e2ce8ee9781da714c985fea8543bd2f6fa05766ee02fbc2894be",
+      "after": "06c16b8c5227bb58726cda4f7be112114566e349a776e75805057f9aa321109c",
+      "count": 6,
+      "dynamicDisplayValues": 2
+    },
+    {
+      "file": "components/QuickSwitcher/algolia-search.js",
+      "before": "a952b73a6b46a92e339c5d9f91b8a7f933a2a2c79d769765c7b982ac92e64819",
+      "after": "2f6d0ea256f237537dcd040d57ee84539f0a464495f01bbc7e2733f77d83dac3",
+      "count": 1,
+      "dynamicDisplayValues": 0
+    },
+    {
+      "file": "components/QuickSwitcher/AlgoliaCredit.js",
+      "before": "90cbaee2aeeda82f48e8db884f622bec8b4cd963fda72569d61c70fd6fec779c",
+      "after": "ffb502bd362a78ffd0bfcf95fe22a28e6cefbb378e039fc81eaa556b562cb95c",
+      "count": 0,
+      "dynamicDisplayValues": 1
+    },
+    {
+      "file": "components/QuickSwitcher/composition-search.js",
+      "before": "8c0192cfde7b4d4067a9cd658113665945a61b32cc4892852a1eb84ba474b037",
+      "after": "64ef4a60b67ae903c6a808af3df948c1e7e0f571e1967ed5dc5628ca6a8f7237",
+      "count": 0,
+      "dynamicDisplayValues": 2
+    },
+    {
+      "file": "components/QuickSwitcher/ExplorerQuickSwitcherTrigger.js",
+      "before": "9e7579e06af09d8ab9bb7d6744b5a4177c1e2de43a57106fa3f0e103de31173b",
+      "after": "cf3054eb7028433ea0dc26063334d3fd45d6a875a8cb3129b09d14d359b8a58e",
+      "count": 4,
+      "dynamicDisplayValues": 2
+    },
+    {
+      "file": "components/QuickSwitcher/NoResults.js",
+      "before": "4188afc7c857697f4b4fdfec58bf583725b7cb296312b09fb2f7d5d3884e7f81",
+      "after": "e4e9df7b687e4530566c57bcb3abcfb5fe4c5ffc788143f2f059a025a205b524",
+      "count": 1,
+      "dynamicDisplayValues": 1
+    },
+    {
+      "file": "components/QuickSwitcher/QuickSwitcher.js",
+      "before": "81de7985f2854c9886b37d6604ac6683d7e270f1085124cb718404377d92dc68",
+      "after": "d114fc0551ea8ee18cc912a05e1484e0632ddbcc07e77417c736352a8342a0a1",
+      "count": 0,
+      "dynamicDisplayValues": 1
+    },
+    {
+      "file": "components/QuickSwitcher/QuickSwitcherContent.js",
+      "before": "a7d74c9574417a26423dccea92fe8e2b1592048254d61920e6203232aec15f55",
+      "after": "153a0a5a6c79acd0a2c0197b70f72fe3eb72b1a5f9809bb5447d40332843b9c6",
+      "count": 5,
+      "dynamicDisplayValues": 7
+    },
+    {
+      "file": "components/QuickSwitcher/QuickSwitcherResult.js",
+      "before": "80c1185c8b99597f1f874ffbfb92c62fe5d19bff56daaa54981191ea44ab0d48",
+      "after": "6da18d262031c556c7126df7054d934c98250143e89ca84d0ec5d1f02688a195",
+      "count": 0,
+      "dynamicDisplayValues": 3
+    },
+    {
+      "file": "components/RadioButton.js",
+      "before": "a5b86e632241befeca702305a6a1e5e2df0899aa2c0859f5c0df119c00fd1eee",
+      "after": "abe2605a5039d1f6f3b3411e95c1060662c3904f301012e5bfbd50cb2d5cf3c6",
+      "count": 0,
+      "dynamicDisplayValues": 2
+    },
+    {
+      "file": "components/RefreshCompositionOverlay.js",
+      "before": "2a9bfca4fe0e549d3f2a8a4ec98e696b59cae41ba32c0c3feba1a7c0fa24ffad",
+      "after": "fa029a1df5c2fc0f08dbb5e03db4b2e0506bf1f5685544fe1f14c06ad8083ae2",
+      "count": 0,
+      "dynamicDisplayValues": 1
+    },
+    {
+      "file": "components/RenderButton.js",
+      "before": "09dd0c67d46ac1ae36931b73bae250ed904323072868002aff51be365e501b74",
+      "after": "040b34190cc9358dc0ce0a3f644e085b64683c2e7052a56b338392bdf4444ab1",
+      "count": 10,
+      "dynamicDisplayValues": 2
+    },
+    {
+      "file": "components/RenderingSettings.js",
+      "before": "dbeccde299e2e91573603f61c5cc2a500b6ab6a8265c91abcb8b01b1b400914c",
+      "after": "28b208f85626c5f2338d0243edc72070230272fe93d3bf85783668b9eb936d8c",
+      "count": 21,
+      "dynamicDisplayValues": 12
+    },
+    {
+      "file": "components/RenderModal/CliCopyButton.js",
+      "before": "35203e444dc0f5ea49cd50159be0a9b0e735cb49db7e3bfde5e41025fbdcaca8",
+      "after": "54d7ed42cdf09680efcdc35585b502d5adeeb876c9b6b1889c9ff2df45b19724",
+      "count": 0,
+      "dynamicDisplayValues": 1
+    },
+    {
+      "file": "components/RenderModal/ClientRenderProgress.js",
+      "before": "d267476450dccd431cee4b4fa1687e4bd1e23dd8e3dc2b88df85e3e75248621d",
+      "after": "c87ff150184436e075a21e4acf3d82c2a3f4a4c810341aa264ef33bcbdbfedd8",
+      "count": 1,
+      "dynamicDisplayValues": 7
+    },
+    {
+      "file": "components/RenderModal/DataEditor.js",
+      "before": "29d09383d885d5fdef0c6788f65857703028695808a97696ca2f5e2de2e9fb4e",
+      "after": "b41e8236e6f09fc57cfa2ec2731e5657d84636f0fadd54684dcccab6172a7138",
+      "count": 2,
+      "dynamicDisplayValues": 4
+    },
+    {
+      "file": "components/RenderModal/EnforceAudioTrackSetting.js",
+      "before": "a94a7343609a19314b191d5f5f42d2829dcfbfffe8237705004f42ac4f41b953",
+      "after": "dab248a41cce7645d671afdd07f7b6ea3c105a75ee357f687f32996cfa83dd13",
+      "count": 1,
+      "dynamicDisplayValues": 2
+    },
+    {
+      "file": "components/RenderModal/EnvInput.js",
+      "before": "514e3bb488c64d40509ad4e70a6b98d66edbabe140db7f7c774d832f3576fec8",
+      "after": "ade488b0e657a252cd01bf04b9ac8055a14186e076c174a54ff3bbae136f928b",
+      "count": 6,
+      "dynamicDisplayValues": 5
+    },
+    {
+      "file": "components/RenderModal/FrameRangeSetting.js",
+      "before": "0ea7b7c920adb6a62136327c21ca306da8df3a7f3029e103e3e80537d7f55afe",
+      "after": "6192bb52e748238291b4e44bf48714b55be8dd995a5afb59bbf85230a1f56ec4",
+      "count": 1,
+      "dynamicDisplayValues": 2
+    },
+    {
+      "file": "components/RenderModal/get-render-modal-warnings.js",
+      "before": "9501569a5fdd0a5f38fd252535c3f52e781ce6d1f5377b4acd4b4dce317c8286",
+      "after": "a0c205ded946c692d126f08cf61d504be90a396249f6a2f8cb401c5e2f26b40f",
+      "count": 2,
+      "dynamicDisplayValues": 0
+    },
+    {
+      "file": "components/RenderModal/GuiRenderStatus.js",
+      "before": "968da3b7c1276c22c8b09a42af2ab1b8ed9ddfb5bc8230b199c5f7dffd7bb759",
+      "after": "4c2c5028a766216d9a5c31db854ee48c55bb48af7d15cc460d7447b769da59be",
+      "count": 17,
+      "dynamicDisplayValues": 15
+    },
+    {
+      "file": "components/RenderModal/InfoBubble.js",
+      "before": "bc32baa931ab86cf6f5659f285055ebe7ac8b5d05c934102eb19f6c6171cd3aa",
+      "after": "056d37ee0f384f2af423b466224425708378d180b289586a961ded32c6d383a9",
+      "count": 0,
+      "dynamicDisplayValues": 3
+    },
+    {
+      "file": "components/RenderModal/InfoTooltip.js",
+      "before": "7c22a28d7f494158c5d9bc086b0049680efd62aa588d40539e74544ad08932c2",
+      "after": "3b7cc225d44417950ae9c7fbd3381096779427078df88c6aa54861b21137db2f",
+      "count": 0,
+      "dynamicDisplayValues": 3
+    },
+    {
+      "file": "components/RenderModal/InlineEyeIcon.js",
+      "before": "0b84fb44f9160f62dba98304348c2f5bd517192e335e29d8a1f42b5be6e4c378",
+      "after": "fd4123b51c90a3b4b4173727335997d71200dbfe77a29d66fd32de76bfa317c2",
+      "count": 2,
+      "dynamicDisplayValues": 4
+    },
+    {
+      "file": "components/RenderModal/InlineRemoveButton.js",
+      "before": "f81f717a1750e1f033b36d9fe986033fbed4f93db3ceecef7182fb53b6a36d6f",
+      "after": "2c71699fb37ecdbe79b49c5414c49a703a0a88c99b6894e31db4f85404abdf2f",
+      "count": 2,
+      "dynamicDisplayValues": 2
+    },
+    {
+      "file": "components/RenderModal/MultiRangeSlider.js",
+      "before": "f61d942ac444582eb3286a15444328a46c62bf3c6730550636be934e8855fba2",
+      "after": "57b138361c8aaf470d73de283e627e4d5c1662193b7c4f978eb469aef950d69a",
+      "count": 0,
+      "dynamicDisplayValues": 1
+    },
+    {
+      "file": "components/RenderModal/MutedSetting.js",
+      "before": "af6a517e07c044217dffead3b6e0f247d70868ad5dc0967e846b50133e7067d7",
+      "after": "c8656f642da9a6fcabc27bddd3315734f9ea4449c5d3f3ef38eb33ac4ffb461e",
+      "count": 1,
+      "dynamicDisplayValues": 2
+    },
+    {
+      "file": "components/RenderModal/NumberOfLoopsSetting.js",
+      "before": "b0d667f84d87094f7410e24e7dcf908f77b24e3af9b1e4e106edd2230064efe9",
+      "after": "c5aa1c5603809bf78a07901f9b415f64d4ea7f853e2c3e882e42b96480fa3cbd",
+      "count": 1,
+      "dynamicDisplayValues": 1
+    },
+    {
+      "file": "components/RenderModal/NumberSetting.js",
+      "before": "5e9232d1319f297a7754a9073b5496bcfd42b0d04b26a6025f3f7ea04b20a744",
+      "after": "d3b2bb17ed72fa4aae425b09b8f470b4d03b4439252d40b3c850f33539b6b46a",
+      "count": 0,
+      "dynamicDisplayValues": 4
+    },
+    {
+      "file": "components/RenderModal/OptionExplainer.js",
+      "before": "b43eed1d9c8024acd9f5297146c42105af3193b5f38ac9331837d2c4b66c0c5a",
+      "after": "57e93578adea2d83ac47e923f4f8c237041dfc08652bbca0f7a8dbe5cb06f8f9",
+      "count": 3,
+      "dynamicDisplayValues": 7
+    },
+    {
+      "file": "components/RenderModal/OptionExplainerBubble.js",
+      "before": "1d609dd13a58a9b9bd62b07d3fdbb891c60791ab259f27721a8f4522f7783826",
+      "after": "cd975cb895d01b6c1cf6963608034dd2900db522a6fa4a4d1460f7639061cb38",
+      "count": 4,
+      "dynamicDisplayValues": 3
+    },
+    {
+      "file": "components/RenderModal/quality-options.js",
+      "before": "245c79fc1880d52dc2ff723c5630b03022147cc15419296ac7acfc6b00fad189",
+      "after": "7dbde4996e5a12b4e26e60735aadd181d3a18fea73e86226d1e6497efe370ddc",
+      "count": 5,
+      "dynamicDisplayValues": 0
+    },
+    {
+      "file": "components/RenderModal/RenderModalAdvanced.js",
+      "before": "f0af9b47936ab6289efbbeba955c614cfa40a2d51c7f10f344b0abb9dd2fb2fa",
+      "after": "93d79c9c5f4bbc7f2895cb72578b7b28a575229975eaa9b3d3e46d39ea5f1dee",
+      "count": 17,
+      "dynamicDisplayValues": 26
+    },
+    {
+      "file": "components/RenderModal/RenderModalAudio.js",
+      "before": "d594fd214730b7e15147aede2cbc80e609db42a2cf8e0982ae71d9dc5dda8e34",
+      "after": "1ea3a0c1ecb80f36e8d873febe192a0e15e60115e45ec3799b22b1c739c15216",
+      "count": 8,
+      "dynamicDisplayValues": 13
+    },
+    {
+      "file": "components/RenderModal/RenderModalBasic.js",
+      "before": "051f6b26eee1d18aa8962bf7426ff7d534f8312941f2f92089a696140e9dea98",
+      "after": "ed2f813ab353c16a8657e2f662505a8417a02e92c5f56be4fb01d518b756b878",
+      "count": 10,
+      "dynamicDisplayValues": 12
+    },
+    {
+      "file": "components/RenderModal/RenderModalEncoding.js",
+      "before": "a5cb9f311c8f88c28df02318c5891786f85e80f8ed65e9134b30bb431b4444df",
+      "after": "fb06677b061372f4f9c1b8907cc96c1ce975b6542a63e33bef0c49022e0564aa",
+      "count": 16,
+      "dynamicDisplayValues": 23
+    },
+    {
+      "file": "components/RenderModal/RenderModalEnvironmentVariables.js",
+      "before": "b6d963d30c1fa1eed4323d5ada24cb68dbb140bf3850f76d97592907a9167378",
+      "after": "fa45133d780890615c1f0268cd5c8a1ee9319b44936b5f8a4a611c79da85ef42",
+      "count": 1,
+      "dynamicDisplayValues": 1
+    },
+    {
+      "file": "components/RenderModal/RenderModalGif.js",
+      "before": "4c6067b00c02da60d76e4c5bfb18768b43cb411680c74aaccf451cf98416cbfe",
+      "after": "984d606c24cadfadb96927ddd3c88af7027b6ec0734368cf3f82a3fe39fdddd9",
+      "count": 1,
+      "dynamicDisplayValues": 2
+    },
+    {
+      "file": "components/RenderModal/RenderModalJSONPropsEditor.js",
+      "before": "72461ba59ad2e99d4abff7982e745aff2c84eda148a74ebafb1f37a783bfa4fd",
+      "after": "87b83cd9e4c80ad51766889b5a632ce1a2beb93255d42991a187e211d8b5518d",
+      "count": 2,
+      "dynamicDisplayValues": 2
+    },
+    {
+      "file": "components/RenderModal/RenderModalOutputName.js",
+      "before": "5e9d935e803c56b188d8dc5a215477ef0a38671efe5c94930b9dc088a8eb0ad1",
+      "after": "6f9e7812b40e2bab9eae3c023ae5b103ac3b2c35fd1816cd02ce000e9e10bb4f",
+      "count": 2,
+      "dynamicDisplayValues": 4
+    },
+    {
+      "file": "components/RenderModal/RenderModalPicture.js",
+      "before": "6e11bbe5b75df70f370e7dc496522e0b41723d5ba1b207c279aebd3aadeffca7",
+      "after": "8234028ad69b20d39bb194723c488b691f17d7498ef2e179190fec33c8f01341",
+      "count": 1,
+      "dynamicDisplayValues": 1
+    },
+    {
+      "file": "components/RenderModal/RenderStatusModal.js",
+      "before": "dc74dc6181cdc1b5716d938e1b70fce20b3e629fcec6ff264e2a7afedd33da00",
+      "after": "6346d78a94999dbf951d4b285caed40112ede8b3e073188eab829731a4d7b563",
+      "count": 6,
+      "dynamicDisplayValues": 3
+    },
+    {
+      "file": "components/RenderModal/ResolveCompositionBeforeModal.js",
+      "before": "5b71977ee731938bae033ad9ad6c5d29ce733defd7f20a32cae90ae4515ba1c8",
+      "after": "a95fb7908ce804f783011cef7c63bd54684c9d1f55223013e830a988a0b9b4d4",
+      "count": 2,
+      "dynamicDisplayValues": 3
+    },
+    {
+      "file": "components/RenderModal/ScaleSetting.js",
+      "before": "c97a9139eed0e8e8533a3e026478c847e777ff68a2f426d639119c2c6a4125fd",
+      "after": "e323156718bdbbc0d1ae4ef2d62865799d519ff3c33324b54045baa5758324b8",
+      "count": 1,
+      "dynamicDisplayValues": 1
+    },
+    {
+      "file": "components/RenderModal/SchemaEditor/Fieldset.js",
+      "before": "c2783e61a545e28eafaa07318c61ff17caf5bb1e03941c96b23b97b8debb909e",
+      "after": "0e9cbfeae54f7c63fcb238baf1e858e6797b4df041455646a70168760d1985ad",
+      "count": 0,
+      "dynamicDisplayValues": 2
+    },
+    {
+      "file": "components/RenderModal/SchemaEditor/SchemaEditor.js",
+      "before": "bd094cb1c676435e06836e7a0b08c7d5cc574f7b5c9bd2cb91741e6a4abfe05c",
+      "after": "ff8a00b581e7d795e0727646358ff7e9a067612c664f5a3f662988f6da9bbf82",
+      "count": 0,
+      "dynamicDisplayValues": 2
+    },
+    {
+      "file": "components/RenderModal/SchemaEditor/SchemaErrorMessages.js",
+      "before": "a55e73cc35ec566410e954966a87bb2ebdf48e45618c340fa5d3f707a879634f",
+      "after": "0cf71d7d22a43652748db44bb2b6cdd94dc61721db459a72e15b8716df077221",
+      "count": 28,
+      "dynamicDisplayValues": 9
+    },
+    {
+      "file": "components/RenderModal/SchemaEditor/SchemaLabel.js",
+      "before": "f88a48c14bf789426b3c343b81ceb08031d449a39ebed5852d1ee73df15f6be4",
+      "after": "b7ba02b21a2c97b1b81712ee4976e32cce9b82de0876ae3c8ebad277e8c30651",
+      "count": 1,
+      "dynamicDisplayValues": 3
+    },
+    {
+      "file": "components/RenderModal/SchemaEditor/SchemaResetButton.js",
+      "before": "4f204381c50ad34575749948480ddd5c1f03489788cf19f6a3277bca61aa61b5",
+      "after": "6330b9f66ecdca2b9876ea97dd0f8240367b0594b76b9f7c6e8fc212f5c43f27",
+      "count": 2,
+      "dynamicDisplayValues": 2
+    },
+    {
+      "file": "components/RenderModal/SchemaEditor/SchemaSeparationLine.js",
+      "before": "303d7bf4aa633b158bb8136975d13e703ec7341b60e23d2a898b2615e93e6401",
+      "after": "7d324d7e250d5958e6249d1ec0d6ce20d442f2dc02471f4d8fea98e7aab323e2",
+      "count": 0,
+      "dynamicDisplayValues": 2
+    },
+    {
+      "file": "components/RenderModal/SchemaEditor/SchemaVerticalGuide.js",
+      "before": "6c697c16924e9188287462cdad78c8eb3ae0a9879327b9c2cc923778fa7af792",
+      "after": "38078a440bc775b531dd7cfc8e2a69098475be6054d14888375dd88f66a082d8",
+      "count": 0,
+      "dynamicDisplayValues": 1
+    },
+    {
+      "file": "components/RenderModal/SchemaEditor/ZodArrayEditor.js",
+      "before": "b03de5457e593cad95d69323088dcc9d2b6ec9a59ce937e4e415379dc004d72e",
+      "after": "5b6223b10b17acaa8be1b5534b8b23d36704084f77d1221c30cd1ac91aeaf1ed",
+      "count": 0,
+      "dynamicDisplayValues": 2
+    },
+    {
+      "file": "components/RenderModal/SchemaEditor/ZodArrayItemEditor.js",
+      "before": "7feaea20ad4225d7f8d5a10ae8812cbc5dd7938a2029676363fae2b455db4aad",
+      "after": "99650714eb54361c834c6ed78848d4a87b20c69efedef5c14ca0a3f357c1ed24",
+      "count": 0,
+      "dynamicDisplayValues": 1
+    },
+    {
+      "file": "components/RenderModal/SchemaEditor/ZodBooleanEditor.js",
+      "before": "13286bb7a07a9a8228240c861a706b5ee1a3e31e30d731ca8dd6c9cc4941b980",
+      "after": "a427cf57fc5e32c20a09fce336bdabc49ecfca7c41f317eddc65cb452e3c7061",
+      "count": 0,
+      "dynamicDisplayValues": 2
+    },
+    {
+      "file": "components/RenderModal/SchemaEditor/ZodColorEditor.js",
+      "before": "6951cf78bd2b4a064b9585ab274fbe6ece946d3a216511e54038e9809c163899",
+      "after": "0bd72739d7e5d688a51d671defbf74491924677686aff5fa8a1a4b3b8ca0ed0f",
+      "count": 0,
+      "dynamicDisplayValues": 2
+    },
+    {
+      "file": "components/RenderModal/SchemaEditor/ZodDateEditor.js",
+      "before": "78fda61d37d9c454bfc7fbda88db33ef4cf9ded79a20b2eb2943403e74872734",
+      "after": "3e13641e35e8c513e387f4faf5e4eb072ac78d35cc7c7e837d5681c56826e869",
+      "count": 1,
+      "dynamicDisplayValues": 2
+    },
+    {
+      "file": "components/RenderModal/SchemaEditor/ZodDiscriminatedUnionEditor.js",
+      "before": "b85d3ab8a8639dd58ad118a45dc4ceca3c679728afc565f71315881203753fb1",
+      "after": "59927164c998ed373300cc4b0559ee4ce6707c0caa1d427dfbf58d7f4896eeb1",
+      "count": 1,
+      "dynamicDisplayValues": 2
+    },
+    {
+      "file": "components/RenderModal/SchemaEditor/ZodEffectEditor.js",
+      "before": "04eacc76375b8b6146f34892afe85fb2da196496bcdfd335f0fcd28403c62689",
+      "after": "7ddec051202fdbce3c7accf6c153eb22013f12be41ad70ac4c48ceaf100ee3ac",
+      "count": 0,
+      "dynamicDisplayValues": 1
+    },
+    {
+      "file": "components/RenderModal/SchemaEditor/ZodEnumEditor.js",
+      "before": "1b330514f285721f01e4262aa223f7eb76f10c4e4887ccb46427498992de5652",
+      "after": "9b35ba76a1cf88505b50288b1a289718c8bd56050eb7351d3e1c170d4e4db28a",
+      "count": 0,
+      "dynamicDisplayValues": 3
+    },
+    {
+      "file": "components/RenderModal/SchemaEditor/ZodErrorMessages.js",
+      "before": "1761846e06d4d922074926629c0f27841631449bb05ef1d35a9743001fec21b9",
+      "after": "d7ab6778fffe6c89e8b04422c731700b82bbabcc7bde046059846e865efba0cd",
+      "count": 2,
+      "dynamicDisplayValues": 2
+    },
+    {
+      "file": "components/RenderModal/SchemaEditor/ZodFieldValidation.js",
+      "before": "d3ab743f02c0aa505bed9dbff995cbd3087b76fd17a2436b2e7b5062dbe8182d",
+      "after": "a8dd209fab8d095fc3e103de08ad871b3aaecd699dece9ad3d98ce4f64ab1e5c",
+      "count": 5,
+      "dynamicDisplayValues": 1
+    },
+    {
+      "file": "components/RenderModal/SchemaEditor/ZodMatrixEditor.js",
+      "before": "7272f4a639b07053eac16f3fa37f91e06cc615db41b3ca09f4b1b19b8a2a34e0",
+      "after": "c58697bb6e948ac955d626b5c26b2cea6af4c34737775e8467a7d7c982cee132",
+      "count": 0,
+      "dynamicDisplayValues": 2
+    },
+    {
+      "file": "components/RenderModal/SchemaEditor/ZodNonEditableValue.js",
+      "before": "950ccbe32c4cba15c064fb0545e0286f926df4eec210e1411c94472e0f163519",
+      "after": "71e7ac32073c74922258258b5183d7ea57a404a0b460487a26bdc3a576cba9d1",
+      "count": 0,
+      "dynamicDisplayValues": 2
+    },
+    {
+      "file": "components/RenderModal/SchemaEditor/ZodNumberEditor.js",
+      "before": "bf50fd1f45af9a4cf9b9655ef214a61c4e6c75318b556a5a96c5727599429f1c",
+      "after": "b285ab963e6761873690fe95ce67d632923fd9508505833b026318ec7e596a13",
+      "count": 0,
+      "dynamicDisplayValues": 2
+    },
+    {
+      "file": "components/RenderModal/SchemaEditor/ZodObjectEditor.js",
+      "before": "379130a422864a6a7deb88af8a6d04d5c5ee2507cccbeda62955c86c73dc51ee",
+      "after": "50858228531b9a49b67f08f757151418f53fca55b144f755ccb1c188080e8114",
+      "count": 0,
+      "dynamicDisplayValues": 2
+    },
+    {
+      "file": "components/RenderModal/SchemaEditor/ZodOrNullishEditor.js",
+      "before": "f9b767b1a1800f3461885a0b00f178bfe8c75bb01fc2da67a9d30e475a020b81",
+      "after": "7f4050520c9cd14b2eef866dfbfdc948da6b0f0baa3a494ed67455185398253d",
+      "count": 0,
+      "dynamicDisplayValues": 3
+    },
+    {
+      "file": "components/RenderModal/SchemaEditor/ZodStaticFileEditor.js",
+      "before": "4bd8bb0824a8dace519ab0aa2b09bcf08716a3f7c80b6ab657a193971d03c8e7",
+      "after": "7bee9b1e468a24fc5b5259323f96a5e6b7fa9df876fbfbea64c99f4877c62eb7",
+      "count": 0,
+      "dynamicDisplayValues": 3
+    },
+    {
+      "file": "components/RenderModal/SchemaEditor/ZodStringEditor.js",
+      "before": "63cd69ff2c2cd54a65e6b80b42db2b46aaa5c61658b34c3e4921a0c2085cf353",
+      "after": "2dcf1cb3c0d4e0aad8f5f744c444c34df88ec9c8b65b44edd00bd0b765ba0e43",
+      "count": 0,
+      "dynamicDisplayValues": 2
+    },
+    {
+      "file": "components/RenderModal/SchemaEditor/ZodSwitch.js",
+      "before": "16ece2695bbaf8dcc32ebdf59615145718b925df9a9575d56fd918a7a2ea088a",
+      "after": "69b47c1ddefc388507fc065bb6e5d3bde6d3ac6c042bef54d56d810eee81a2e2",
+      "count": 4,
+      "dynamicDisplayValues": 1
+    },
+    {
+      "file": "components/RenderModal/SchemaEditor/ZodTextareaEditor.js",
+      "before": "b3e389d819a89daefdbcd68e11d6ba0c17085218f5140d80c6c5d45b602c0b16",
+      "after": "aac9a66efa3f17f8d5902302de222e66b94a166fb434e8508624b3755af15fb2",
+      "count": 0,
+      "dynamicDisplayValues": 2
+    },
+    {
+      "file": "components/RenderModal/SchemaEditor/ZodTupleEditor.js",
+      "before": "28c861121c205c18cae306de8babcba64db4f357ada9d5d0f366545f391084f7",
+      "after": "70c76ade28980792bc193cacd13a5e18fe16dfad8ddb09b617cf7763f687d5c6",
+      "count": 0,
+      "dynamicDisplayValues": 2
+    },
+    {
+      "file": "components/RenderModal/SchemaEditor/ZodTupleItemEditor.js",
+      "before": "39e2a5d664ff53deeb0c9c469c3128da268001851c2e781c32b9401a3402daa5",
+      "after": "c682a185e7051f82c22f020fbd5095efd487fb3b6a29c6e9dc59e568ba8ad9cb",
+      "count": 0,
+      "dynamicDisplayValues": 1
+    },
+    {
+      "file": "components/RenderModal/SchemaEditor/ZodUnionEditor.js",
+      "before": "b538eeb572f1f5548488045b3dab3749b966a3ce9194eb7fdbf086fcdeec042a",
+      "after": "a46ce0fc54c943b286b8badf5f5ab44a0b77a0497b1018400c32512ac8a2e179",
+      "count": 4,
+      "dynamicDisplayValues": 0
+    },
+    {
+      "file": "components/RenderModal/SeparateAudioOption.js",
+      "before": "56620a51eb7372d3463482f7ad406d0533b47586fcd15018aafb5e3f9636c126",
+      "after": "6794d23a80f91ecfee211fc848e4fec5a401fed47ebf5f873c9319eac4ce8812",
+      "count": 2,
+      "dynamicDisplayValues": 3
+    },
+    {
+      "file": "components/RenderModal/ServerRenderModal.js",
+      "before": "e78cace66684462fef7a77f9c736d99d11566ba8dc53e76dd9ad76a4c97b8f7f",
+      "after": "4818779d8c17d7a0d5773e1702c777f6c5d3c05b331dd904ef01b35b8e276ca3",
+      "count": 19,
+      "dynamicDisplayValues": 13
+    },
+    {
+      "file": "components/RenderModal/WarningIndicatorButton.js",
+      "before": "d62e44d270957c2d9cf13451dcef40ec326b952b2514922e07c874e16dfcf7ff",
+      "after": "182ae89ffaf362136f0ee8ec7bfe01957ae4e04e30dac3a1f1425863e6acd421",
+      "count": 0,
+      "dynamicDisplayValues": 2
+    },
+    {
+      "file": "components/RenderModal/WebRenderModal.js",
+      "before": "8f5aad8ae8576a9a5a056a74f5ad4f2226978c21f06433e95f78e51150b1c1f9",
+      "after": "8f7a7b28120c66d2ebbe58e96c649d57aae932311555fe9d4b238a1b22dec185",
+      "count": 12,
+      "dynamicDisplayValues": 10
+    },
+    {
+      "file": "components/RenderModal/WebRenderModalAdvanced.js",
+      "before": "f60ad6c378b584adfc320407cb592d2fdde0b879f8f80e286c7180ee75cbaeb9",
+      "after": "66026303b6e7e9c6355db93548b7680a4de4e870aab1cbf2965eb74c4be69f6c",
+      "count": 23,
+      "dynamicDisplayValues": 9
+    },
+    {
+      "file": "components/RenderModal/WebRenderModalAudio.js",
+      "before": "1ecc15967c5684bfa7087d4d447d2a59a03b909de0dd070fe987acfe13169571",
+      "after": "fb8379a53ebce9e7865e45cd903a133f12d2f9e14673987622aae23ac23af20d",
+      "count": 6,
+      "dynamicDisplayValues": 6
+    },
+    {
+      "file": "components/RenderModal/WebRenderModalBasic.js",
+      "before": "22462f5c88d4f7a22236f2e919b443d2767fd14d8ca7e3eb4bbd4a9e43255c20",
+      "after": "d8ff04385059431d4bf1806a4820b4cc9a2e32586db8166729ad62d17db89d8e",
+      "count": 12,
+      "dynamicDisplayValues": 12
+    },
+    {
+      "file": "components/RenderModal/WebRenderModalPicture.js",
+      "before": "554594a6e9b750ad2041c68a1ce525282b3b0e84631524534c3c4acfc6548f93",
+      "after": "f66797510b46d6befb26515410ee6dca9eff7bbe388cdc9fc7a4fb2a7a854d23",
+      "count": 3,
+      "dynamicDisplayValues": 2
+    },
+    {
+      "file": "components/RenderPreview.js",
+      "before": "d03027acdb42f55d650575d1e55a3e09e9e3964abcdfc4a866c43ca46d17ce85",
+      "after": "23360d2d110479a89934588e07ed463508be402b6cf8ab40839dc31930d55854",
+      "count": 3,
+      "dynamicDisplayValues": 1
+    },
+    {
+      "file": "components/RenderQueue/CaptionQueueItem.js",
+      "before": "c219e8311bced8775a1582d856c99209c58570e4efedd81a4da95be7edee22af",
+      "after": "9de935858a483c14bcd3bc271dd70643036efc6038630300d018bd2e4b16d362",
+      "count": 3,
+      "dynamicDisplayValues": 8
+    },
+    {
+      "file": "components/RenderQueue/CaptionQueueProcessor.js",
+      "before": "d6d57638fe58796ac21437742c0ea02148b16d0e763642aff0ac0ab1c022cd2b",
+      "after": "a4058c55395289793cd3b29493cc8282e85cb6f30043a19b53ff19f845d561cc",
+      "count": 7,
+      "dynamicDisplayValues": 0
+    },
+    {
+      "file": "components/RenderQueue/CaptionQueueProcessorLoader.js",
+      "before": "726f084432946748512f461e4ab553c58967762155ab5f43c6b4a1bde74962c0",
+      "after": "11e85725999f2c47e208043db8334cae4129997b6ab17a495e68e2ef15015b5c",
+      "count": 0,
+      "dynamicDisplayValues": 1
+    },
+    {
+      "file": "components/RenderQueue/CircularProgress.js",
+      "before": "347e72f490e4b1cc5bde0d0bbd5d1e089839537621537cd1a2f3ce41551dba6b",
+      "after": "4eb0e58671e39966c96d2b9240c41bcc7728fbd499ce6a6a0e4f48bad9a9727a",
+      "count": 0,
+      "dynamicDisplayValues": 1
+    },
+    {
+      "file": "components/RenderQueue/context.js",
+      "before": "8619b6737bc30681370245b62dd4432c06dc95d945f2a5bce4d8df6ca1cb85cc",
+      "after": "8fe375740cf0bb6278fc8c0ffafb0bceef3f8627fd7e4f419547d4b01e1e703b",
+      "count": 3,
+      "dynamicDisplayValues": 1
+    },
+    {
+      "file": "components/RenderQueue/index.js",
+      "before": "5a3f4b23a828e69b2575873309377a5a4765ece4aa2124adc0de034890f4b62d",
+      "after": "b79c573320b572cdc30ea0221c25ef0b80e650077ba12b00ebc8ce1aa2702620",
+      "count": 1,
+      "dynamicDisplayValues": 2
+    },
+    {
+      "file": "components/RenderQueue/load-model-for-job.js",
+      "before": "2fb1e802d87e7fe3ed3ea7e323d8dbe9d8280ef10da0bc6c0014ca3d4b448ce4",
+      "after": "283816d99c6d8ad65f91e7a9ff3466f20d762fe1b39d9e1d4d14e6f3e1ce941a",
+      "count": 2,
+      "dynamicDisplayValues": 0
+    },
+    {
+      "file": "components/RenderQueue/QueueJobError.js",
+      "before": "fa3459d37fb4253af3cf64f70df06b60844646d75feaad85f426a79c777c20b9",
+      "after": "2e33a572ea55ae3729d39d19efbb47938c10a066ffa3daa88a597bcf5e976d7e",
+      "count": 0,
+      "dynamicDisplayValues": 3
+    },
+    {
+      "file": "components/RenderQueue/QueueJobErrorModal.js",
+      "before": "44eb0d02992f8c6419b8cd05f5894e51a466a86a8f32bfa250a38551f85b3dac",
+      "after": "38efcaebf9905e9fad24683abce1146b070bf98e0d712d6f800a8b2f7eaa72a3",
+      "count": 2,
+      "dynamicDisplayValues": 4
+    },
+    {
+      "file": "components/RenderQueue/RenderQueueCancelledMessage.js",
+      "before": "415ab7d0df2634dc3f136b37846af76390f9a1fdbe1f619946f50e1b9ad8eb18",
+      "after": "4e9ac9f60ae14cb5f18797839d249e9d18543f3b89c396ad0bf565abfd0a98a8",
+      "count": 1,
+      "dynamicDisplayValues": 0
+    },
+    {
+      "file": "components/RenderQueue/RenderQueueCopyToClipboard.js",
+      "before": "fa512e434dce0e765596e56b1bc16990820f0c3a8c6b6fef0655ad203d4cbf8b",
+      "after": "4c21d969cfc72e2a8d720792c688759a54b8b75a16a87b5375bcbf7e2751c5fc",
+      "count": 2,
+      "dynamicDisplayValues": 1
+    },
+    {
+      "file": "components/RenderQueue/RenderQueueDownloadItem.js",
+      "before": "69240ae9f17204309c7145bbe6a9ab292383fb983b09bdc4a05fbc5771ccc316",
+      "after": "210379d0e93b5219762eb22fd9e793018bfd805a744ea503551eb666daed838e",
+      "count": 2,
+      "dynamicDisplayValues": 2
+    },
+    {
+      "file": "components/RenderQueue/RenderQueueError.js",
+      "before": "0c03ec1188389b1884683cb2adcc0a56f23c42ee7dd104aedd48ecffc1eada1f",
+      "after": "8644497ad2635b090a72993fddf9edd7579e63bdf9858f32f758b7122520bd1d",
+      "count": 0,
+      "dynamicDisplayValues": 2
+    },
+    {
+      "file": "components/RenderQueue/RenderQueueItem.js",
+      "before": "b538718ec3a35cdc7a60496bf8a2e99fdd4a74c1d7e4c9f199ee06adab744853",
+      "after": "5120f7e8020db630271f3e016393b3cc7739e462c562fec2f751d853f99b2e37",
+      "count": 0,
+      "dynamicDisplayValues": 4
+    },
+    {
+      "file": "components/RenderQueue/RenderQueueItemCancelButton.js",
+      "before": "056be75edbd8542c83eff7e88a287da3beb6fec951d262925bb0ef8df3ae1381",
+      "after": "4af83eb752a1e6250ee7a2bbf0271f3169c8becb8cc6f5da41d3a7fcb5900c2e",
+      "count": 5,
+      "dynamicDisplayValues": 2
+    },
+    {
+      "file": "components/RenderQueue/RenderQueueItemStatus.js",
+      "before": "5c666751d7f8091df64508281bb89f3f8de0bf39f850fab3758c78180840ec0b",
+      "after": "cd876fe779c268e80aa2c763d054670aa37573f2bdc1db80d26e62d3359dc1f3",
+      "count": 0,
+      "dynamicDisplayValues": 6
+    },
+    {
+      "file": "components/RenderQueue/RenderQueueOpenInFolder.js",
+      "before": "2f46ed7e26fd365df821f7705e765f096970f10a89679b3e03dcd197431125b2",
+      "after": "db8101d1833d5e1e2020efb566a36ef3ffd4ad4db547e0d0b3391de9ea3bf198",
+      "count": 2,
+      "dynamicDisplayValues": 1
+    },
+    {
+      "file": "components/RenderQueue/RenderQueueOutputName.js",
+      "before": "10aa8ab00133307ea13aaf1b05ec7fe4138ed7813a09fa691e4fde68b8f2f0a4",
+      "after": "f1b5def626d5626b188e5bdf1795c14f2ad2e2b93a50ea2671444e74090cba34",
+      "count": 0,
+      "dynamicDisplayValues": 2
+    },
+    {
+      "file": "components/RenderQueue/RenderQueueProgressMessage.js",
+      "before": "44cac32a8a4429bb5e848f5641b1c4275add403425287fccc848335ef7d016c4",
+      "after": "6c12f2a1edb9d465bd92b6e76adb52086f63618ad1644555fd52c1a3b8e6bd96",
+      "count": 0,
+      "dynamicDisplayValues": 2
+    },
+    {
+      "file": "components/RenderQueue/RenderQueueRemoveItem.js",
+      "before": "3e230a5da01e73a363ac286e7a218a45f5ac9b3278fad9f812236f085f600865",
+      "after": "3c12ae10687252ac7209e71630c159ea876f2d73b33acf37497ea45356543c35",
+      "count": 2,
+      "dynamicDisplayValues": 2
+    },
+    {
+      "file": "components/RenderQueue/RenderQueueRepeat.js",
+      "before": "2dbe9d586b66eeb4e2c1c603ac3a3c76783e7f6f3974aa6b2b0f8fd653bbefac",
+      "after": "f2a2d4698cd22e160e5e6231d06d9abddaf0575e8a856bf57e07037bcf774cec",
+      "count": 2,
+      "dynamicDisplayValues": 4
+    },
+    {
+      "file": "components/RenderQueue/RenderQueueSavingMessage.js",
+      "before": "b71cff5e813e8c706b628e03bdb2cebbd3f81462c5261d1eca59ac2ccdea596a",
+      "after": "d836a295ff1170a0cf35d41b638ffe0359d3b2fc9488127a92191a12eb7bcc54",
+      "count": 1,
+      "dynamicDisplayValues": 0
+    },
+    {
+      "file": "components/RenderQueue/SuccessIcon.js",
+      "before": "b3e2ac9bbce6e99bd014b37de8b4f2db871d5fdb49d5a2acaca3500ea3bc99c8",
+      "after": "abe026b81a47187e25620920401fcd4289df9db9f052191de9fb15407fb33c47",
+      "count": 0,
+      "dynamicDisplayValues": 1
+    },
+    {
+      "file": "components/RenderQueue/use-render-output-file-drag.js",
+      "before": "e5d89ce27ee128b1022610c96d8290713d9db9cc3b7b88b545df58522707c7f3",
+      "after": "00a5700a4e78a9fe5cd45aad9af375dee2f2d7737253881b1aa0d6f71bd6024a",
+      "count": 0,
+      "dynamicDisplayValues": 1
+    },
+    {
+      "file": "components/RenderQueue/VideoMattingQueueItem.js",
+      "before": "b1e54f652de635b097a4480a5d53909a22a779a2bcfc282b41fe6fc282145dbd",
+      "after": "6950487ad1e7a728708fa27eab33401d1c657bbb80f7e9bda4f1c873bed5dea2",
+      "count": 6,
+      "dynamicDisplayValues": 9
+    },
+    {
+      "file": "components/RenderQueue/VideoMattingQueueProcessor.js",
+      "before": "3d420c1e366616bc18217eeb3d1792c6663ed30ca41cc397da51dc87779cb346",
+      "after": "6d654f3b6c9a8f318e7013d18eb2b96b6ee37e95dcc908f372b550d0ff0e772e",
+      "count": 5,
+      "dynamicDisplayValues": 0
+    },
+    {
+      "file": "components/RenderQueue/VideoMattingQueueProcessorLoader.js",
+      "before": "5fed42168b4890685aa2adb1dee3a6e370fe1349e2ac70e2478b91b17d8be555",
+      "after": "9d36930d75ad2aa10bf64edb4cd0b3d41b46957e8088347b207b4113b058e269",
+      "count": 0,
+      "dynamicDisplayValues": 1
+    },
+    {
+      "file": "components/RendersTab.js",
+      "before": "e942e968d5ac80744b53121674472aa4f0e597e62aebac5e146fee385c2544d0",
+      "after": "50a48fcc8160283f4ad20617249805846465308a289492f69bb345d86cdb8dea",
+      "count": 1,
+      "dynamicDisplayValues": 1
+    },
+    {
+      "file": "components/ResetZoomButton.js",
+      "before": "fa66b2677032c650462fe3e5743fe94783989de374943bce9a23ee84322c1109",
+      "after": "ea9812c12aaf6d98f2be6d7cdc1e887b783ebf0b2f685a928d02715ca1fc2457",
+      "count": 1,
+      "dynamicDisplayValues": 1
+    },
+    {
+      "file": "components/root-composition-menu-items.js",
+      "before": "d9899b596297ebdb0cd716d8aac4421e493c06cdc44285d4345871983b20fffa",
+      "after": "0ff1b5ee5fea3570ef65fd8bd3662e80c43f2d31aa96e3580a963e7666a6d7a0",
+      "count": 9,
+      "dynamicDisplayValues": 0
+    },
+    {
+      "file": "components/RulersAndGuidesToggle.js",
+      "before": "a94599238452bf1afb6025f761f7b29af370abdc1eb775f9c54159650e9f27c1",
+      "after": "83edd3da40fc3bb0e60c372cac40e332eb2fbb8bc1e6fa44a15421e73997072e",
+      "count": 6,
+      "dynamicDisplayValues": 3
+    },
+    {
+      "file": "components/RunningCalculateMetadata.js",
+      "before": "696efd396d923cbe952327d0adb57af4ee338c92d9222f06687140d63bba1762",
+      "after": "4c4b4f23d3625c32a0c12ef9f036061f4cfc15d1334ba959eeae83fcae78b978",
+      "count": 1,
+      "dynamicDisplayValues": 1
+    },
+    {
+      "file": "components/SegmentedButton.js",
+      "before": "80b7f18398b279166d447ed825fa8fc230778e50c04015c8ac803a42c1f44ec0",
+      "after": "2383620dd53d1fe1b3033536990490d9c5fc7ee139fa2b7ca61316900d447fa3",
+      "count": 0,
+      "dynamicDisplayValues": 10
+    },
+    {
+      "file": "components/SegmentedControl.js",
+      "before": "5c7110ad02dd4406be5d936e28dabb2a841ed1343a08adeb7387975e362e2c19",
+      "after": "fa1ee875ceff6c67273b74b78b1c958d8b336d4ed5ece34f594d085ede6e9356",
+      "count": 0,
+      "dynamicDisplayValues": 2
+    },
+    {
+      "file": "components/SelectedOutlineCropControls.js",
+      "before": "d92fe1f1af5fa2d99c6b79ca59b9476169d4d7db3868218902da2c77bd07f495",
+      "after": "e5afda0fd2337cb137ae9a957690ac18a25d1074c53252e19b6b66c03ebb40fa",
+      "count": 0,
+      "dynamicDisplayValues": 2
+    },
+    {
+      "file": "components/SelectedOutlineEditingHandles.js",
+      "before": "f1575815bb0b754b6d1c44967567e4ebe5fc812bc410aafdc5300d3ecee572c4",
+      "after": "7c240253305efbed76a01df23d3db0e2c184091cf82465f0eef8b51440fc0b06",
+      "count": 0,
+      "dynamicDisplayValues": 1
+    },
+    {
+      "file": "components/SelectedOutlineElement.js",
+      "before": "036d666a1e4f6eca5d88a3d7b079d74b65b816c7395fcb9ee823b0578a408fb0",
+      "after": "4a688f0d28dc4a2a5bb1537e5735e83ec68b17617c1896d243f1f4df4f16a205",
+      "count": 5,
+      "dynamicDisplayValues": 3
+    },
+    {
+      "file": "components/SelectedOutlineOverlay.js",
+      "before": "e74c205d5ddf9de4ebb4b4644daf2b367c164428258ddb9729420ef60837e2b3",
+      "after": "edbf48f7440c2c2e531424a5d0136586a8473e5f813ec1c459766abc8975d6bf",
+      "count": 0,
+      "dynamicDisplayValues": 1
+    },
+    {
+      "file": "components/SelectedOutlinePathPoints.js",
+      "before": "2cf2df7b993f5e958372706a16d87df8e83421fba893b3f5733a11ae030c22c7",
+      "after": "0527beabcc2e7c5bacafdc626bc4f7dee94a3a2b1aa16de9935d351b5295eda7",
+      "count": 0,
+      "dynamicDisplayValues": 1
+    },
+    {
+      "file": "components/SelectedOutlineRenderer.js",
+      "before": "f1031d0fe195a281c383be1e672ede151ac84707d01415f323f872596075b249",
+      "after": "8e8f7c11eb9176b62a7d41a86b7d20f2f73ef7ea8edf310485138ac376c419e2",
+      "count": 0,
+      "dynamicDisplayValues": 1
+    },
+    {
+      "file": "components/SelectedOutlineRotationCornerHandle.js",
+      "before": "2668fef347702b3cf75f96e13720a672fafd866d09e4dada4d90df993d2696ed",
+      "after": "80b8a83d319fd270bd245ba542fc580647aafa3208685fa3e6c6836c52b1040d",
+      "count": 0,
+      "dynamicDisplayValues": 1
+    },
+    {
+      "file": "components/SelectedOutlineScaleEdgeLine.js",
+      "before": "bf694ba49b7e4509ebe1d021156697f656e91f4a4e5d5428b43e6bd2c970214a",
+      "after": "71817fec3a5471f4346e54d41da1721c4a6e04c483957da273bd8395b68783d5",
+      "count": 0,
+      "dynamicDisplayValues": 1
+    },
+    {
+      "file": "components/SelectedOutlineTransformOriginHandle.js",
+      "before": "f2b2052d9277d4d0ac4117cf85633b731de8ca94e5e51c66679721e9a9c5b434",
+      "after": "268594a288f95c4734fe6e3f191b2cc1806adfa6c511475a3d9c1306fb119d8e",
+      "count": 0,
+      "dynamicDisplayValues": 1
+    },
+    {
+      "file": "components/SelectedOutlineUvControls.js",
+      "before": "6eb54e8861849f449592f961c4f5b98b6967c489408b28f691a8b6fa5c09b594",
+      "after": "6904dab45aa70f7fdd660da14f65ba6584a6041ede771c800d52c967e283dd4a",
+      "count": 0,
+      "dynamicDisplayValues": 3
+    },
+    {
+      "file": "components/SequencePropsSubscriptionProvider.js",
+      "before": "cdc81aefcba156b1e15aae66222d7010863e0a6e99d143a46fef7dc517ddf8f2",
+      "after": "df4858a7269bf13b401b6de2f6046b8064d852c086f0171c048c989bfd816df9",
+      "count": 0,
+      "dynamicDisplayValues": 1
+    },
+    {
+      "file": "components/SetTimelineInOutProvider.js",
+      "before": "130ff605afee0ebd970b5d5d05bfe3352b41aad0a80b66bbdfa4fbd9dcc29c34",
+      "after": "a15dec59b004cdf371931cf8bf0c8bf78e335b053f451e6653b8741c062e48a7",
+      "count": 0,
+      "dynamicDisplayValues": 1
+    },
+    {
+      "file": "components/SettingsButton.js",
+      "before": "0fe2f9afad7abe0ee356723b8bfe1ca0a8d431b91adcf82d1a87597bb9f95a9c",
+      "after": "fe559f5c4c7881a0333a6d7a3e2db1c38bb15b0f8d2e64eb6c08bda058a68693",
+      "count": 3,
+      "dynamicDisplayValues": 3
+    },
+    {
+      "file": "components/SettingsContext.js",
+      "before": "4e4b987ff13eed5a28c8e7e6b53d34206ab32fac0d0a5fd341f29d7c8ad75c90",
+      "after": "00fc185ecd759c012b3b97b9cf7e5ba887bfcb0beebc585bca4bc914cf0c6624",
+      "count": 0,
+      "dynamicDisplayValues": 1
+    },
+    {
+      "file": "components/SettingsModal.js",
+      "before": "842cc8849e423bbb61222b851646e9b3d3c4cbe4d3eee1800c5935c93cabbf3e",
+      "after": "23bebb7ba61bb1e8541f0fefe3201676256860a9e8f322c7c85efe897eb0552d",
+      "count": 10,
+      "dynamicDisplayValues": 20
+    },
+    {
+      "file": "components/SettingsModalFooter.js",
+      "before": "4c3445346ca40cd302c97400fead67ac71e7ada829c8c4a82d3785a8bb4a4d64",
+      "after": "2906efb5275a3a9722c201a2e0c7d4147b316c7e6fd915c9bfdccbb037191012",
+      "count": 9,
+      "dynamicDisplayValues": 4
+    },
+    {
+      "file": "components/ShowGuidesProvider.js",
+      "before": "ea1f7d3368606c4755b5c405dd92390447392fe6cef2e00457335f6132bb524b",
+      "after": "ec33fc5aa4efa0fdd952e9aaecbd35ec55c23ef6cc79cc74078ff5a48b6da489",
+      "count": 0,
+      "dynamicDisplayValues": 1
+    },
+    {
+      "file": "components/ShowOutlinesProvider.js",
+      "before": "90fcb68a9792839f055b186e6261be4a51235d0de2acae9cd3bc8eec53513cf8",
+      "after": "11d629cdfb3dc53ac69f53b0b1893e010428ad5cf3be5ca4b106618b389e865e",
+      "count": 0,
+      "dynamicDisplayValues": 1
+    },
+    {
+      "file": "components/ShowPixelGridProvider.js",
+      "before": "774368f821d4c8c623a1bb15dc90b09768c71d7ed18dea1c5fcc234d6855ec68",
+      "after": "86824a981d10af59d098856a41cf9095c8fc9088b9c3be8ca21eb5f25acaa321",
+      "count": 0,
+      "dynamicDisplayValues": 1
+    },
+    {
+      "file": "components/ShowRulersProvider.js",
+      "before": "19fd39662e7ebad284b7e67a64605dbbb91691cd94ba80994bd1a1faa6a7b21e",
+      "after": "60b392111067c9bd237e9eca57140d42a7e02a0daa4986f1fab3dea9c763947b",
+      "count": 0,
+      "dynamicDisplayValues": 1
+    },
+    {
+      "file": "components/sidebar-menu-items.js",
+      "before": "56db053f437a09f8e594702cff44d2929c710723c19165de545034051653139c",
+      "after": "340f9a0487b5b813263b8d4ffad184bcb0327b6b02fe43bf0886a3384a0ec059",
+      "count": 5,
+      "dynamicDisplayValues": 0
+    },
+    {
+      "file": "components/SidebarCollapserControls.js",
+      "before": "af8f7e1ad7520bb5f3bd455deaea080dec09a4a1083a06ba0726a35a9c4f7288",
+      "after": "b6fb8e28ab6f9cd6f8a1c481bb76e73fbda2f085bd8e740531223e087666e579",
+      "count": 3,
+      "dynamicDisplayValues": 5
+    },
+    {
+      "file": "components/SidebarRenderButton.js",
+      "before": "59b44035d2a1f1174e749dcf9d0de9ec4c25773fd69b8220fb049e4f146f8e66",
+      "after": "03f2e95c7f1e8d00b44028406927a3e988c47afe18eaf8dee2683c2cad51fefc",
+      "count": 2,
+      "dynamicDisplayValues": 1
+    },
+    {
+      "file": "components/SizeSelector.js",
+      "before": "5f757216e835cb5f2d45501db53175c96611a23f6e435f7b8ef5092414711b82",
+      "after": "0f0cb5fdc519e7e2696bd63efbbd188a727899d7673eb467a8817a379e2d7bda",
+      "count": 1,
+      "dynamicDisplayValues": 2
+    },
+    {
+      "file": "components/SkillsSettings.js",
+      "before": "fd96d8fabe6780cbe41a9c87eb1546c376953b87dc97eb9e5edec3c3260997ec",
+      "after": "5e2bfee42c3138e1e932dfd3f5da725189a4b799cbefe0247985f3927475540e",
+      "count": 20,
+      "dynamicDisplayValues": 8
+    },
+    {
+      "file": "components/SnappingProvider.js",
+      "before": "470e50165f99a2033e7a1c4d6484b55b3cc3d9ea083ec68e04abb07be7273951",
+      "after": "c43f29903abdeef45d05c7df0e03618ca034c3130400955407afcf49122dd842",
+      "count": 0,
+      "dynamicDisplayValues": 1
+    },
+    {
+      "file": "components/SnappingToggle.js",
+      "before": "95640db8a7d723e91e08449b0a0aa68101f2eb78eec94921d2a57c707dfb5a20",
+      "after": "d93933c686ca27f287e71052f62d1e62e8306057f421153d281bd323154bb041",
+      "count": 3,
+      "dynamicDisplayValues": 2
+    },
+    {
+      "file": "components/Spinner.js",
+      "before": "c45ebfcfd3da7af0306772f9e937856dc632d937bcba2800749ad420fd6135c8",
+      "after": "6eee79ff4f895c971e6ec01bf18f75301021f3e65f941003a35919a4e396ec3a",
+      "count": 0,
+      "dynamicDisplayValues": 1
+    },
+    {
+      "file": "components/Splitter/SplitterContainer.js",
+      "before": "eeb811fa61bcaea092365b8e8117baf2d2d555d6afb4ae1870c264948499bc9d",
+      "after": "54e850aeaf7ea7b7568517946d444c321c1ddd5ebc0a2ce6bd5ec45cc67f45bf",
+      "count": 0,
+      "dynamicDisplayValues": 1
+    },
+    {
+      "file": "components/Splitter/SplitterElement.js",
+      "before": "2194d764c6f8f3572a1dd885864eb6920a97713329a37dd5037d70dca0ee8b70",
+      "after": "ce4beb5eec389f94b60517d8c5f5c3ae17b3c88d10bf3018e90b24abbc554f8e",
+      "count": 0,
+      "dynamicDisplayValues": 2
+    },
+    {
+      "file": "components/StaticFilePreview.js",
+      "before": "22e4890704a3ad3c7c665f0cde32305a329b76a9798edb5b1e0a0c2e812678cc",
+      "after": "7a4b6c3faf2805e25ba36d8ced24b63144f4ab7ae33f9be5dd8aaaed70db46a3",
+      "count": 2,
+      "dynamicDisplayValues": 1
+    },
+    {
+      "file": "components/StudioSettings.js",
+      "before": "efed57c1cca3e913345508f07694fe228ba1b68a4b8606b9db775c44417a13fa",
+      "after": "c3c214eb20d64f4ac353d39943ef9a366949fb0bb5e853e0436564a5e039b776",
+      "count": 20,
+      "dynamicDisplayValues": 15
+    },
+    {
+      "file": "components/SvgImportDialog.js",
+      "before": "6dcdf014f051b60cffa8258a98f131a17588a68bd133f0f5b9b1758a927b8bc8",
+      "after": "702fe4902df932b3500b3aabbc8960c45f4fcc7628835c1ffa0a4caac6e10af1",
+      "count": 5,
+      "dynamicDisplayValues": 2
+    },
+    {
+      "file": "components/SyntaxHighlightedSource.js",
+      "before": "811048e422bfed3a9008a45bc8f9aa3af029c44ae7467507f4a8b4b29f9471a3",
+      "after": "a4eecc52a12f84e0e264fce364e4dbee9f63141977f67979411133312bdd88a6",
+      "count": 0,
+      "dynamicDisplayValues": 3
+    },
+    {
+      "file": "components/Tabs/index.js",
+      "before": "2cd671e2e82be8f7de24e4b542ccbda4d7b5c2bbcc6e3046fa3c2a57dfaca085",
+      "after": "f0ccb33d6aae97b26303d09a65bc81fd935e94f5f67e486f7fee03f355ef61b9",
+      "count": 0,
+      "dynamicDisplayValues": 2
+    },
+    {
+      "file": "components/Tabs/vertical.js",
+      "before": "904190d4291bc5ec226dd14dadce807842d5510671af7cd0d62d739f0724ddc8",
+      "after": "3e0f8536c80336bec0a149a16905b28a9f279499dba200f3dfcad68e5ad616e3",
+      "count": 0,
+      "dynamicDisplayValues": 4
+    },
+    {
+      "file": "components/TextViewer.js",
+      "before": "876c76609899ae84faa92489f9f5061830ee73082b59b39690e9244be6d39569",
+      "after": "6b78991ba6da7a91a1660b38c83b6d41e2b0979fc8e6c4e7e969941891f4a6bc",
+      "count": 0,
+      "dynamicDisplayValues": 1
+    },
+    {
+      "file": "components/Timeline/delete-selected-timeline-item.js",
+      "before": "517526801821f4e9bb2ec648156a813f412a3be10fd6d54980e81d9dab70d42a",
+      "after": "bf1bacc008454d974efb1ef6177acd8c3583af3e26924e92b16ac8a2dabaced4",
+      "count": 5,
+      "dynamicDisplayValues": 0
+    },
+    {
+      "file": "components/Timeline/duplicate-selected-timeline-item.js",
+      "before": "bcac99e7dd2e44a83a35e40086696f2d545f1810c675657df1ad7460a0734501",
+      "after": "3781e5129061712809af12545031fea2d21da3ee9472accdea79d5ba2044c52a",
+      "count": 5,
+      "dynamicDisplayValues": 0
+    },
+    {
+      "file": "components/Timeline/EasingEditorModal.js",
+      "before": "8399fe6d465add0cffb87c0a3b808da946555c7af42e9c87f983365f5a7c5b6c",
+      "after": "47eceaaf96895a2bb16a7c89a7aba557d241c19908305fbb72ae75a8fa29d0e6",
+      "count": 14,
+      "dynamicDisplayValues": 22
+    },
+    {
+      "file": "components/Timeline/get-copy-context-for-agents-menu-item.js",
+      "before": "409bc07eca7b4c0c6b428eddfc4b7efb3059dee7de489d74b20330f34ecc2975",
+      "after": "33b9dc14041c86bc4f5e506321ef8234f8af057606341d8989d1d4c1ff3ab7a6",
+      "count": 1,
+      "dynamicDisplayValues": 0
+    },
+    {
+      "file": "components/Timeline/get-sequence-context-menu-items.js",
+      "before": "9dec41b01b5ced8c301f98052fe6c68ca69ef2b0a33882cd53ca15b52f70f61f",
+      "after": "82f189ba529150098cb6443b6eff875e55f0bef4cf34a9a12b5b8179ac36c1d6",
+      "count": 13,
+      "dynamicDisplayValues": 3
+    },
+    {
+      "file": "components/Timeline/get-sequence-split-menu-item.js",
+      "before": "8b3ad195a3ab8c2f2ecf80f2540360d954ba4b6649731e9967d8d8cc2b1422d8",
+      "after": "3b8cbdd6a00c5a709eb92756b8094065a7150036388f2090d5c50bf58766f67d",
+      "count": 2,
+      "dynamicDisplayValues": 1
+    },
+    {
+      "file": "components/Timeline/LoopedIndicator.js",
+      "before": "fa9dc36ad5c05ceb941405a676d6f230ff0e9ab07191273951b4ce255e67919f",
+      "after": "045c0b4d859d4b0474716c3d483c3045bccaf545a6dd3fd01cdf031bf28f7573",
+      "count": 0,
+      "dynamicDisplayValues": 3
+    },
+    {
+      "file": "components/Timeline/LoopedTimelineIndicators.js",
+      "before": "9ed68a4b4de5dd1f1ada3d45c1b1ff09d4916804ea1fa1ba52d93cf607414948",
+      "after": "9613b715fb69a5824c0f63ded5e662e176a2856d7af7141cc299d05490cc0635",
+      "count": 0,
+      "dynamicDisplayValues": 1
+    },
+    {
+      "file": "components/Timeline/MaxTimelineTracks.js",
+      "before": "69b7b1564dd37b447249f2e31d73a9ea6bc84042503bca787f0d76d3627f1551",
+      "after": "45b4bd96f959179f9f010e17ff8ce0c0b2bfc2a6c2e2c19c9a84d1a7fd684791",
+      "count": 3,
+      "dynamicDisplayValues": 1
+    },
+    {
+      "file": "components/Timeline/timeline-asset-link.js",
+      "before": "8d47821ab3ae1f2ba1bc1b29ec39945052f507f187fcd3bcfe37dda10a85d1fa",
+      "after": "14d51a0e6e0157db4fe2aae6a699e4a2d2f55b8797604bd97e9ee7dcc702d738",
+      "count": 0,
+      "dynamicDisplayValues": 4
+    },
+    {
+      "file": "components/Timeline/Timeline.js",
+      "before": "07857cb8c9e3f4adcc26f0a28b913f4330834eeda827f1ce945643d8158d0fe4",
+      "after": "300bdb9ad6e5696043bd287cf061a1fa54179fb368354de0dc579f40a53cc965",
+      "count": 2,
+      "dynamicDisplayValues": 5
+    },
+    {
+      "file": "components/Timeline/TimelineArrayField.js",
+      "before": "867f8d68d80e4bc6000daf7ab48dae09a907ac371374e24e04ece0e0f71a53fa",
+      "after": "5ebacdf61d7e6925606ffc735662c2ec96485d4489e1dc201720419deecc37be",
+      "count": 2,
+      "dynamicDisplayValues": 3
+    },
+    {
+      "file": "components/Timeline/TimelineAssetField.js",
+      "before": "7a04e797f8b12a873379b4d808f1dbbf8b4a076fcc0f195cc26ad5f1ea46d891",
+      "after": "9bd05713e3088a18771354d63eb5dfc7a3197e097a098319c475f803467cbb2e",
+      "count": 3,
+      "dynamicDisplayValues": 7
+    },
+    {
+      "file": "components/Timeline/TimelineCollapseToggle.js",
+      "before": "0a90e92907fa11858400f08025c10808d77085531a436bed707ba258095aef6b",
+      "after": "565054d04c43bb08841031cedc135a9377fd87f6841a892625a8aba255b585d5",
+      "count": 0,
+      "dynamicDisplayValues": 2
+    },
+    {
+      "file": "components/Timeline/TimelineColorField.js",
+      "before": "b45779e0b218eacad8fccaa8b2a75b0eb1a07f397f3ead419c273404e1868732",
+      "after": "e6ef453406a36a6788a3ff19c645780453dee92573fa22e1009ed09573bca4f7",
+      "count": 4,
+      "dynamicDisplayValues": 2
+    },
+    {
+      "file": "components/Timeline/TimelineDragHandler.js",
+      "before": "0e3fb225f4ea453b65431de1cfc11bbd79015e39984f95f59e483905472910f0",
+      "after": "c028b555cb4b9d6fd6b99963a771c54513c748c59878fe3c13b30728df0f7473",
+      "count": 0,
+      "dynamicDisplayValues": 2
+    },
+    {
+      "file": "components/Timeline/TimelineDuplicateCount.js",
+      "before": "c45d323c8b004c940c0ffbc1e227a9e24abf36f6880ab027e2e4ddff813d552d",
+      "after": "6c9630e242670fc4920247897611243e1c19c5938b8c92e22fe44c9446ed981f",
+      "count": 4,
+      "dynamicDisplayValues": 2
+    },
+    {
+      "file": "components/Timeline/TimelineEffectItem.js",
+      "before": "282cbd6493dcfe46fe29dbef5c7bf05c940d2ff10651a60d001f433f180412ed",
+      "after": "fcd114178d165bbeda4e5fecd40b160963dca6949db16608fc4460e2628ae3e1",
+      "count": 3,
+      "dynamicDisplayValues": 5
+    },
+    {
+      "file": "components/Timeline/TimelineEffectPropItem.js",
+      "before": "e808ecb83328eb0d464b9f9f428a24cd3b030d319669e4a42eb3dc2f9f2a3ad3",
+      "after": "d44255dfa5a4c9b637a356c10b31954843a11dd1847df1c03293179b5d97d418",
+      "count": 6,
+      "dynamicDisplayValues": 2
+    },
+    {
+      "file": "components/Timeline/TimelineEnumField.js",
+      "before": "88cc7aeca21ecde35a60f21ab385ff1b41a236040c87d5a996ff6835eca45366",
+      "after": "9c5a2a7bc44c58f6441d5dea439f36c18736010dba7c1035eaf5d2719193cf33",
+      "count": 0,
+      "dynamicDisplayValues": 2
+    },
+    {
+      "file": "components/Timeline/TimelineExpandArrowButton.js",
+      "before": "aecab39f338e15c166e281ae8b63abb7b91a25a6e9741d1b4090b22330ff59dc",
+      "after": "efe2212d8091676c071d04671c3f4a731b37788ff580e281b90b3d9b86234e4a",
+      "count": 2,
+      "dynamicDisplayValues": 2
+    },
+    {
+      "file": "components/Timeline/TimelineExpandedKeyframeRow.js",
+      "before": "b5a0ef6aafed824230929f7a2d79ebb9919688a1ae75fe33419cd9c677fda024",
+      "after": "a959d194c0dcc3aa26818e52f4c5cd21c442e697e71e0dfac81abd053dabd7a8",
+      "count": 0,
+      "dynamicDisplayValues": 1
+    },
+    {
+      "file": "components/Timeline/TimelineExpandedRow.js",
+      "before": "173e894008922fd273bcfe42a111221c2a283c9ee33adba0640f579ebf555b7e",
+      "after": "c98807fc37bb516e7c14f213822ef0e33136e430abd474d02b4ca1dbecf81faa",
+      "count": 1,
+      "dynamicDisplayValues": 4
+    },
+    {
+      "file": "components/Timeline/TimelineExpandedSection.js",
+      "before": "c3040132c5bd5b85543204488542161ea75fd6d32687760814b5a55d86d7e015",
+      "after": "cb014c687a83ee30797a0b95a37c5f5afd7dc111bb99ea5db73c9158df71ec69",
+      "count": 0,
+      "dynamicDisplayValues": 1
+    },
+    {
+      "file": "components/Timeline/TimelineExpandedTrackKeyframes.js",
+      "before": "f25e76aed96f973040cdc504c6bbfae8b7d4e5dbee3b3123f9de5a66866f33ba",
+      "after": "48625df44d94eaa8d81d3ae1610a2edb49c0653b11595eb54a46a8cd52e6579b",
+      "count": 0,
+      "dynamicDisplayValues": 1
+    },
+    {
+      "file": "components/Timeline/TimelineFieldLabel.js",
+      "before": "03ca38c0417e42da75757aced24b1cf4c1595620e7a9e3c87fbc4984efa8bd30",
+      "after": "11a0f0e753be124af55a25e242f0aa7472cb31b2146751fc4558e24eeb0f742b",
+      "count": 0,
+      "dynamicDisplayValues": 2
+    },
+    {
+      "file": "components/Timeline/TimelineFieldRowContent.js",
+      "before": "1adfdbf3ae6f3d652a39d9d1dbf92199742d64fe5304fc54c1e9443bc88f4165",
+      "after": "0e63de861024cf94dd0eb8809cd69ab6f7033fa35092b4ffced3dfeb0cd6b810",
+      "count": 0,
+      "dynamicDisplayValues": 4
+    },
+    {
+      "file": "components/Timeline/TimelineFontFamilyField.js",
+      "before": "92ce1bd1112716f3870ca58163d5e76fb0240197c08047b8e0a926874f599c3a",
+      "after": "f49d9db08f75468cc8989c3c17f2ddec859267b9ec018e10760a2103a6736eea",
+      "count": 5,
+      "dynamicDisplayValues": 12
+    },
+    {
+      "file": "components/Timeline/TimelineFontWeightField.js",
+      "before": "b1f1fd2a984e6d89642c76babe0a1e7541f2d25d1d772997998fad713cd39934",
+      "after": "88ce99b990d8e10cbfd7ece94666add1fb499c4ed79d4f2934e733c714ec3238",
+      "count": 0,
+      "dynamicDisplayValues": 2
+    },
+    {
+      "file": "components/Timeline/TimelineHeightContainer.js",
+      "before": "33491230a7218a6dbfba3fe3a4fb53ccdcaa01471f3171ca0dbed2fea514a21c",
+      "after": "65f64b69bd4397d5d1da64061b8684ae5a15ff908060d06e69ce94877e3db769",
+      "count": 0,
+      "dynamicDisplayValues": 1
+    },
+    {
+      "file": "components/Timeline/TimelineInOutDragHandler.js",
+      "before": "bc192336c741b59a3f298208a63eb9972ce7e54cf28c2c4a742061a219adc41d",
+      "after": "bf7bc8e856cafb0d05a2faee96b429541288463b3cf99aac0638f139aa8bcd18",
+      "count": 2,
+      "dynamicDisplayValues": 2
+    },
+    {
+      "file": "components/Timeline/TimelineInOutPointer.js",
+      "before": "0bd661e81f3be1372aca2506392acb1909d33b31e8f797cfedae89f2ab61ab1f",
+      "after": "634b0bac4b3aa58c5941a3662007ee90b97afb26c19354578163d4b4f8e965a7",
+      "count": 0,
+      "dynamicDisplayValues": 1
+    },
+    {
+      "file": "components/Timeline/TimelineKeyframeControls.js",
+      "before": "2a123287630f3ead9c664eda38082e17c0c688a6ff0793853c46e89f5eeac433",
+      "after": "842d1091896e25cb906c7d4fe12fe207a2aac949bcafbbe66a1700993b8c521d",
+      "count": 6,
+      "dynamicDisplayValues": 5
+    },
+    {
+      "file": "components/Timeline/TimelineKeyframeDiamond.js",
+      "before": "b3f8097de3c2d41313e370ba18b50948e2bca779244699d822f45cb84e9115e1",
+      "after": "7c85ee45d84b5eb4e16120a22e90a24897fdb50743b907765aa73ad235505e77",
+      "count": 1,
+      "dynamicDisplayValues": 2
+    },
+    {
+      "file": "components/Timeline/TimelineKeyframeDiamondIcon.js",
+      "before": "0cb34535785dc95032c5bfe50ed2028511d6959684af9aefacf8b8ef47b8a43f",
+      "after": "b645043ab745a15e11bae73b5fb5aba329af0d47fac61999183fe42c72ee4df7",
+      "count": 0,
+      "dynamicDisplayValues": 1
+    },
+    {
+      "file": "components/Timeline/TimelineKeyframeDragState.js",
+      "before": "dd69c0980b4ac9bb4ec66be947a8dd74addbb2dae9756efe8a81584d000df89f",
+      "after": "45bacf7094ab8b0c605954277c28a30245b42bc7f390de9cb4d9768c33f5668d",
+      "count": 0,
+      "dynamicDisplayValues": 1
+    },
+    {
+      "file": "components/Timeline/TimelineKeyframeEasingLine.js",
+      "before": "2392ede78e0ebafe241a449ed1b30503e6d3ea3d7616083a0933133433c2f306",
+      "after": "ddc78ad12999397b9823f9a33c0271064fc9d0cae976c67f83ec5f1c2be378b7",
+      "count": 1,
+      "dynamicDisplayValues": 3
+    },
+    {
+      "file": "components/Timeline/TimelineKeyframeTracksContext.js",
+      "before": "f28f7c3d8ef4e1ceca1aac943fc619c5b4c24b1b040caf5cc121205a649d19bc",
+      "after": "d76705284500523e6c36f411569ec8e2b04cd4503f88f04c62df687e4af3658f",
+      "count": 0,
+      "dynamicDisplayValues": 1
+    },
+    {
+      "file": "components/Timeline/TimelineLayerChildren.js",
+      "before": "3c20bd0158a8521112f23773d1a135372fc7916989fa4e3a1a176b299323456f",
+      "after": "2462a969279beadfb965afa552f545565f1e0c6ba7007e4b55ff9835427a3c54",
+      "count": 3,
+      "dynamicDisplayValues": 2
+    },
+    {
+      "file": "components/Timeline/TimelineLayerEye.js",
+      "before": "87810c6890e031171a3b830ebbca9940fc354d799c8d39272b1b70e57b4d8951",
+      "after": "6a2effefa238967c08c50a9682179c5b3ed4822f0c0aa03b8d09b79e2c8e5b27",
+      "count": 0,
+      "dynamicDisplayValues": 4
+    },
+    {
+      "file": "components/Timeline/TimelineList.js",
+      "before": "5b1803ae69aecc9493e575db677d7800b9c3dbb87dd96acd3aae1a27c740b479",
+      "after": "03263d2f4080af9a4dbe51b01884327a94d436cd86c7fa2513b2644d8e5a4dc6",
+      "count": 1,
+      "dynamicDisplayValues": 2
+    },
+    {
+      "file": "components/Timeline/TimelineMediaInfo.js",
+      "before": "2b540185845e4e2346d0fd69fc359428cfa9303495b636192dad438538770254",
+      "after": "27256738502966ab7547ba35354f02ae3c0d820de87558b855b8aab1fb831b76",
+      "count": 0,
+      "dynamicDisplayValues": 2
+    },
+    {
+      "file": "components/Timeline/TimelinePackedTrack.js",
+      "before": "09c75aaf62fb8326bb1278aed45618e2de58f9724264fd504ce1d43a7d586b13",
+      "after": "2613259ba03ed6d09273e33c3ad6b1f9a3f759262fdb86267ab1ec8c835c48d4",
+      "count": 0,
+      "dynamicDisplayValues": 1
+    },
+    {
+      "file": "components/Timeline/TimelinePrimitiveFieldValue.js",
+      "before": "f5fe9880685a360e029032afdae2a80c382f7b01e3254afb0174670dacf19805",
+      "after": "52801b6616ecc1430dcedcb704fd5f486a0f6960b1ec3012a836aac8ebd09f02",
+      "count": 0,
+      "dynamicDisplayValues": 11
+    },
+    {
+      "file": "components/Timeline/TimelineRotationField.js",
+      "before": "dfb99e5caf1af5c7803114cef65e45a8db50833f4b18a5493b8da9fa03b81ccc",
+      "after": "c6416dd078ccaa73acf99a06c4fd43316c9328add5fbc8b7dc53cf4282dba716",
+      "count": 3,
+      "dynamicDisplayValues": 2
+    },
+    {
+      "file": "components/Timeline/TimelineRowChrome.js",
+      "before": "7674511cd3d78ed7a545dd0574be8cb33a91639f9e967cfe188387116e5f9aaa",
+      "after": "782a574fdb0d5efa5a09190f88483bebb8fca55a775c6529f5dd9607e0e720a1",
+      "count": 0,
+      "dynamicDisplayValues": 5
+    },
+    {
+      "file": "components/Timeline/TimelineScaleField.js",
+      "before": "4e76b00cd870c8dff76505393602b1208f6707f8bd088e1920e022406d2a02b4",
+      "after": "cc3abf4fdf580370bf7433a7aa052f63455ed4833378b06dd1a54194984c24fd",
+      "count": 5,
+      "dynamicDisplayValues": 4
+    },
+    {
+      "file": "components/Timeline/TimelineSchemaField.js",
+      "before": "8a4c21314bddc0560c0fad5403bb2b7d376024ba20999c3701014b6c9ac452e6",
+      "after": "1ace5be8f9f4882aa6d0256b101f870ead46623802c08b7c3d81f43d057ec78a",
+      "count": 3,
+      "dynamicDisplayValues": 4
+    },
+    {
+      "file": "components/Timeline/TimelineScrollable.js",
+      "before": "5cfd8d0a853f579db72cd80d0fd5b4f31bd61ad9d4f21ec82311b3cd16333747",
+      "after": "f2cd0a56b2c5246649e3c9922803d86e647e773d3bc181294ae6f77d4c9749b0",
+      "count": 0,
+      "dynamicDisplayValues": 1
+    },
+    {
+      "file": "components/Timeline/TimelineSelection.js",
+      "before": "cb34d33953d3185f4084c9913c1d790043719e05166d21b61abcaf28b303e272",
+      "after": "c5c66c208b5664c01722f2ccc86a85c80c820ef771abfb6ea5548902aa7467ad",
+      "count": 0,
+      "dynamicDisplayValues": 3
+    },
+    {
+      "file": "components/Timeline/TimelineSequence.js",
+      "before": "8344c33adb286c8ef3af5dd303d8f0a4df3518db0fecf8b0f0426ac42ee1f382",
+      "after": "bd8c6e72ef128256dc6597cddd72132f025b651b53674af8f26e06009251e7c5",
+      "count": 1,
+      "dynamicDisplayValues": 13
+    },
+    {
+      "file": "components/Timeline/TimelineSequenceFrame.js",
+      "before": "0702288be50991f588f515a5294ff2576e8f14bf0de78a19baad8dc4c583a27a",
+      "after": "3fb8594729cfca4e46884e7f72904393651be90cf38ee9ad778e29dba7e11fd8",
+      "count": 2,
+      "dynamicDisplayValues": 1
+    },
+    {
+      "file": "components/Timeline/TimelineSequenceItem.js",
+      "before": "c09a6ad523510532ad99819bc355ab2cdc7bf9edb71a5d2e23370715b0a936ca",
+      "after": "b963e416082b3d5309bf7236a72f5835ca933dc64ccb9df60a92f56786508a03",
+      "count": 7,
+      "dynamicDisplayValues": 11
+    },
+    {
+      "file": "components/Timeline/TimelineSequenceName.js",
+      "before": "b62c597078c8932d3dc07510de65afbd4045daf68da87f0e7b8e47e5006aa025",
+      "after": "06d35dbfabcfe0149b452b655fb2a28f55fc340e62f38ba1e02390a20d9d038a",
+      "count": 1,
+      "dynamicDisplayValues": 5
+    },
+    {
+      "file": "components/Timeline/TimelineSequencePropItem.js",
+      "before": "854ca846d52e7e944b8248302fe38fd4c8392056d9a347575c4d16ac4c3d1b31",
+      "after": "bdbdece5dba2ebef1b629dfb50877114d5a188eeeeb1cdec5b25a165597ab9e5",
+      "count": 1,
+      "dynamicDisplayValues": 4
+    },
+    {
+      "file": "components/Timeline/TimelineSequenceRightEdgeDragHandle.js",
+      "before": "ee70b602784c42b196edc21a2b0262847a95ac4bb153a7a2650cf4b688d968f6",
+      "after": "ead8e821c64b710824f67fff92ee3cb8d026bf1cdf376cf08d192177f20f6e78",
+      "count": 5,
+      "dynamicDisplayValues": 4
+    },
+    {
+      "file": "components/Timeline/TimelineSlider.js",
+      "before": "014c971b493a6d9ad1025c65d336664a8851d8e21d1ac51cae07c4289e2523e5",
+      "after": "c028cec55555e0f263dff975c524d759e0b6c7d5bda825385887ffc96340b97f",
+      "count": 0,
+      "dynamicDisplayValues": 1
+    },
+    {
+      "file": "components/Timeline/TimelineSliderHandle.js",
+      "before": "8052d7f7a8d25873d8809a19f24f79e9f7f7062be7caa744951949a4c9a64f42",
+      "after": "d106c6116dfbdc4f586fc4372b898b5b3914c41d05448cd490f7b207208d121d",
+      "count": 0,
+      "dynamicDisplayValues": 1
+    },
+    {
+      "file": "components/Timeline/TimelineSnapIndicator.js",
+      "before": "02ab762d9aa650cbfeb5c6e12a4c8d7765ca448959d28161b49bd6cb62fe35cd",
+      "after": "b083494efb5e736ff830ddc109d24e3934818d28b31967654f9129499e34309a",
+      "count": 0,
+      "dynamicDisplayValues": 1
+    },
+    {
+      "file": "components/Timeline/TimelineTickFormatProvider.js",
+      "before": "87c36e44604a7892ef5700255f28ebd61951079d4dd524f5b73669611c3b3b1e",
+      "after": "70b7a3db183ea3e63dfebb8e745b994beca01e4c4393dca62f3c791781d67eea",
+      "count": 0,
+      "dynamicDisplayValues": 1
+    },
+    {
+      "file": "components/Timeline/TimelineTimeIndicators.js",
+      "before": "87ee1dcee87cfb88304ee94bd3aba0274abc3da6619b34288a1761dad1dc64aa",
+      "after": "eb0141ad348b00154fffb6584686d9893a143b30c2357580abfa95b339db0467",
+      "count": 0,
+      "dynamicDisplayValues": 2
+    },
+    {
+      "file": "components/Timeline/TimelineTrack.js",
+      "before": "42d8edd77d23d6112bb594eb3b634d47c534304f77ce15650506128b3223bdae",
+      "after": "fa4955e29bd3f030afe82f25299188e378ad181bbafbf595871ddbdedd996f86",
+      "count": 0,
+      "dynamicDisplayValues": 1
+    },
+    {
+      "file": "components/Timeline/TimelineTracks.js",
+      "before": "3d239fc1a9a22aa55725d0cae8276f8573f5ca42cfe48791f8dbbfd453095437",
+      "after": "06eaa72d3e81031939bfa5d6a0103310ca64d7389f5808cd641c9403c3285514",
+      "count": 0,
+      "dynamicDisplayValues": 1
+    },
+    {
+      "file": "components/Timeline/TimelineTransformOriginField.js",
+      "before": "a1c81bd638b8d57422401c16ec2d287f029330e42386782545a214137d7aca3e",
+      "after": "17149fd5f47758b926fd653e025791390c1c984dd6df70508777b20ff7033f57",
+      "count": 4,
+      "dynamicDisplayValues": 1
+    },
+    {
+      "file": "components/Timeline/TimelineTranslateField.js",
+      "before": "249f7b175aa4a0062ed7d734b9572034cbd19738f5689150542b3f1aa666dad3",
+      "after": "c9e4b8601e362434724d1c431cc54fded2d6d5df7a50c3c26ca6199a1afd380f",
+      "count": 4,
+      "dynamicDisplayValues": 1
+    },
+    {
+      "file": "components/Timeline/TimelineTrimTooltip.js",
+      "before": "b76d7d70b003cec8145e11cdeb07943d292840b917ff8cd3f5b614958de7131b",
+      "after": "ff1fce634c07f360489123f55c22594bea07a1571a2087ff0f618aa90432d1cb",
+      "count": 0,
+      "dynamicDisplayValues": 2
+    },
+    {
+      "file": "components/Timeline/TimelineUvCoordinateField.js",
+      "before": "e0ccc6452c3849aa9a05b7b288f86c09d6a39b46c25182be9f95d187dfe78442",
+      "after": "3582b57c4ac819b6a68ff32dd4307b4e12d25c81bcfb17db450870625931f072",
+      "count": 0,
+      "dynamicDisplayValues": 1
+    },
+    {
+      "file": "components/Timeline/TimelineVideoInfo.js",
+      "before": "39c222728e28316f95b241f5f9e5e6d0730ee884e886c4d6aab04071ed5c5df2",
+      "after": "2e3137881e1345553d4797a96c6161cf9016147ad8106bba51d08d8a95076867",
+      "count": 0,
+      "dynamicDisplayValues": 3
+    },
+    {
+      "file": "components/Timeline/TimelineViewport.js",
+      "before": "d9d0f408c3c7fbd617658285046b7b90a04299bde987d951d57d2014dc22a782",
+      "after": "b17db8564bf36f7d86e0e8040c82c50b813c31486d2184e06627cfa06cab1893",
+      "count": 0,
+      "dynamicDisplayValues": 1
+    },
+    {
+      "file": "components/Timeline/TimelineVirtualization.js",
+      "before": "2a9e1de1fd214304bf19d60752f3c5185ea3d94bd8202a6329bf5057cc5dc3ee",
+      "after": "45ca63f1b643a0d710769727da27849967e00546ed1db96f93d3cdc1de48fac8",
+      "count": 0,
+      "dynamicDisplayValues": 1
+    },
+    {
+      "file": "components/Timeline/TimelineWidthProvider.js",
+      "before": "192b68f0a31ce0cba3fdae19e44d35e6af49e7e796176c5d09c341e045d31125",
+      "after": "dee4fedaf7e2a3d3a466e6c3afdf6889aa58e06db5605e037b218d02055a5899",
+      "count": 0,
+      "dynamicDisplayValues": 1
+    },
+    {
+      "file": "components/Timeline/TimelineZoomControls.js",
+      "before": "26976a9dcd8b2e48978f237dbc401da39454b1b5c50b30a573023bf6171ac351",
+      "after": "44607c599e8e87b0b9b3025d273e261013191247405201732b03d45bc7239a3f",
+      "count": 6,
+      "dynamicDisplayValues": 3
+    },
+    {
+      "file": "components/Timeline/use-asset-timeline-context-menu.js",
+      "before": "2c65dfdf7b212f48b6fdd49539ce7a797e811d2dae78daf84a472ff1123079dc",
+      "after": "742ffa2521a77f531a020ad8a36b4281dcafa383f10ceaa7ab69498bf05a208d",
+      "count": 1,
+      "dynamicDisplayValues": 1
+    },
+    {
+      "file": "components/Timeline/use-sequence-freeze-frame-menu-item.js",
+      "before": "4396264b167fcf3dd2c9ad1c4797a1f67b5af1558d6cc3dbfa17f29cd2a6e133",
+      "after": "537fc01b84e1b70b88dd8fcc39912cc7aa94da57563655423f2dc4047d7b5085",
+      "count": 2,
+      "dynamicDisplayValues": 1
+    },
+    {
+      "file": "components/TimelineCombobox.js",
+      "before": "000dea80457da96a8c13bd137ca36e38997171cc8867dc3cf0649b46c0e30113",
+      "after": "6746e8d07da3e4a82ec9db52e26b879ca3398affe9e0eaeb23711015a7168c71",
+      "count": 0,
+      "dynamicDisplayValues": 5
+    },
+    {
+      "file": "components/TimelineInOutToggle.js",
+      "before": "fedc6952705a927a4506f1b929a1b6d8fc4fb0fd2177b9c0268ff4e1f8b19089",
+      "after": "bd2f3b80c7e4b8c951a3ddc591abb9b4a998be9a1f9622fbe3e07409b5f1a92d",
+      "count": 4,
+      "dynamicDisplayValues": 2
+    },
+    {
+      "file": "components/TimeValue.js",
+      "before": "a8d86ab0d69656af59c09c0f66772eda7dda4bef19f1d798c688363811396572",
+      "after": "bb8a238d105bf220caca4503a6c0262a2d8e6821f88bb0666d75ede9a061cbe7",
+      "count": 2,
+      "dynamicDisplayValues": 2
+    },
+    {
+      "file": "components/ToolbarMenuItems.js",
+      "before": "34922e2000cec253bc75312bc3d8dbac1fcfbc1137bc0142f60ebcd3e98f7f86",
+      "after": "6d31e54e126ebc6ed561ade63343d4e24585ff07b6a08c25d1f21e9784313fdb",
+      "count": 1,
+      "dynamicDisplayValues": 3
+    },
+    {
+      "file": "components/TopPanel.js",
+      "before": "e650411af6af3112a2bf54c1a0e690adfff564216a9273a9707ae6e79eeef4ff",
+      "after": "f867251f0cefca8dc11bf42a125fc52918c4951d5a4ecc8c6d91ad6dd91f90b5",
+      "count": 0,
+      "dynamicDisplayValues": 3
+    },
+    {
+      "file": "components/Transcription/Models.js",
+      "before": "107c37b7158c66a41b79674c0b89f9eaad5e905bed8b0fbea46aa6d4ec0d2714",
+      "after": "dcc9f93ff444db7f4796f25d5da3e352aae91d805dbd21544d6b2c8ac53693a2",
+      "count": 1,
+      "dynamicDisplayValues": 1
+    },
+    {
+      "file": "components/Transcription/TranscriptionModal.js",
+      "before": "85ae439e6c231b773c634497a7f60f330d8d9dd8c6a40412bb169ce7ccaa6cc6",
+      "after": "3ac53e68af2f28cf888e2524d74e9cdf8b6d88f6db7741f3103b5299414ce4e0",
+      "count": 43,
+      "dynamicDisplayValues": 29
+    },
+    {
+      "file": "components/Transcription/TranscriptionModalWithOptionalWhisper.js",
+      "before": "dfd4a77faebf0baae74c0afc2feca1ffbcf81acd2ce4cd95a898ccfa6ea05567",
+      "after": "549303fdf751fa5975bd6c1ef19faf0947a18f8eab8f94817b779baa772320d8",
+      "count": 7,
+      "dynamicDisplayValues": 4
+    },
+    {
+      "file": "components/UndoRedoButtons.js",
+      "before": "094e09508d22f082df226ee7e15e52a45e74f982c4217e0c5a1451b0255861e2",
+      "after": "9597f9ac37bb62831c901a93d8d3364ec525bee49218a1c43f48b3effe8314a1",
+      "count": 4,
+      "dynamicDisplayValues": 2
+    },
+    {
+      "file": "components/UpdatesSettings.js",
+      "before": "104fb6f76c9dabf516e0d50afb9a3cea381a390f62eab6020d660e7adf5a1081",
+      "after": "36b878293f989beb08087f69d40f87c024560f8bd223e70780483639477ce9a0",
+      "count": 47,
+      "dynamicDisplayValues": 21
+    },
+    {
+      "file": "components/UpdateStatusContext.js",
+      "before": "b636c5e00982aeba8d4ebf74f1e3ad8f5d6b9eff3b3264917ae2d4ca7458846e",
+      "after": "44063b9ce46bed3f2cde654fbd8e449b859a965de2ea03b4461e4f55ddc70411",
+      "count": 0,
+      "dynamicDisplayValues": 1
+    },
+    {
+      "file": "components/use-delete-asset.js",
+      "before": "61a904ee37960267902006473fb8e3c7c94224eda6d912ea877479f1cd2e8111",
+      "after": "b19d6c7a1c2d9f32b87e74f9f15270df649c213465817093a5264663ff7e859d",
+      "count": 3,
+      "dynamicDisplayValues": 1
+    },
+    {
+      "file": "components/VideoMatting/Models.js",
+      "before": "b78ff5c33defb5f7a4db52278083d87b2fa04ae73304376640189093928975ea",
+      "after": "24bb76e1f382deb93fc4101b3ec73164366fdaa6c9409e2398a6a6f577921562",
+      "count": 1,
+      "dynamicDisplayValues": 1
+    },
+    {
+      "file": "components/VideoMatting/VideoMattingModal.js",
+      "before": "df77fdf0c24b3f3e5de3436c82a46b40323e4402d4eef2d853721bd0a599b6c9",
+      "after": "2ab27847624c7ead1559ed5ff1d3302563c5e386f08662670ef0ee4c8fba98a4",
+      "count": 16,
+      "dynamicDisplayValues": 12
+    },
+    {
+      "file": "components/VideoMatting/VideoMattingModalWithOptionalPackage.js",
+      "before": "e278590a540cd2d69c6e9bc275f16637cc886940ec7e496f77ad4c68b0ab3534",
+      "after": "b66c2927ac654c37ba97ac66e17c1f8c4368db2fc86a36b1506115a8e3142b65",
+      "count": 2,
+      "dynamicDisplayValues": 1
+    },
+    {
+      "file": "components/VisualControls/ClickableFileName.js",
+      "before": "f1fa68b25cf79e64afbb9d603b1fb151c19c29a47e57401c9c9a62855f8a9fb4",
+      "after": "57f6ce459585fb3850241abc2250a39f36a41af68a0598e49ff503a0a1639dba",
+      "count": 2,
+      "dynamicDisplayValues": 1
+    },
+    {
+      "file": "components/VisualControls/VisualControlHandle.js",
+      "before": "167bc6459398afc5533ff6df0c8a3a9a6ee2ad3c508b5480e25cabe688ed1d56",
+      "after": "db72557328620712452f4eb93703144864ba8915167c9581ca41f8c7880cea22",
+      "count": 0,
+      "dynamicDisplayValues": 1
+    },
+    {
+      "file": "components/VisualControls/VisualControlsContent.js",
+      "before": "0a4bd099166314e287dc85d07dfe344a1fa5cf83e14d7ebee64b03afa5250932",
+      "after": "5d616282c8f0f21394a046a98874b3bc523f51be4e8b78f18cc37a743bf0a5c3",
+      "count": 0,
+      "dynamicDisplayValues": 1
+    },
+    {
+      "file": "components/WebMcp.js",
+      "before": "1fd4ce747aa62ed508e01bf351cbb217499d6021da7887f7063ecea65fcb7b20",
+      "after": "9066d1182c1ba0369dd4de77cf8ac3196c117402a074ef4f2dd90ea78d78ac77",
+      "count": 69,
+      "dynamicDisplayValues": 1
+    },
+    {
+      "file": "components/WrapRefactorModal.js",
+      "before": "531f7f4cb03b59cd4b577246f90e8a9a4d11301638b767a255e6a33515fb922a",
+      "after": "5fb4ad67b774effbc7d1ccc212b87f63ebc213535e52abcd3d6ef4a3ca6531d6",
+      "count": 7,
+      "dynamicDisplayValues": 2
+    },
+    {
+      "file": "components/ZoomGesturesProvider.js",
+      "before": "0f2a84135d0a2d5ddf6c8c8c96732f462ee9ac9cef52059349adfcc17b0e3ef6",
+      "after": "dcfa631fe5794f8082a4c198c2401ac397b8addda81bf00a38e01c9b72eff3fc",
+      "count": 0,
+      "dynamicDisplayValues": 1
+    },
+    {
+      "file": "error-overlay/remotion-overlay/AskOnDiscord.js",
+      "before": "1e7f9253f7d96e44d53da705f7edb6af89f2936226fb351d297d9de8e5918180",
+      "after": "69fcae96a9ab71b25eae5e8c96d2cb24bd3a7c6cf9ed109461860e316f7581a3",
+      "count": 1,
+      "dynamicDisplayValues": 1
+    },
+    {
+      "file": "error-overlay/remotion-overlay/CalculateMetadataErrorExplainer.js",
+      "before": "433dc1928eec89c1f8fa8f98c2e958e38212f78209ca6fc63f47060886865eb9",
+      "after": "606e0ad2975cb8eaf9e8a8fd2ed6a035a0b24016d09ce3c1b4bc288e5dd37db3",
+      "count": 2,
+      "dynamicDisplayValues": 1
+    },
+    {
+      "file": "error-overlay/remotion-overlay/carets.js",
+      "before": "9068cb2c4753ec6e7ce23b14b4384a4d0f218a588b7341d925be678f18a03b3d",
+      "after": "23ea67ec5ee628c4e9b8c4a3ee8a8f19a678d00eb90676ff5f00fdcb4508a95a",
+      "count": 0,
+      "dynamicDisplayValues": 2
+    },
+    {
+      "file": "error-overlay/remotion-overlay/CompositionIdListItem.js",
+      "before": "ef3e6c1f90ba07ec949e0389ee0465d9c3f85e3c88ffac11f67644cfb78efc7c",
+      "after": "21b4cfe99f1e7f7348bd327182ab6a9e74d68ece493a8a8badabc44602995efd",
+      "count": 0,
+      "dynamicDisplayValues": 2
+    },
+    {
+      "file": "error-overlay/remotion-overlay/CopyStackTrace.js",
+      "before": "ba701ba8d4f871963cca64a40a4ea2e38c47e4085c097eba70432e3557ddb064",
+      "after": "46d38cf9dea31c70170ff5948ca21dfc8193255fc2332a4374d6ffc3e5a3df23",
+      "count": 0,
+      "dynamicDisplayValues": 1
+    },
+    {
+      "file": "error-overlay/remotion-overlay/DismissButton.js",
+      "before": "bbdd5f63424ac713e36ba6d1f0b90f2f5c5895b424aa2bd559cfc11e77be5795",
+      "after": "e9da99c0a017c1639eddd2ef37cedee83ae6f91a32f1048d8bb461e183a2b7e0",
+      "count": 0,
+      "dynamicDisplayValues": 1
+    },
+    {
+      "file": "error-overlay/remotion-overlay/ErrorDisplay.js",
+      "before": "ed1c7dc831574e61ef5f47b253c3395a4c4f97dbb594a194307fa0cfdbb21350",
+      "after": "fcc92a2b659919b9e4dcc28be258ab36c058c1c48c92d0adf096d69f8046b7ec",
+      "count": 6,
+      "dynamicDisplayValues": 7
+    },
+    {
+      "file": "error-overlay/remotion-overlay/ErrorLoader.js",
+      "before": "636f2a394a0c754aa636e896881c44da4cd93cb59c93aedf81ac9ffca4a82005",
+      "after": "03c184a674eeaca8a0870cfbd4316d562d18f6bd15160bd60aba74b547c291c8",
+      "count": 0,
+      "dynamicDisplayValues": 4
+    },
+    {
+      "file": "error-overlay/remotion-overlay/ErrorMessage.js",
+      "before": "c00fa079e6ca62ec7926fa820c18cefff90b8e5ac48bee8889734cf9b02c52c5",
+      "after": "75a265d29cbb7538de51c4375bec6e0a846c3352c0f7b44a6ee1084d7e43f773",
+      "count": 0,
+      "dynamicDisplayValues": 2
+    },
+    {
+      "file": "error-overlay/remotion-overlay/ErrorTitle.js",
+      "before": "5050c2aae99abc0d05649c3bba07f230a7f875d124f180936411bd39d4f25b30",
+      "after": "b9eeff551a6ce8ac209158f3ad1543bc885f14f81ed4886bbb6883caba085564",
+      "count": 0,
+      "dynamicDisplayValues": 3
+    },
+    {
+      "file": "error-overlay/remotion-overlay/get-help-link.js",
+      "before": "64d7b0ada6f2635b735d961cf6dfb722fcbc08e1f7862b1a23b4128fd0d51313",
+      "after": "53c26d472eda8109427e7372c23ad18ab2bd4bee1692b630a610dc3e90f1f279",
+      "count": 7,
+      "dynamicDisplayValues": 0
+    },
+    {
+      "file": "error-overlay/remotion-overlay/HelpLink.js",
+      "before": "0374ea52375dd7a96dedadc163bab95346b05c51ced06e7a8be246d838f9d32c",
+      "after": "2a85d24df06ebe9dd269a38f6bb021ebf4cc21548ca3b29d5036e7d15200ea54",
+      "count": 1,
+      "dynamicDisplayValues": 1
+    },
+    {
+      "file": "error-overlay/remotion-overlay/MediaPlaybackErrorExplainer.js",
+      "before": "2ffb10a7df0dd123bfc76422f38d3340281dafc13f02912d2f82f8e4f82cb9d8",
+      "after": "c07341932fdc1183dcaf27f13558fc7d6ae91a8c1e44e6c065d0d7c4acbd04cd",
+      "count": 17,
+      "dynamicDisplayValues": 3
+    },
+    {
+      "file": "error-overlay/remotion-overlay/OpenInEditor.js",
+      "before": "09c13eb1484cbc630bb957bef9331365028f1c45a1fc21f1dca5d4bf9e1042a4",
+      "after": "499622efc3a2de027a09d33f32960ab4f4546b1a49f0bcd199ae01bb9ad3a03d",
+      "count": 3,
+      "dynamicDisplayValues": 4
+    },
+    {
+      "file": "error-overlay/remotion-overlay/Overlay.js",
+      "before": "c1b56c50e5fcec2f28e08a66b697322049b7bf691b7412f4686078aa9d5123fb",
+      "after": "2c94a652b8ee5b4915f3e8a8e9995b08a9d4f0de74d86aa0aa5539352ef95cdc",
+      "count": 0,
+      "dynamicDisplayValues": 1
+    },
+    {
+      "file": "error-overlay/remotion-overlay/Retry.js",
+      "before": "1b03d1656380467bb7b2ae917066f543f9b5f9dc023503261f41e617efba3831",
+      "after": "13d1114a3ed15d5cb63c737c2a2c3c874c3bac48aff59647fb51f18c16402346",
+      "count": 0,
+      "dynamicDisplayValues": 1
+    },
+    {
+      "file": "error-overlay/remotion-overlay/SearchGitHubIssues.js",
+      "before": "18ea3d2f4519124771d6360fe44c4b92e71c54a3b1c00d43b5810586ed4f20bb",
+      "after": "fba6daf6b673d00430580109d12629303cfcf8880aeebfdededd56786903a5e1",
+      "count": 1,
+      "dynamicDisplayValues": 1
+    },
+    {
+      "file": "error-overlay/remotion-overlay/ShortcutHint.js",
+      "before": "49aece916aa5404e062ae939e4c849b454dea996919bbdfea8621e8cc8039129",
+      "after": "bd2efaa2c2ff3150b905c650b154abe991fe479ab9f4539d0d31d95e65060895",
+      "count": 0,
+      "dynamicDisplayValues": 1
+    },
+    {
+      "file": "error-overlay/remotion-overlay/StackFrame.js",
+      "before": "248172f0ee8cfacc5820f72447cf2b11267170ad414800d3539a83cb29f5a3b0",
+      "after": "844460d6a851b5071c989de6201dd3e0e4fbae5cf26146f985ef81daf172047f",
+      "count": 0,
+      "dynamicDisplayValues": 5
+    },
+    {
+      "file": "error-overlay/remotion-overlay/Symbolicating.js",
+      "before": "981d3f26a6ce9966e902ebba6f895631c1328a875854fbc9e53ca234dcb1f518",
+      "after": "bef50f9b3292a12b748358310cf051308b040ca2f652da3e751b15b4fb27d80f",
+      "count": 0,
+      "dynamicDisplayValues": 8
+    },
+    {
+      "file": "esm/CaptionQueueProcessor-wgdfptz6.mjs",
+      "before": "c6ab8bd2eb4e553b2d33bacfa21a33858f9a7491e8eb5cf51c92e3b3382f0052",
+      "after": "98de516d72d7698b5f4b481431c1515ef03ad58ceb8948fdbb67a267e259aa68",
+      "count": 7,
+      "dynamicDisplayValues": 0
+    },
+    {
+      "file": "esm/index-09txs1bj.mjs",
+      "before": "0c1415b4f864bbc8a3e5b38b9392023ecf1ed820609167a0cc2347d19c70eee0",
+      "after": "5f7f3df4b10aba19773bac6359f650776391ed094d3ce2a6bc8316a34a71d2e1",
+      "count": 2,
+      "dynamicDisplayValues": 0
+    },
+    {
+      "file": "esm/index-2yx78sh9.mjs",
+      "before": "92b2d95a2e0a7bbdd4b95526a09a1c38e33d257d1565e7e2841e99a570e38fc9",
+      "after": "5770b5f858402555565576bd92cd5b4d2e560aa7c804bf7fef1de0e89617ca06",
+      "count": 0,
+      "dynamicDisplayValues": 11
+    },
+    {
+      "file": "esm/index-4fks4h8y.mjs",
+      "before": "21d96feb08666bebcad461dfceef2add52090ed1b1dfa9f889857e0c7919515e",
+      "after": "9c4491b2d3f7ee9e6fe8052cf52f5e57b94491e37df8081c1a4869c00b40a258",
+      "count": 0,
+      "dynamicDisplayValues": 1
+    },
+    {
+      "file": "esm/index-5h6bv8fh.mjs",
+      "before": "4530b7ce8eab104e8c48c5f6e0f3cc1f6521f4bbe1eed3a25991c3b4e1b88504",
+      "after": "9f3048641d32259bfc6f370aad604bbb6c4fab78f7c5d41e5fa802346a5f1e5f",
+      "count": 0,
+      "dynamicDisplayValues": 10
+    },
+    {
+      "file": "esm/index-7t0e05na.mjs",
+      "before": "c70847757f455869b708071a2a6a5382ad40c354f52cca1280bb3cb68276055d",
+      "after": "4edd528d4ca5ddf9dc1631f321b2e7dfd20cc1ca760f5773c7cb460360ce2f8c",
+      "count": 959,
+      "dynamicDisplayValues": 752
+    },
+    {
+      "file": "esm/index-7ygw7vg1.mjs",
+      "before": "745bdd6455eb0db8e223792bd5cd821417de8905ceb4bfda38fb3704111514eb",
+      "after": "b5621693a935e8eb91e2645e00ef13c9cf96c29f20cc609c2ae1a1ae42ae8ff3",
+      "count": 0,
+      "dynamicDisplayValues": 1
+    },
+    {
+      "file": "esm/index-8hzv0red.mjs",
+      "before": "89d9f432ed597c3a489bb79028663d981d3a7692fabcbaa506c5901f3f7bd266",
+      "after": "adf8d63c884a7017c779a45ec24be219258c840544cc0618f95cb32f91aadfe8",
+      "count": 2,
+      "dynamicDisplayValues": 4
+    },
+    {
+      "file": "esm/index-8k9p0s2m.mjs",
+      "before": "ddcbd468107aa1a3b0f17fdd3c5f683eb3522ba3b33355c7ea1691f8084cb0b1",
+      "after": "a699f41153062bf60cedd8df02e4f8cc7f5fd8bcc1ac612f862dcd49e13b3d3c",
+      "count": 37,
+      "dynamicDisplayValues": 51
+    },
+    {
+      "file": "esm/index-8tk1xkcj.mjs",
+      "before": "827faf89a78d9801ecc345796a78d78a3fa950ee56342ee39aa5d4b61ced3d2b",
+      "after": "dda3a0d9945e4b267cc8566763729747114d3e53dc71b979601b757f4008afb4",
+      "count": 4,
+      "dynamicDisplayValues": 8
+    },
+    {
+      "file": "esm/index-bn28f51z.mjs",
+      "before": "707ff00020c7a7274ce7d5c74decd6d852939dd47dd1d18133252556485a0676",
+      "after": "c54bc0fcbe94736fa8963320dc45eb7a849b359034b70d60ce203e2df458d603",
+      "count": 1,
+      "dynamicDisplayValues": 0
+    },
+    {
+      "file": "esm/index-gfx254fk.mjs",
+      "before": "d1dac451108fadb4ef42b4d865d22307262154705c523149a933620fdddf1433",
+      "after": "6571b6684f8339d35027edfbc14f9070e4299d19a6c4854782960b5b009d47bd",
+      "count": 397,
+      "dynamicDisplayValues": 503
+    },
+    {
+      "file": "esm/index-gkjcmb49.mjs",
+      "before": "a612fdf06619216654a2ccd31828c389e411d5d06d7fb30703c176c2b1a294c4",
+      "after": "133000a08dfd92106448bb74d80ff0af200df3e83a4eb4ed3e1f49ab3b34e8ef",
+      "count": 0,
+      "dynamicDisplayValues": 1
+    },
+    {
+      "file": "esm/index-h02h76gq.mjs",
+      "before": "38535c530fc39b756bbe10b99461cc3d0cf70126fb2f4d2e216fa80a4f65d204",
+      "after": "bf55707f68bd7a2c559bce34d4c26f8997b388b42e9ecbac389e84948a885033",
+      "count": 0,
+      "dynamicDisplayValues": 6
+    },
+    {
+      "file": "esm/index-hqxc6tzp.mjs",
+      "before": "c31069471679de13e08a0e5e2120a1a88fc64694bbc4587b1f9c692e662ced6a",
+      "after": "1cdf73dd6c8b613f8e22d5a15fb9f58c7c0ddca44279c2552d211bea48482e3a",
+      "count": 3,
+      "dynamicDisplayValues": 0
+    },
+    {
+      "file": "esm/index-pwxekqaw.mjs",
+      "before": "cf7923031e461ddd852fc01a80f6bcc12900b772fade9310014b35ad2cf19c44",
+      "after": "e237a42dfe33721ccd1ed3315793ca665341829a1bccb1a38bd29ba6e99cfc15",
+      "count": 1,
+      "dynamicDisplayValues": 0
+    },
+    {
+      "file": "esm/index-twgd413y.mjs",
+      "before": "46a7f1a8fa3561a6f3481d2a60450c6416bbea13ce70f3f1b929686c26f2de7a",
+      "after": "421e93a2cc77d5d25c7c9b14bf54c1fa41b9021fba24bc2db0d0a8b4cb6e6d25",
+      "count": 14,
+      "dynamicDisplayValues": 35
+    },
+    {
+      "file": "esm/index-xgbbec97.mjs",
+      "before": "565b1614b04408679bff709711ba9ba23aa1d97221859c94bc5370a2768bd38e",
+      "after": "339c62c4e37129bfa93526f4c94cdf6f7f1bfdc5df3b1d0012adaaaf9105b4ad",
+      "count": 7,
+      "dynamicDisplayValues": 15
+    },
+    {
+      "file": "esm/index-xy3pbewt.mjs",
+      "before": "1f19d33afaa8ee96b8dbfc8a934d4d89f8396bfa7a49a94207305212ea4c0526",
+      "after": "070712ce57e601ae19ccd9b2a920ebea4dbfec32204d0b4d7b72887df7e6ff92",
+      "count": 2,
+      "dynamicDisplayValues": 1
+    },
+    {
+      "file": "esm/previewEntry.mjs",
+      "before": "90c9d475f4cb98faca2687d6e7c9f2f41a414400c90be9904b07c9e7836c720c",
+      "after": "e25028ceb190b27f8ca5dfc4683a6ad4cc8f2f7dcd69f52e18a73f3006af6e87",
+      "count": 2,
+      "dynamicDisplayValues": 1
+    },
+    {
+      "file": "esm/renderEntry.mjs",
+      "before": "49e0625a8feb34228ec956c8bded08fae4512c4c5c462653911d3981c2b4b1bd",
+      "after": "813bcfc577921148e4c4ca8905bc7164d14a205ee69942d2094fb73343932384",
+      "count": 2,
+      "dynamicDisplayValues": 4
+    },
+    {
+      "file": "esm/resolve-composition-component-location-qm547y8k.mjs",
+      "before": "c51f80a31f4b06f5ec2c91cef16ca0dbe833b7d604d16c9b07e9a6f6174bcd21",
+      "after": "2968797876618d7b15289c4640dc6080262b1bdff16d4b79ea7e1e07aaaf9689",
+      "count": 3,
+      "dynamicDisplayValues": 1
+    },
+    {
+      "file": "esm/SyntaxHighlightedSource-3xks91rz.mjs",
+      "before": "77626b0fe402cfab132ae7367c42424903361303e12c2bb8458f9cb8b43e16a7",
+      "after": "48eb3261e11113b0b4ff49e925daf672830b5040bd90b58beedbca2e64e2bb1a",
+      "count": 0,
+      "dynamicDisplayValues": 3
+    },
+    {
+      "file": "esm/TranscriptionModal-rhqmr8m7.mjs",
+      "before": "4b9c5d6769114b83da508e642f92779ced66e51d260c0176067e1c2072cd8809",
+      "after": "89e7476858cefc77defc65ddb5e62333d6a2b5d2ce3c0c3acd5fa791fde0170d",
+      "count": 43,
+      "dynamicDisplayValues": 29
+    },
+    {
+      "file": "esm/VideoMattingModal-1v8r9gv8.mjs",
+      "before": "94aa3b99bd73c26ea9e4d2eb0aa6e549d86b956312243c9f9ce1324f4ba6e3ac",
+      "after": "ddd29f80a0c946d799d4f639f8573dacfa91f075339d5f6609466b79b6aebea4",
+      "count": 16,
+      "dynamicDisplayValues": 12
+    },
+    {
+      "file": "esm/VideoMattingQueueProcessor-5vnh4hd1.mjs",
+      "before": "dbc7ea43c98b7d305e15e906fda962aa4bc9b7a5eec24d044c4301e0ad14b091",
+      "after": "5aff30c93e7305c43c746ac1c193bf5cffec1349414309f161a827fae820506c",
+      "count": 5,
+      "dynamicDisplayValues": 0
+    },
+    {
+      "file": "FastRefreshProvider.js",
+      "before": "1bb3a7403aee66c665ee856503ccf7bb0b8182026f3f221e048a0c4df166f0be",
+      "after": "78c655cbffbfdf1ec1a61fbf4111742fe81e300e8e8fb35b4323daa5aac1c5fa",
+      "count": 0,
+      "dynamicDisplayValues": 1
+    },
+    {
+      "file": "helpers/client-id.js",
+      "before": "90d43d24aa932f02bf8224d7e0572f389bb056d74f839ba8d226e32f1b7ba4e4",
+      "after": "413c9ed143e5fc09cb994b546c304bb3bd99c95a40a5f1320c6428ca29b32d4a",
+      "count": 0,
+      "dynamicDisplayValues": 1
+    },
+    {
+      "file": "helpers/editor-ruler.js",
+      "before": "d7326b6097f039ba2c420d2ef319174e0b8b36447e5a7bcd591a647dc73044d1",
+      "after": "11e08f3d040c4a3bc9e0262798c3aef3af594d80f54b4646e1de878ca486c0b5",
+      "count": 0,
+      "dynamicDisplayValues": 3
+    },
+    {
+      "file": "helpers/get-git-menu-item.js",
+      "before": "ee4ef92fd1d0242fd33bc33b69d1f52d9b7a0c9ed541fd98854cbb11f8baed74",
+      "after": "1ba69f6345f8cee1ca554d371e497077ca7779523e2501985ee1fa64cd4e4bd2",
+      "count": 4,
+      "dynamicDisplayValues": 1
+    },
+    {
+      "file": "helpers/pick-color.js",
+      "before": "aac3eb6f31a40f15e0eec5b0df884880da9862dcfbf6cc5e6b0a04dc24e5b96d",
+      "after": "445038c55e717705b6ea2bfdb485680d0553a6c879bd31d5037f377bd6510ccb",
+      "count": 1,
+      "dynamicDisplayValues": 1
+    },
+    {
+      "file": "helpers/timeline-layout.js",
+      "before": "f6bb1473a78f746660a0e9f8afb072606bfb08131a8062e525694c3db9ea02a1",
+      "after": "26df120a99b6cda4d1bf9996805fca23a334ea98feb3591a553ea261ab386f0a",
+      "count": 1,
+      "dynamicDisplayValues": 3
+    },
+    {
+      "file": "helpers/use-menu-structure.js",
+      "before": "e2c7b2c066dfa3fda5c00fbb6b23b47b7e92eede2be485ddc3a2254e6611b5fe",
+      "after": "91d4fe04cd2f44bbc0202696e742c4585b129c515490eb54341e00b8880a84b6",
+      "count": 82,
+      "dynamicDisplayValues": 6
+    },
+    {
+      "file": "hot-middleware-client/client.js",
+      "before": "c7830ce3c0d99b0582c954c0008d47c8e9e8f81b0b284afdd9e9ae4d46688d55",
+      "after": "843d08a0b62a396e62267d79d1baec3abac82e6e699891afcd775fa377bf9f60",
+      "count": 2,
+      "dynamicDisplayValues": 0
+    },
+    {
+      "file": "icons/align-center-horizontal.js",
+      "before": "41941d881e0128fa599ea3e1f2499198d4c7bac428bd241c0963613814fb8500",
+      "after": "239bbdf0678618419733855e1ad8e10a624cc6cad930f6e3026940df49a58a24",
+      "count": 0,
+      "dynamicDisplayValues": 1
+    },
+    {
+      "file": "icons/align-left.js",
+      "before": "3b1535befd67e59264f615637ece2b4b8dace7d075706f17d6377ec0dc4d7b66",
+      "after": "b1a94a1a9098dab6f522a119d8b127d31f33a86b37f63cf16e5b1af8c5266c09",
+      "count": 0,
+      "dynamicDisplayValues": 1
+    },
+    {
+      "file": "icons/align-right.js",
+      "before": "6b3ce5eca322d058cbe8a11ee8674ff275baf36ca0714b0afe50680b1e3ce57a",
+      "after": "cdc56149bb0e85f9db41fadb7f054f5caad8ed0631e2d6ea892023aed2513b75",
+      "count": 0,
+      "dynamicDisplayValues": 1
+    },
+    {
+      "file": "icons/apps.js",
+      "before": "386f8ae3027621b24e2be348434b33ba5c8cdf9f5874f3593a7587c6d062004f",
+      "after": "9086a4cfeb82d2b75fb75daafb4b8d5a204d07e0f0a106c292212c28fa5411c9",
+      "count": 0,
+      "dynamicDisplayValues": 1
+    },
+    {
+      "file": "icons/audio.js",
+      "before": "30cb031878f6d0d4b77f19d2790b3627661b4689019a0d9be8b34a1b24e41943",
+      "after": "e36458437a267d50a6bfb9251d13146d3af229c97de3d9c4e8b87e2a84b1975c",
+      "count": 0,
+      "dynamicDisplayValues": 2
+    },
+    {
+      "file": "icons/background-removal.js",
+      "before": "ef6a08d4857e3d662f74b8188abe0afa9f0146e298e56869aabd4c9fe5d60ce2",
+      "after": "7718a89eddbff15f37bffba810a14fab44ccdbc37d88f580abc101805b1c829f",
+      "count": 0,
+      "dynamicDisplayValues": 1
+    },
+    {
+      "file": "icons/book.js",
+      "before": "7d91f5bd68e82a77111b73d41acc6039fc20e090da01cdd1ab61fb4e5f771b9a",
+      "after": "337c8c2ad338a5ceddf6ba57204687cc046aa4574247bdcde105656d920ebcf2",
+      "count": 0,
+      "dynamicDisplayValues": 1
+    },
+    {
+      "file": "icons/border-radius.js",
+      "before": "591c958bb77e801ce1ffc851f43083f915e556a08c57bd21b7485edaa27d7336",
+      "after": "1d1a31cdcaab09675e5a310cda3dbe76d39d3d4ee5f5bc2c001c760b6563a15d",
+      "count": 0,
+      "dynamicDisplayValues": 1
+    },
+    {
+      "file": "icons/browse-elements.js",
+      "before": "7ae0c622109b36bad4ec22bcf7801a2678ab77ec5a287d9be8d357a0db113ded",
+      "after": "1735b293519f9064cf81f796efea50bed9458bbe6503465334b456bf2d449149",
+      "count": 0,
+      "dynamicDisplayValues": 1
+    },
+    {
+      "file": "icons/canvas-zoom.js",
+      "before": "c05e4d321597f7ec7cf27c60909b83deb0ad0cdfba928d3007776e3561b49c8f",
+      "after": "b5ed85c399c463798b903ef8dfce87357bd9fe3ae994a1060afaf050d3e9e6ab",
+      "count": 0,
+      "dynamicDisplayValues": 3
+    },
+    {
+      "file": "icons/caret.js",
+      "before": "15f6f4547c767c518c1bc58955027d5c0ca850fae7eb0ffa67cd0e02d5813c8c",
+      "after": "32a1c7148a2ec7a2220cd1b3ae6627d511786bbfa625b4d558f74f12017ab4b8",
+      "count": 0,
+      "dynamicDisplayValues": 3
+    },
+    {
+      "file": "icons/certificate.js",
+      "before": "aa0cf0c174e4d5f37fe3707985a7d332b3a7ea7d0889ef3e743d12532fa4f720",
+      "after": "c87cfccd25a538754fe30886035ef23504411f7c11377a1e266855c4d94bed20",
+      "count": 0,
+      "dynamicDisplayValues": 1
+    },
+    {
+      "file": "icons/check-circle-filled.js",
+      "before": "49489c5a30804faa92a869fd06184a946b7b3ed9483babcce81d1d6a487d376e",
+      "after": "d621a36b655bde289ab193a2c62936c08352c2cf1bfc124efca2698aff3cd5e1",
+      "count": 0,
+      "dynamicDisplayValues": 1
+    },
+    {
+      "file": "icons/Checkmark.js",
+      "before": "5073f971588950507e4ee9836bab30e4529ef368d28ca5d572d85709447af8fd",
+      "after": "43aa9251931be8949ec84be7cd73b90a5d6eb42b1e2b1c4fc1af954d6d7e1cdf",
+      "count": 0,
+      "dynamicDisplayValues": 1
+    },
+    {
+      "file": "icons/clipboard.js",
+      "before": "bda9859dc2744e5ac52d96240d9db81fc77aca3b1b7c38068f980aff62823b4d",
+      "after": "92998274d6adba1e6e83450400592674b0231a7cab99e9a1c8f7ae85ba86f532",
+      "count": 0,
+      "dynamicDisplayValues": 1
+    },
+    {
+      "file": "icons/cloud-download.js",
+      "before": "56ec6b0eb3c21f89b65b29c30fc19c6b056d8a161c505bfb8645380cc35f9ee2",
+      "after": "1a86e6c694d863ac260ea893eeb96033bc50a792a32af65f3d30cf258aaa7c55",
+      "count": 0,
+      "dynamicDisplayValues": 1
+    },
+    {
+      "file": "icons/copy.js",
+      "before": "294c427c3954940673b78c7c4d8a59db52c61ad9a81eeb8aadbb51526ba5236c",
+      "after": "2b739bf50b2f9eb10a0de22416f31569a35abec8c5e34f185901f4207b089f1a",
+      "count": 0,
+      "dynamicDisplayValues": 1
+    },
+    {
+      "file": "icons/cube.js",
+      "before": "49cae3c727fa3adc9b5d43b51ee49a08c404522af0905470bdeba7fcab1afbc7",
+      "after": "222f36994e9dd62ff91ab70c1e134abc75676ccba300b58a81aba2e55f840d05",
+      "count": 0,
+      "dynamicDisplayValues": 1
+    },
+    {
+      "file": "icons/custom-editor.js",
+      "before": "b2114369967c873021def2a5e516f524212cca15f1c7cb477d6402088d80a49e",
+      "after": "f323a4c066f042444225c8697285bd46eec1af6a87d6d19e4f66b8b57f4d3b18",
+      "count": 0,
+      "dynamicDisplayValues": 1
+    },
+    {
+      "file": "icons/data.js",
+      "before": "8abdc6dae60a1b8b3d2a85439dc6c98e409bac9ae88d425aa9be274d3750f077",
+      "after": "3cc1b286489e18801d3160af9258b62b966fd8faeea6791f0a6181d80f88d6eb",
+      "count": 0,
+      "dynamicDisplayValues": 1
+    },
+    {
+      "file": "icons/duplicate.js",
+      "before": "ac5446707cd76346d4fa5f353715c8a7b828dbef1302274258244467e42d6a4a",
+      "after": "9912df62f6242fd5b0629f5eae570a12b11c9b2d0adcd82c95f33a5d714a5ac9",
+      "count": 0,
+      "dynamicDisplayValues": 1
+    },
+    {
+      "file": "icons/editor.js",
+      "before": "f1eec52e6fd5280e924ae594a338b5b5e74a5d6c33489094dbaa99f2d422406a",
+      "after": "9a8777569e9f5f379ae7ef99a07b7598db77600720872b4e3719fb04c06c5dac",
+      "count": 0,
+      "dynamicDisplayValues": 7
+    },
+    {
+      "file": "icons/effects.js",
+      "before": "cc4e058b6903053487e7c1394790b2ec481d910c4bac4f1d55811b75423c46c4",
+      "after": "479023ad73d0d6aa938ef4fdae7b73b6fd788a6c4c929d30926e8c3592dd5848",
+      "count": 0,
+      "dynamicDisplayValues": 1
+    },
+    {
+      "file": "icons/ellipsis.js",
+      "before": "fc495d392c4219115c87924e6457b9a446fac38e34736e15c65a71a4d2fbe2a4",
+      "after": "652d613fc102a48f0b0e83f15cec20b5ee02909d32762c6c65a5c37b85688a92",
+      "count": 0,
+      "dynamicDisplayValues": 1
+    },
+    {
+      "file": "icons/enter.js",
+      "before": "da3244cd11bd8b680f6af83e8795ef074fce1a9dcd746568bcf97e6567f9abb0",
+      "after": "1a23aa7f9addecf737e3f57c3509fbefe13a344df2893b16c80edc165207b0fc",
+      "count": 0,
+      "dynamicDisplayValues": 1
+    },
+    {
+      "file": "icons/external-link.js",
+      "before": "55ef847602a2b85b9b1b02d42a8b78a86c2459a43f6046b672ea7e61ec44cf04",
+      "after": "b80eeb85cbb936b3c84e11e8aabdb8f3e75138fa083abeaa20481756f79a1788",
+      "count": 0,
+      "dynamicDisplayValues": 1
+    },
+    {
+      "file": "icons/eyedropper.js",
+      "before": "b1a86305e4c696650ba18be4335803b4d24095c785fcb6a7d7ccd9903984efc0",
+      "after": "67481373de0b602a2ae52f413fafb44a74adb93378fb118e0ef362a1eafda614",
+      "count": 0,
+      "dynamicDisplayValues": 1
+    },
+    {
+      "file": "icons/file.js",
+      "before": "c83b0a632ee0a17a38f5d4bbb508a0f188d0ae10a509d718fed0a58885173694",
+      "after": "d75442114919c6c3428a5f6850dcdca20465a957cbf695ba97c307450d70d6c4",
+      "count": 0,
+      "dynamicDisplayValues": 1
+    },
+    {
+      "file": "icons/folder.js",
+      "before": "4b5820faa73826eff99af08a25ce290391e5ece05b42dd21d04351c057687a43",
+      "after": "0643c11085bebb4e8836b4ab52f85b1b747e808e0b5a154adcac7de30bf2cedc",
+      "count": 0,
+      "dynamicDisplayValues": 3
+    },
+    {
+      "file": "icons/font.js",
+      "before": "dbf50cde8c7ed4b6ce19dfe61a8d5a6cec98a093eb546683422afb69e2bd9890",
+      "after": "45a755d15c37920727b48c360705f8a9186294d56e3a36cb1189397dce5d1ae4",
+      "count": 0,
+      "dynamicDisplayValues": 1
+    },
+    {
+      "file": "icons/frame.js",
+      "before": "b4769dfdabf6499e814d21b00a1de62de1d72d92fbc57437f19212fe175621e0",
+      "after": "82ee997fbafb4f4c2b6882603a202f120330d46ca479eb65f09382282783b012",
+      "count": 0,
+      "dynamicDisplayValues": 1
+    },
+    {
+      "file": "icons/fullscreen.js",
+      "before": "e7617baa5ef39a6a6286189ee0a380de2b236af86404a73fc36af036a2a851bd",
+      "after": "1581f211392454ddf5383ef3af079f91a4ff6ec3410801d030eced8212038d4a",
+      "count": 0,
+      "dynamicDisplayValues": 1
+    },
+    {
+      "file": "icons/gear.js",
+      "before": "9952fa963555c5cb1955cd11ddbe48d49a286fb76d2a2e489c86130c960202c4",
+      "after": "84a52f530ce73b5d6993352a6371dd6e2f67fe801ee2006969cf4283abc58a90",
+      "count": 0,
+      "dynamicDisplayValues": 1
+    },
+    {
+      "file": "icons/gif.js",
+      "before": "e44452485ff78416697c4d2a3e2c32fb802d72bca563b3621871512e595eca96",
+      "after": "c06c485516c2373a01758b7997a82d9ae2e31d62593936ad6474594821256b0e",
+      "count": 0,
+      "dynamicDisplayValues": 1
+    },
+    {
+      "file": "icons/github.js",
+      "before": "60ff9caa2921e2bbb7686113a8ac3bf7a11daa66ff8b2097851f87bdf8d65245",
+      "after": "81226dece3bf4bcf16a6306bd920d85ff338b9934f241dc4dac4f949fb7b9ee5",
+      "count": 0,
+      "dynamicDisplayValues": 1
+    },
+    {
+      "file": "icons/html-in-canvas.js",
+      "before": "7a543792d77bcfdb9d187ac301bb17f1eb456a1f0d3e7c18867ccda66a549d9b",
+      "after": "6122e542a7f692d1a7dd3f6fecc9524583325b251309d9d706a26821791edd74",
+      "count": 0,
+      "dynamicDisplayValues": 1
+    },
+    {
+      "file": "icons/input-props.js",
+      "before": "5a5c55c5b4543b2fb615d196596b6df4367bb133f4937dda6b4b4622ffcf761d",
+      "after": "6b57cb8214b65babc49bb4d91c251e66dedffe68c8a7f6353a61439c0bcbcae4",
+      "count": 0,
+      "dynamicDisplayValues": 1
+    },
+    {
+      "file": "icons/json.js",
+      "before": "c42b57df8a75246971c80da80f86e957d5ded04c0ad91eb5709b3eb81753cac0",
+      "after": "4fff56fb7b6f73293cef4eaf41022df93162f56c35721dcda8551236ca84791b",
+      "count": 0,
+      "dynamicDisplayValues": 1
+    },
+    {
+      "file": "icons/jump-to-start.js",
+      "before": "bf87db14a2cecd5df8928fd6b75af8b1b22bf0ed26c312a6d7e0c85a4d8c0118",
+      "after": "8a90affeb398f40f7db762019eac2e9045b1dbaff82c5000ae74e1a80c277838",
+      "count": 0,
+      "dynamicDisplayValues": 1
+    },
+    {
+      "file": "icons/keyboard.js",
+      "before": "0ab26506902745b126775d3259eca06581e48b5cb5e19bf9a4086b03ef66ed98",
+      "after": "6da8e94c0b29e7ae240e925a42171be0220a0d3030dc700a0ea47e02fc8321f3",
+      "count": 0,
+      "dynamicDisplayValues": 1
+    },
+    {
+      "file": "icons/keys.js",
+      "before": "225f7bf565d8ffd9dffe2427433ca6688c168192c9d3d017e0e1cdda6376598b",
+      "after": "49774e234849800f864d3909fd59d27db85eae5859f2a7145928e591ffd1091d",
+      "count": 0,
+      "dynamicDisplayValues": 3
+    },
+    {
+      "file": "icons/license.js",
+      "before": "624722cdcb8e225b01281fe9c22a186c0c99a94983f19e6ca4393d74b7d7a0a1",
+      "after": "3a9863013a625a6d6420f1942a5c5da2ee06205e293d0e72ec9561b8691ce267",
+      "count": 0,
+      "dynamicDisplayValues": 1
+    },
+    {
+      "file": "icons/link.js",
+      "before": "60530316b6687e1d335aa3be4632deebab256b4d7575e5aafdf30ffaa45dcebc",
+      "after": "423fd8ec59db25d53f5fc20f0e731b1dfa1473162c842a106b1ca4fe53490549",
+      "count": 0,
+      "dynamicDisplayValues": 1
+    },
+    {
+      "file": "icons/lut.js",
+      "before": "008dbbc1c3e80af2087d839abf8affea813be783a49c7a492d7a4149ba4e2948",
+      "after": "b599aab45d895ff6283c93ff6b49da952fa98b4f77dcd9d08c0e20140f820df5",
+      "count": 0,
+      "dynamicDisplayValues": 1
+    },
+    {
+      "file": "icons/magnet.js",
+      "before": "89a6015d83264fa06b01a8adf2bb76fc45ee637e0fa43941bf07f6d92a38f37c",
+      "after": "c7948830cfaf2f4e62dcf4ad17d0ea2045fd0e59af65a2fa85d1303e8f6743d5",
+      "count": 0,
+      "dynamicDisplayValues": 1
+    },
+    {
+      "file": "icons/media-volume.js",
+      "before": "f8bd5f6ec8758dd3a362696fcde585bd3bfd4712eece128f84f78e91e0b317ae",
+      "after": "a987e56ff84fe3bbee8c9d6605b696d303ba6e16a05797a10fd195f4b627b293",
+      "count": 0,
+      "dynamicDisplayValues": 2
+    },
+    {
+      "file": "icons/minus.js",
+      "before": "c96a3d5c8337b9178dd4d3ba18fc76fed8db2a158fa5ba1bcbbee6a25f26e221",
+      "after": "5409117ed0b77c5e4b350c90d4cfbeb37fd0a54a3baaf1b2f3851d6cd73f2a40",
+      "count": 0,
+      "dynamicDisplayValues": 1
+    },
+    {
+      "file": "icons/models.js",
+      "before": "a8b5e57e396aa597b608e1d3afbd8bd5de0fab5849c96e4f1d6838d979c5ed9e",
+      "after": "94799de2ac630ad106d315761a6986bafc8a77ef5354ebf0ef48d2a60da848ba",
+      "count": 0,
+      "dynamicDisplayValues": 1
+    },
+    {
+      "file": "icons/motion-blur.js",
+      "before": "4dc7cca2c648cd0ff774d93d8aa592d133d35713d23ffed7b93b925f30215207",
+      "after": "21bf553971ab3919c4dca528f6c9807cdc51d5b9b61d439cecda5c1ca109ef30",
+      "count": 0,
+      "dynamicDisplayValues": 1
+    },
+    {
+      "file": "icons/package.js",
+      "before": "3579e7c41869880c75d08b753ae97d6088c1890fbdc9dacd881cccfde2cb1446",
+      "after": "2d5137a07c63c0a04bd5b98212ce5029c743912a8f5d9c09d405160d7563e6e8",
+      "count": 0,
+      "dynamicDisplayValues": 1
+    },
+    {
+      "file": "icons/pause.js",
+      "before": "2a4db823a1d0bf471d34b90b4b206fa0cdeeab188b828bc6db53918a349f07c5",
+      "after": "4af89eef7c7bd6d3374abf02746f5cea5d9aba2cb6431cb7c00e9c5404686d87",
+      "count": 0,
+      "dynamicDisplayValues": 1
+    },
+    {
+      "file": "icons/pen.js",
+      "before": "408be9b10eafcc432b560a1751311cd8a50a243ed6c293821b1c0eedb322b939",
+      "after": "55118f00598e4101954df4e97dfbd4c23a86604c993be5d8f129e6bdb8fb8c29",
+      "count": 0,
+      "dynamicDisplayValues": 1
+    },
+    {
+      "file": "icons/play.js",
+      "before": "0e82c8bb97b914d46af1a4f475053f329900c6a3a7fb7d70bac06891fbb54766",
+      "after": "4c59fb2cfdf156e2725f3c9afc87eb663881927fe2a857c99f1ba0725ce0f20c",
+      "count": 0,
+      "dynamicDisplayValues": 1
+    },
+    {
+      "file": "icons/playback-rate.js",
+      "before": "a42758eb88871ea77540c27f1a8ce905a10e5e934ba206c94b28b98b1b771e5f",
+      "after": "ca28f68a4e0012f84f83308ff15432f0d14c294fd4925b31dbbb5ce872fe80e6",
+      "count": 0,
+      "dynamicDisplayValues": 1
+    },
+    {
+      "file": "icons/plus.js",
+      "before": "3128a09eaa6dc3363843cc3cfd9c3140f3da296b02505a083471c62316be4b42",
+      "after": "6b1a4f0550864dbbfcd7d69e1d2ddeeaf1f2a6e2f1d91f24cb08981a55e1ea15",
+      "count": 0,
+      "dynamicDisplayValues": 1
+    },
+    {
+      "file": "icons/react.js",
+      "before": "6686ae73cd0e20a913eb9d03f73169d9a4e6e9d30862a286c8e39e00f17a5ae7",
+      "after": "132a44c69cfa8ce04f345de87ae25a4730519dbaf21ee8eb224db9e67bd8e7fb",
+      "count": 0,
+      "dynamicDisplayValues": 1
+    },
+    {
+      "file": "icons/redo.js",
+      "before": "93ef526664145d11de685efecd8179a463186f9cb27ccc7bf531d3dba98fd14b",
+      "after": "97f48286395985e99f4272a77dca296fe304dfcf50d656aa10f1ded1b8c4de4e",
+      "count": 0,
+      "dynamicDisplayValues": 1
+    },
+    {
+      "file": "icons/remotion-convert.js",
+      "before": "7d75390d6675a19ab64be5484c16438609e0873e270cc507729a05b0517e1a79",
+      "after": "c438e45c894326a7d3266cc2d990d67529a2d97210f138ecc04db675e33b0e04",
+      "count": 0,
+      "dynamicDisplayValues": 1
+    },
+    {
+      "file": "icons/remotion-triangle.js",
+      "before": "7ca7bc40586318e8968cbb601b4acda40ec7c9efcbdbb72ce74ef5ef51cf6ae9",
+      "after": "5a78125e252eb681295d3128adedc5852ded35b117bdc8c1e03d3a25e8945f0c",
+      "count": 0,
+      "dynamicDisplayValues": 1
+    },
+    {
+      "file": "icons/render.js",
+      "before": "5058e80ce3590fee7236bb98ca2ba901bfb159d0e1450410a52b985e588a8b5a",
+      "after": "4645b644a0020f5846be7dbd3b1f061a757d7e17adc0b91887998059c172b746",
+      "count": 0,
+      "dynamicDisplayValues": 1
+    },
+    {
+      "file": "icons/search.js",
+      "before": "d5acc03707c22e1fd4bc48c1b1b56fd8ff1bda9f53b66a453fcb039f33edeb55",
+      "after": "965ebc54124d8c66dc2435681ce28639a209a2c5f86fa2bddfb6f464c5fc58f9",
+      "count": 0,
+      "dynamicDisplayValues": 1
+    },
+    {
+      "file": "icons/skills.js",
+      "before": "12ae960d0f4d4b71a81179fa773b0286ac5caa92619ff8f4d817abb3e4eb6b44",
+      "after": "2ad6150bbcf6d1aa75bade4c2db9c864b3a941e7387cd6a3c725aa8b4be3ce36",
+      "count": 0,
+      "dynamicDisplayValues": 1
+    },
+    {
+      "file": "icons/snowflake.js",
+      "before": "2578cf73fb4107158cce958bc3c497c2ff33ef68c7300ec20ab966b96bde10f2",
+      "after": "fb223a534375ba695e61b82bca52616ee301696e0c01efea30666c42dd96f5f5",
+      "count": 0,
+      "dynamicDisplayValues": 1
+    },
+    {
+      "file": "icons/solid.js",
+      "before": "3a20e9b3000738cae9e69feebd77d98fd74e78b11f16bd811cb2842ac527dca0",
+      "after": "3f03b1ed18087e989d390889d9161c837151db37499849bd73d72274ce4a044d",
+      "count": 0,
+      "dynamicDisplayValues": 1
+    },
+    {
+      "file": "icons/sparkles.js",
+      "before": "0629ec6a0ea0203166df17138b86a68a3eb9d02adff1d56a01d54f31a3dfd20b",
+      "after": "c3a9a55fbf0c4a501adeb3cb249c0ce235b7eda09322833cbfff8a1c070ecbf8",
+      "count": 0,
+      "dynamicDisplayValues": 1
+    },
+    {
+      "file": "icons/split.js",
+      "before": "aa398803221a4059523994ea7fa4c82e294b3ca6a5a2ec705616023868cb7715",
+      "after": "bd7ef759d002e7c3c10b4147f84c57e5564ecd528ff7cdc44ec6080a6b505434",
+      "count": 0,
+      "dynamicDisplayValues": 1
+    },
+    {
+      "file": "icons/step-back.js",
+      "before": "8e183c256f8fbd68580a865ff82856ea594c4cde0a8d64b3a088cf7adbace552",
+      "after": "970133635a04c96655bd7e8bbfe551a5060c2130774e0715e86b9d96a1510080",
+      "count": 0,
+      "dynamicDisplayValues": 1
+    },
+    {
+      "file": "icons/step-forward.js",
+      "before": "70138f985ab3b4f291d95b15145d60d17726547c1cf95850826c463b9b93524e",
+      "after": "8e66ab2cb3eb679f828e8afc3b86c93086db06c9beba903d1cbb7612e539be89",
+      "count": 0,
+      "dynamicDisplayValues": 1
+    },
+    {
+      "file": "icons/still.js",
+      "before": "19680bfa8e67a8989245222f1cafdb4c23b69461d54bd1bf29e3e7e8c7051be7",
+      "after": "461f3f24d867b31994386beac192ca9b58493b00e22186360abcbad0266f42fe",
+      "count": 0,
+      "dynamicDisplayValues": 1
+    },
+    {
+      "file": "icons/terminal.js",
+      "before": "dcd4de143d169aae1b266fe1c8dfd95360b16dba57db6e58ad36ea25c7a772c7",
+      "after": "ef656d7d37df4bdaa159779077e4af18355123b4f97c3974580c220a7bb90699",
+      "count": 0,
+      "dynamicDisplayValues": 1
+    },
+    {
+      "file": "icons/timelineInOutPointer.js",
+      "before": "3bd45296b9e54b28d2e834f5d3e1541b4b7b03dc77e5f5ab0b05aa740ebf0948",
+      "after": "b963d44210cb299919b5933bab61b0f000342b0dc0f38ba0571d17a3e3e1fb11",
+      "count": 0,
+      "dynamicDisplayValues": 2
+    },
+    {
+      "file": "icons/transcription.js",
+      "before": "6ae33f6c4afd719106ad998860046d1b5cb52075504eeb3390d6c58c6f2cd8c5",
+      "after": "ece56c2efc67348913cb5f8e66466e0be6b99f4edee4d0633f365e356346da02",
+      "count": 0,
+      "dynamicDisplayValues": 1
+    },
+    {
+      "file": "icons/trash.js",
+      "before": "bd2a8d4edfc7f84da1c7f2cf4f68130ae6a8aa9082eedaed23958810358cbe0b",
+      "after": "bb98e285e3f6d54443a073ce30540ac6f03b9797c0f1122fc28f766fb1ef4e5e",
+      "count": 0,
+      "dynamicDisplayValues": 1
+    },
+    {
+      "file": "icons/undo.js",
+      "before": "8f7cce25031a2df852ccd1812d90c3fa30824eb44df6e9e3ff9a20e895db88a0",
+      "after": "6c03a2ab05b5259ae814158de5a05e1cb87a9755fb2280590a71ae68d2875e1c",
+      "count": 0,
+      "dynamicDisplayValues": 1
+    },
+    {
+      "file": "icons/upload.js",
+      "before": "92d99db4ccb64f8f22c8ad9d129a68cb46bb42bde5c9bb3d283625ec7788d6c5",
+      "after": "d4b710e8f434e553a69781202fd4510db19d5ee3fc9543693dcc16b97d324016",
+      "count": 0,
+      "dynamicDisplayValues": 1
+    },
+    {
+      "file": "icons/video.js",
+      "before": "2a93333921655a30d58ce43becd49eae88d45e357941156aef2659d280e21b06",
+      "after": "20bbebccd37d40f5544f8c02d29fe5388f6bdc9126fa7627e9cd368a6acae32b",
+      "count": 0,
+      "dynamicDisplayValues": 2
+    },
+    {
+      "file": "renderEntry.js",
+      "before": "0e3991e56855b45a317997620dcab2408525e01bc74ab1a8a0bd9840d03cc7eb",
+      "after": "7753db8349f93e1196529871118f966df742cbcc37245e8a9dd61054f7e45135",
+      "count": 2,
+      "dynamicDisplayValues": 4
+    },
+    {
+      "file": "ResolveCompositionConfigInStudio.js",
+      "before": "02c879d74fdf0cf4a09fd2dca55439f90579646bf2f42fdaf741901d453f4323",
+      "after": "f4a584277aa5f875e0f42b0b750326465154884c53f832269beb0f9a5fab0746",
+      "count": 0,
+      "dynamicDisplayValues": 1
+    },
+    {
+      "file": "state/composition-list.js",
+      "before": "a5521c8dc410df0865acd533dac31c102ee986a8dde384b26e22da66a7127b02",
+      "after": "7a160beeec8d2473ae4ab6bf9fb15bd3dcec491d1090a278f552ebdc6ed0464c",
+      "count": 0,
+      "dynamicDisplayValues": 1
+    },
+    {
+      "file": "state/folders.js",
+      "before": "b721e23c4b5ad9260417052d1215159848ec890f3678276ff1ffa58e7e650f72",
+      "after": "f1795a6e123341577d0af8a0c4a86561eaeb6870b9ea3b7961ab216bcbeb2030",
+      "count": 0,
+      "dynamicDisplayValues": 1
+    },
+    {
+      "file": "state/highest-z-index.js",
+      "before": "2c86a0b62814717784a8ad4a455b016b46f824e9b4d833e5233dc503a3f1381d",
+      "after": "3f68d9f219d376ad00623246855d3b2a4f2337ddb5ffd9185d1de83b46de205f",
+      "count": 0,
+      "dynamicDisplayValues": 1
+    },
+    {
+      "file": "state/keybindings.js",
+      "before": "a609f129e66876b2ed3272d95b85605206e2b8fecefc710591c7961db2d8ddeb",
+      "after": "31875dd738c0c8287c6c11c1cf5c779e6279bf33c49c878d1d6cbc7e50048cb5",
+      "count": 0,
+      "dynamicDisplayValues": 1
+    },
+    {
+      "file": "state/preview-size.js",
+      "before": "98a1112f014cfea394855263c6ff389c43b47a9ca0bf61b2eabd816a87076090",
+      "after": "46ae0c2aaccfe726b8a63e8fefbc553a90cb42c43e249b82ac76e03eb9bc052e",
+      "count": 0,
+      "dynamicDisplayValues": 1
+    },
+    {
+      "file": "state/scale-lock.js",
+      "before": "aa5850118c84bc71896c8562ca76ec8d9b32cc521eb7f75f9292c4749f06e4dd",
+      "after": "f2db73835f286a20f5593aa734bca33af9ba20607a0ecb1ab60ccf0d22b39542",
+      "count": 0,
+      "dynamicDisplayValues": 1
+    },
+    {
+      "file": "state/sidebar.js",
+      "before": "4fd192e72257c5e30140bcb94197afe94e901732deb25079be32dc83b12d6b61",
+      "after": "f86e9a9b28e1a8be62541b8c44f4c3b36af2996d2d844551d560c2d8bb4b507f",
+      "count": 0,
+      "dynamicDisplayValues": 1
+    },
+    {
+      "file": "state/timeline-zoom.js",
+      "before": "b0ca95f5aa4b1f5c5747e85e816b21ead5afd4b702c005d9e701ec40cb9f9e46",
+      "after": "a96bcc4278362879e4b06a5956af0930f0426f6275fccb1129311b86c904de19",
+      "count": 0,
+      "dynamicDisplayValues": 1
+    },
+    {
+      "file": "state/transform-3d-mode.js",
+      "before": "90f661dc3d73c9d142efc22552bc1c9bddafa46c32b9204a9f28ce45102cdf12",
+      "after": "2e68bd1df3c12a6eca52036a3d273687d85d3fbdde6ba9d67a672aa7da5f3387",
+      "count": 0,
+      "dynamicDisplayValues": 1
+    },
+    {
+      "file": "state/z-index.js",
+      "before": "19646b6d555a3e9ad247dccb826c2c201067be973b56a91dace5b2bf9a785ef7",
+      "after": "cd966fc64a440dc970ba2b77d07aab132ce3fc53e05d7e68621fe7092444a6a7",
+      "count": 0,
+      "dynamicDisplayValues": 1
+    },
+    {
+      "file": "Studio.js",
+      "before": "1e626fd8306febf188a89f49d45df5845fc69073614011d4921fd35451e31084",
+      "after": "e33425bda605694f9606f7d52ee2fdd56f49602a11e62471bad1def56dd10af4",
+      "count": 0,
+      "dynamicDisplayValues": 2
+    },
+    {
+      "file": "visual-controls/VisualControls.js",
+      "before": "1b83183bbff0806d8bf112e8e5044a9e2e7369ab2bf8086fa6581507662697a6",
+      "after": "3f189727139fb6fd304065a85e238060f0343a81c3ddd8768068776f5f44e2ab",
+      "count": 0,
+      "dynamicDisplayValues": 1
+    }
+  ]
+}

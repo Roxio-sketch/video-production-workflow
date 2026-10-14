@@ -1,0 +1,414 @@
+{
+  "checkedAt": "2026-10-11T18:46:51.527Z",
+  "voiceover": "These are instrumental exports; narrated exports have a separate verification report.",
+  "videos": [
+    {
+      "file": "E:\\视频\\exports\\自定义闪电与雷劫-无配音版.mp4",
+      "duration": 195.008,
+      "bytes": 33207267,
+      "width": 1920,
+      "height": 1080,
+      "fps": "30/1",
+      "codec": "h264",
+      "colorSpace": "bt709",
+      "audio": "aac",
+      "fullDecode": "passed",
+      "chapters": [
+        {
+          "name": "开场：自定义闪电",
+          "start": 0,
+          "duration": 10,
+          "clip": "lt-wuxing-vivid",
+          "frame": 60
+        },
+        {
+          "name": "三种通道",
+          "start": 10,
+          "duration": 10,
+          "clip": null,
+          "frame": 360
+        },
+        {
+          "name": "固定种子A",
+          "start": 20,
+          "duration": 5,
+          "clip": "lt-seed-a",
+          "frame": 660
+        },
+        {
+          "name": "固定种子B",
+          "start": 25,
+          "duration": 5,
+          "clip": "lt-seed-b",
+          "frame": 810
+        },
+        {
+          "name": "少分叉",
+          "start": 30,
+          "duration": 5,
+          "clip": "lt-branches-low",
+          "frame": 960
+        },
+        {
+          "name": "多分叉",
+          "start": 35,
+          "duration": 5,
+          "clip": "lt-branches-high",
+          "frame": 1110
+        },
+        {
+          "name": "颜色渐变",
+          "start": 40,
+          "duration": 9,
+          "clip": "lt-gradient",
+          "frame": 1260
+        },
+        {
+          "name": "材质层解释",
+          "start": 49,
+          "duration": 10,
+          "clip": null,
+          "frame": 1530
+        },
+        {
+          "name": "环形电弧",
+          "start": 59,
+          "duration": 7,
+          "clip": "lt-ring",
+          "frame": 1830
+        },
+        {
+          "name": "延伸电流",
+          "start": 66,
+          "duration": 7,
+          "clip": "lt-grow",
+          "frame": 2040
+        },
+        {
+          "name": "集束群雷",
+          "start": 73,
+          "duration": 8,
+          "clip": "lt-cluster",
+          "frame": 2250
+        },
+        {
+          "name": "散布群雷",
+          "start": 81,
+          "duration": 7,
+          "clip": "lt-rain",
+          "frame": 2490
+        },
+        {
+          "name": "击地特写",
+          "start": 88,
+          "duration": 7,
+          "clip": "lt-impact",
+          "frame": 2700
+        },
+        {
+          "name": "五行仙途雷劫配方",
+          "start": 95,
+          "duration": 10,
+          "clip": "lt-wuxing",
+          "frame": 2910
+        },
+        {
+          "name": "自然语言需求",
+          "start": 105,
+          "duration": 10,
+          "clip": null,
+          "frame": 3210
+        },
+        {
+          "name": "实际调参：粗细亮度",
+          "start": 115,
+          "duration": 12,
+          "clip": "lt-ui-width",
+          "frame": 3510
+        },
+        {
+          "name": "实际调参：渐变光晕",
+          "start": 127,
+          "duration": 12,
+          "clip": "lt-ui-gradient",
+          "frame": 3870
+        },
+        {
+          "name": "实际调参：分叉",
+          "start": 139,
+          "duration": 12,
+          "clip": "lt-ui-branch",
+          "frame": 4230
+        },
+        {
+          "name": "实际调参：多道落雷",
+          "start": 151,
+          "duration": 12,
+          "clip": "lt-ui-layout",
+          "frame": 4590
+        },
+        {
+          "name": "使用路线",
+          "start": 163,
+          "duration": 12,
+          "clip": null,
+          "frame": 4950
+        },
+        {
+          "name": "展示收尾",
+          "start": 175,
+          "duration": 8,
+          "clip": "lt-finale",
+          "frame": 5310
+        },
+        {
+          "name": "开源资源",
+          "start": 183,
+          "duration": 12,
+          "clip": null,
+          "frame": 5550
+        }
+      ],
+      "sheets": [
+        "E:\\视频\\exports\\lightning-final-review-1.jpg",
+        "E:\\视频\\exports\\lightning-final-review-2.jpg"
+      ]
+    },
+    {
+      "file": "E:\\视频\\exports\\自定义黑洞与白洞-无配音版.mp4",
+      "duration": 246.016,
+      "bytes": 49197055,
+      "width": 1920,
+      "height": 1080,
+      "fps": "30/1",
+      "codec": "h264",
+      "colorSpace": "bt709",
+      "audio": "aac",
+      "fullDecode": "passed",
+      "chapters": [
+        {
+          "name": "开场：自定义黑洞",
+          "start": 0,
+          "duration": 8,
+          "clip": "bh-hero",
+          "frame": 60
+        },
+        {
+          "name": "介绍能力",
+          "start": 8,
+          "duration": 9,
+          "clip": null,
+          "frame": 300
+        },
+        {
+          "name": "颗粒盘",
+          "start": 17,
+          "duration": 6,
+          "clip": "bh-granular",
+          "frame": 570
+        },
+        {
+          "name": "层叠光带",
+          "start": 23,
+          "duration": 6,
+          "clip": "bh-ribbons",
+          "frame": 750
+        },
+        {
+          "name": "经典程序光带",
+          "start": 29,
+          "duration": 6,
+          "clip": "bh-classic",
+          "frame": 930
+        },
+        {
+          "name": "体积尘埃",
+          "start": 35,
+          "duration": 8,
+          "clip": "bh-dust",
+          "frame": 1110
+        },
+        {
+          "name": "金橙配色",
+          "start": 43,
+          "duration": 6,
+          "clip": "bh-color-gold",
+          "frame": 1350
+        },
+        {
+          "name": "自然语言需求",
+          "start": 49,
+          "duration": 9,
+          "clip": null,
+          "frame": 1530
+        },
+        {
+          "name": "冰蓝配色",
+          "start": 58,
+          "duration": 6,
+          "clip": "bh-color-ice",
+          "frame": 1800
+        },
+        {
+          "name": "紫色配色",
+          "start": 64,
+          "duration": 6,
+          "clip": "bh-color-violet",
+          "frame": 1980
+        },
+        {
+          "name": "形状实时修改",
+          "start": 70,
+          "duration": 8,
+          "clip": "bh-shape",
+          "frame": 2160
+        },
+        {
+          "name": "速度对照",
+          "start": 78,
+          "duration": 8,
+          "clip": "bh-motion",
+          "frame": 2400
+        },
+        {
+          "name": "独立粒子",
+          "start": 86,
+          "duration": 6,
+          "clip": "bh-particles",
+          "frame": 2640
+        },
+        {
+          "name": "世界透镜关闭",
+          "start": 92,
+          "duration": 5,
+          "clip": "bh-lens-off",
+          "frame": 2820
+        },
+        {
+          "name": "世界透镜开启",
+          "start": 97,
+          "duration": 5,
+          "clip": "bh-lens-on",
+          "frame": 2970
+        },
+        {
+          "name": "透镜范围较小",
+          "start": 102,
+          "duration": 6,
+          "clip": "bh-lens-small",
+          "frame": 3120
+        },
+        {
+          "name": "透镜范围扩大",
+          "start": 108,
+          "duration": 6,
+          "clip": "bh-lens-large",
+          "frame": 3300
+        },
+        {
+          "name": "玩家透镜关闭",
+          "start": 114,
+          "duration": 7,
+          "clip": "bh-player-off",
+          "frame": 3480
+        },
+        {
+          "name": "玩家透镜开启",
+          "start": 121,
+          "duration": 7,
+          "clip": "bh-player-on",
+          "frame": 3690
+        },
+        {
+          "name": "真实调参：透镜",
+          "start": 128,
+          "duration": 8,
+          "clip": "bh-ui-lens",
+          "frame": 3900
+        },
+        {
+          "name": "真实调参：形状",
+          "start": 136,
+          "duration": 12,
+          "clip": "bh-ui-shape",
+          "frame": 4140
+        },
+        {
+          "name": "真实调参：颜色",
+          "start": 148,
+          "duration": 10,
+          "clip": "bh-ui-color",
+          "frame": 4500
+        },
+        {
+          "name": "真实调参：运动",
+          "start": 158,
+          "duration": 12,
+          "clip": "bh-ui-motion",
+          "frame": 4800
+        },
+        {
+          "name": "白洞完整展示",
+          "start": 170,
+          "duration": 8,
+          "clip": "wh-hero",
+          "frame": 5160
+        },
+        {
+          "name": "白洞核心",
+          "start": 178,
+          "duration": 8,
+          "clip": "wh-core",
+          "frame": 5400
+        },
+        {
+          "name": "白洞双极喷流",
+          "start": 186,
+          "duration": 8,
+          "clip": "wh-jets",
+          "frame": 5640
+        },
+        {
+          "name": "白洞外扩光壳",
+          "start": 194,
+          "duration": 8,
+          "clip": "wh-shell",
+          "frame": 5880
+        },
+        {
+          "name": "白洞真实调参",
+          "start": 202,
+          "duration": 12,
+          "clip": "wh-ui",
+          "frame": 6120
+        },
+        {
+          "name": "使用路线",
+          "start": 214,
+          "duration": 12,
+          "clip": null,
+          "frame": 6480
+        },
+        {
+          "name": "展示收尾",
+          "start": 226,
+          "duration": 8,
+          "clip": "bh-finale",
+          "frame": 6840
+        },
+        {
+          "name": "开源资源",
+          "start": 234,
+          "duration": 12,
+          "clip": null,
+          "frame": 7080
+        }
+      ],
+      "sheets": [
+        "E:\\视频\\exports\\blackhole-final-review-1.jpg",
+        "E:\\视频\\exports\\blackhole-final-review-2.jpg",
+        "E:\\视频\\exports\\blackhole-final-review-3.jpg"
+      ]
+    }
+  ]
+}

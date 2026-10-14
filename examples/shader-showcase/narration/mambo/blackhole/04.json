@@ -1,0 +1,25 @@
+{
+  "index": 4,
+  "chapter": "层叠光带",
+  "start": 23.25,
+  "end": 28.8,
+  "text": "换成层叠光带，画面就有了环带交错的层次。",
+  "spokenText": "换成层叠光带，画面就有了环带交错的层次。",
+  "key": "22cbff54dfe531676f38bc475d57c6166f5cc0e2f894ef67224901f4ecdfa04f",
+  "file": "E:\\视频\\shader-showcase\\narration\\mambo\\blackhole\\04.wav",
+  "duration": 3.432354,
+  "nativeSpeed": 1.0,
+  "tempo": 1.0,
+  "sourceLoudness": {
+    "input_i": "-18.05",
+    "input_tp": "-1.37",
+    "input_lra": "0.70",
+    "input_thresh": "-28.34",
+    "output_i": "-16.53",
+    "output_tp": "-1.50",
+    "output_lra": "0.00",
+    "output_thresh": "-26.82",
+    "normalization_type": "dynamic",
+    "target_offset": "0.53"
+  }
+}

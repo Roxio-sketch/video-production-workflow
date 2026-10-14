@@ -1,0 +1,25 @@
+{
+  "index": 20,
+  "chapter": "真实调参：透镜",
+  "start": 128.25,
+  "end": 131.8,
+  "text": "这些效果怎样调？先在工作台改变强度。",
+  "spokenText": "这些效果怎样调？先在工作台改变强度。",
+  "key": "ee91f724cb8dd1d82eecff5680777875b985720a1dd5e3a4bfe22514b824c82a",
+  "file": "E:\\视频\\shader-showcase\\narration\\mambo\\blackhole\\20.wav",
+  "duration": 3.166208,
+  "nativeSpeed": 1.0,
+  "tempo": 1.0,
+  "sourceLoudness": {
+    "input_i": "-19.25",
+    "input_tp": "-5.33",
+    "input_lra": "0.40",
+    "input_thresh": "-29.55",
+    "output_i": "-15.72",
+    "output_tp": "-1.96",
+    "output_lra": "0.00",
+    "output_thresh": "-26.03",
+    "normalization_type": "dynamic",
+    "target_offset": "-0.28"
+  }
+}

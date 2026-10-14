@@ -1,0 +1,234 @@
+[
+  {
+    "index": 1,
+    "chapter": "开场：自定义闪电",
+    "expected": "这样的雷劫，来自五行仙途的参数配方。从环绕电流到密集落雷，每一道闪电都能继续设计。",
+    "recognized": "这样的雷劫,来自五行仙徒的参秀配方。从环绕电流到密集落雷,每一道闪电都能继续设计。",
+    "similarity": 0.9459459459459459,
+    "reviewNeeded": false
+  },
+  {
+    "index": 2,
+    "chapter": "三种通道",
+    "expected": "先按用途来选。环绕电流可以附着对象，单次落雷连接起点和终点，群雷则覆盖一片区域。",
+    "recognized": "先爱用图来写。环料电流可以负责对象。单次洛雷连接起点和重点,琴雷则覆盖遗电区域。",
+    "similarity": 0.6944444444444444,
+    "reviewNeeded": false
+  },
+  {
+    "index": 3,
+    "chapter": "固定种子A",
+    "expected": "想复现同一种形状？保持配方、端点和种子不变。",
+    "recognized": "想复现同一种形状。保持配方,端点和种子不变。",
+    "similarity": 1.0,
+    "reviewNeeded": false
+  },
+  {
+    "index": 4,
+    "chapter": "固定种子B",
+    "expected": "只换一个种子，就能探索另一组主干和分叉。",
+    "recognized": "只换一个种子,就能探索另一组主干和分叉。",
+    "similarity": 1.0,
+    "reviewNeeded": false
+  },
+  {
+    "index": 5,
+    "chapter": "少分叉",
+    "expected": "接着看分叉。先关闭分叉，留下简洁的主雷。",
+    "recognized": "接着看分叉。先关闭分叉,留下简洁的主雷。",
+    "similarity": 1.0,
+    "reviewNeeded": false
+  },
+  {
+    "index": 6,
+    "chapter": "多分叉",
+    "expected": "提高分叉概率，结构就更丰富了。",
+    "recognized": "提高分叉概率,结构就更丰富了。",
+    "similarity": 1.0,
+    "reviewNeeded": false
+  },
+  {
+    "index": 7,
+    "chapter": "颜色渐变",
+    "expected": "接下来给它配色。拖动渐变比例，两种颜色的占比随之变化，也可以只保留其中一种。",
+    "recognized": "接下来给它配色。拖动渐变比例,两种颜色的渐比随即变化,也可以去保留其中一种。",
+    "similarity": 0.9117647058823529,
+    "reviewNeeded": false
+  },
+  {
+    "index": 8,
+    "chapter": "材质层解释",
+    "expected": "颜色之外，还要看光的层次。核心与光晕可以分开设计，分别调整宽度、亮度和持续时间。",
+    "recognized": "颜色之外,还要看光的层次。核心与光运可以分开设计,分别调整宽度、亮度和持续时间。",
+    "similarity": 0.9714285714285714,
+    "reviewNeeded": false
+  },
+  {
+    "index": 9,
+    "chapter": "环形电弧",
+    "expected": "把这些控制用在环绕电流上，就能让电弧围着对象扫过。",
+    "recognized": "把这些控制用在环绕电流上,就能让电弧围着对象扫过。",
+    "similarity": 1.0,
+    "reviewNeeded": false
+  },
+  {
+    "index": 10,
+    "chapter": "延伸电流",
+    "expected": "也可以换成延伸电流，让每条电弧从固定根部，沿自己的方向生长。",
+    "recognized": "也可以换成延星电流,让每桥电弧从固定根部,沿自己的方向向脚。",
+    "similarity": 0.8518518518518519,
+    "reviewNeeded": false
+  },
+  {
+    "index": 11,
+    "chapter": "集束群雷",
+    "expected": "需要更强的冲击感？把多道落雷集中到一个区域，组成群雷。",
+    "recognized": "需要更强的冲击感,把多大洛雷集中到一个区域,组成琴雷。",
+    "similarity": 0.875,
+    "reviewNeeded": false
+  },
+  {
+    "index": 12,
+    "chapter": "散布群雷",
+    "expected": "再把范围展开，同样的群雷就变成了散布的布局。",
+    "recognized": "再把发尾掌拍,同样的群雷就变成了散步的布局。",
+    "similarity": 0.75,
+    "reviewNeeded": false
+  },
+  {
+    "index": 13,
+    "chapter": "击地特写",
+    "expected": "落雷命中后，电弧和火花继续展开，还有向外扩散的环形效果。",
+    "recognized": "洛雷命中后,电弧和火花继续展开,还有向外扩散的环形效果。",
+    "similarity": 0.96,
+    "reviewNeeded": false
+  },
+  {
+    "index": 14,
+    "chapter": "五行仙途雷劫配方",
+    "expected": "开头的雷劫，就是这些控制的一种组合。一百二十九格的长距离落雷，配合密集分叉和多次回击。",
+    "recognized": "开头的雷劫,就是这些控制的一种组合,129格的强距离落雷,配合密集增洽和多次回击。",
+    "similarity": 0.918918918918919,
+    "reviewNeeded": false
+  },
+  {
+    "index": 15,
+    "chapter": "自然语言需求",
+    "expected": "如果不想从参数表开始，就描述你要的配色、形状和节奏。让代理整理配方，再到工作台检查和细调。",
+    "recognized": "如果不想从参秀表开始,就描述你要的配色、形状和节奏。让代理整理退方,再到工作台检查和戏雕。",
+    "similarity": 0.9,
+    "reviewNeeded": false
+  },
+  {
+    "index": 16,
+    "chapter": "实际调参：粗细亮度",
+    "expected": "现在实际调一次，先改变主雷的粗细。",
+    "recognized": "现在实际调一次,先改变主雷的粗细。",
+    "similarity": 1.0,
+    "reviewNeeded": false
+  },
+  {
+    "index": 17,
+    "chapter": "实际调参：粗细亮度",
+    "expected": "扩大光晕，发光的层次也会改变。",
+    "recognized": "扩大光运,发光的层次也会改变。",
+    "similarity": 0.9230769230769231,
+    "reviewNeeded": false
+  },
+  {
+    "index": 18,
+    "chapter": "实际调参：粗细亮度",
+    "expected": "再调核心亮度，观察颜色的表现。",
+    "recognized": "再调核心亮度,观察颜色的表现。",
+    "similarity": 1.0,
+    "reviewNeeded": false
+  },
+  {
+    "index": 19,
+    "chapter": "实际调参：渐变光晕",
+    "expected": "配色时，可以让两种颜色渐变，也能选一种纯色。",
+    "recognized": "黑色时,可以让两种颜色渐变,也能选一种橙色。",
+    "similarity": 0.8947368421052632,
+    "reviewNeeded": false
+  },
+  {
+    "index": 20,
+    "chapter": "实际调参：渐变光晕",
+    "expected": "光晕亮度独立调整，不必改动颜色比例。",
+    "recognized": "荒韵亮度独立巧整,不必改动颜色比例。",
+    "similarity": 0.8125,
+    "reviewNeeded": false
+  },
+  {
+    "index": 21,
+    "chapter": "实际调参：分叉",
+    "expected": "分叉也是这样，先调整出现的概率。",
+    "recognized": "分叉也是这样,先调整出现的概率。",
+    "similarity": 1.0,
+    "reviewNeeded": false
+  },
+  {
+    "index": 22,
+    "chapter": "实际调参：分叉",
+    "expected": "分叉的层数增加，形状就更丰富了。",
+    "recognized": "分叉的成熟增加,形状就更丰富了。",
+    "similarity": 0.8571428571428571,
+    "reviewNeeded": false
+  },
+  {
+    "index": 23,
+    "chapter": "实际调参：分叉",
+    "expected": "再限制总预算，让复杂程度保持可控。",
+    "recognized": "在限制中预算,让复杂程度保持可控。",
+    "similarity": 0.8666666666666667,
+    "reviewNeeded": false
+  },
+  {
+    "index": 24,
+    "chapter": "实际调参：多道落雷",
+    "expected": "最后看布局，增加同时出现的落雷数量。",
+    "recognized": "最后看部局,增加同时出现的落雷数量。",
+    "similarity": 0.9375,
+    "reviewNeeded": false
+  },
+  {
+    "index": 25,
+    "chapter": "实际调参：多道落雷",
+    "expected": "把覆盖范围拉开，调整雷与雷的间距。",
+    "recognized": "把覆盖三围拉开,调整雷与雷的经济。",
+    "similarity": 0.8,
+    "reviewNeeded": false
+  },
+  {
+    "index": 26,
+    "chapter": "实际调参：多道落雷",
+    "expected": "击地半径也能单独改，搭配整体布局。",
+    "recognized": "基地半径也能单独改,搭配整体布局。",
+    "similarity": 0.9333333333333333,
+    "reviewNeeded": false
+  },
+  {
+    "index": 27,
+    "chapter": "使用路线",
+    "expected": "调好的效果可以保存成配方，在演示模组中载入。也能参考技能包里的源码，把端点接到模型挂点或技能事件上。",
+    "recognized": "调好的效果可以保证成配方,在演戏模组中载入,也能参考技能包里的圆码,把端点接到模型挂点或技能续剑下。",
+    "similarity": 0.8695652173913043,
+    "reviewNeeded": false
+  },
+  {
+    "index": 28,
+    "chapter": "展示收尾",
+    "expected": "从充能电流，到群雷和击地放电，用同一个内核，组合出自己的雷电效果。",
+    "recognized": "从冲能电流到群雷和基地放电,用同一个内核组合出自己的雷电效果。",
+    "similarity": 0.9310344827586207,
+    "reviewNeeded": false
+  },
+  {
+    "index": 29,
+    "chapter": "开源资源",
+    "expected": "这些工具和演示源码都已开源。项目链接与下载入口放在视频简介里，你可以从现有配方开始，做出自己的版本。",
+    "recognized": "这些工具和演戏人马,都已开源。项目链接与下载入口放在视频简介里,你可以从现有配方开始,做出自己的版本。",
+    "similarity": 0.9347826086956522,
+    "reviewNeeded": false
+  }
+]

@@ -1,0 +1,25 @@
+{
+  "index": 17,
+  "chapter": "实际调参：粗细亮度",
+  "start": 119.25,
+  "end": 122.8,
+  "text": "扩大光晕，发光的层次也会改变。",
+  "spokenText": "扩大光晕，发光的层次也会改变。",
+  "key": "bab91de4ec8799931a0962b65123e41ccd574b24805dbdaf1523f6d486d215d0",
+  "file": "E:\\视频\\shader-showcase\\narration\\mambo\\lightning\\17.wav",
+  "duration": 2.532646,
+  "nativeSpeed": 1.0,
+  "tempo": 1.0,
+  "sourceLoudness": {
+    "input_i": "-17.60",
+    "input_tp": "-1.57",
+    "input_lra": "0.00",
+    "input_thresh": "-27.60",
+    "output_i": "-17.51",
+    "output_tp": "-1.50",
+    "output_lra": "0.00",
+    "output_thresh": "-27.51",
+    "normalization_type": "linear",
+    "target_offset": "1.51"
+  }
+}

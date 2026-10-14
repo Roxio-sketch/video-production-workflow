@@ -1,0 +1,25 @@
+{
+  "index": 14,
+  "chapter": "五行仙途雷劫配方",
+  "start": 95.25,
+  "end": 104.8,
+  "text": "开头的雷劫，就是这些控制的一种组合。一百二十九格的长距离落雷，配合密集分叉和多次回击。",
+  "spokenText": "开头的雷劫，就是这些控制的一种组合。一百二十九格的长距离落雷，配合密集分叉和多次回击。",
+  "key": "254e3cfacd191588bc0a11f4c42e252eeb45c5b872a181992ede9578fcb93f56",
+  "file": "E:\\视频\\shader-showcase\\narration\\mambo\\lightning\\14.wav",
+  "duration": 7.674083,
+  "nativeSpeed": 1.0,
+  "tempo": 1.0,
+  "sourceLoudness": {
+    "input_i": "-19.41",
+    "input_tp": "-2.08",
+    "input_lra": "1.70",
+    "input_thresh": "-29.67",
+    "output_i": "-16.21",
+    "output_tp": "-1.50",
+    "output_lra": "1.30",
+    "output_thresh": "-26.45",
+    "normalization_type": "dynamic",
+    "target_offset": "0.21"
+  }
+}

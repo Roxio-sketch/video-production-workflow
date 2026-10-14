@@ -1,0 +1,25 @@
+{
+  "index": 24,
+  "chapter": "实际调参：多道落雷",
+  "start": 151.25,
+  "end": 154.8,
+  "text": "最后看布局，增加同时出现的落雷数量。",
+  "spokenText": "最后看布局，增加同时出现的落雷数量。",
+  "key": "2039bffcb5c0e88503f8622bc84f01a84ac6aca83fabe1cfd21a8fccb9c83d2a",
+  "file": "E:\\视频\\shader-showcase\\narration\\mambo\\lightning\\24.wav",
+  "duration": 3.264833,
+  "nativeSpeed": 1.0,
+  "tempo": 1.0,
+  "sourceLoudness": {
+    "input_i": "-18.99",
+    "input_tp": "-2.83",
+    "input_lra": "0.40",
+    "input_thresh": "-29.30",
+    "output_i": "-16.09",
+    "output_tp": "-1.50",
+    "output_lra": "0.00",
+    "output_thresh": "-26.40",
+    "normalization_type": "dynamic",
+    "target_offset": "0.09"
+  }
+}

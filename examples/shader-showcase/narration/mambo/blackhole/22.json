@@ -1,0 +1,25 @@
+{
+  "index": 22,
+  "chapter": "真实调参：形状",
+  "start": 136.25,
+  "end": 139.8,
+  "text": "看完透镜，回到黑洞本身，调整暗核大小。",
+  "spokenText": "看完透镜，回到黑洞本身，调整暗核大小。",
+  "key": "e9cc37b7fc2cf36878ad7ad1bca272f1648772383ac7a9c4d92e607afcb9da8b",
+  "file": "E:\\视频\\shader-showcase\\narration\\mambo\\blackhole\\22.wav",
+  "duration": 3.436625,
+  "nativeSpeed": 1.0,
+  "tempo": 1.0,
+  "sourceLoudness": {
+    "input_i": "-18.34",
+    "input_tp": "-1.59",
+    "input_lra": "0.50",
+    "input_thresh": "-28.63",
+    "output_i": "-16.09",
+    "output_tp": "-1.50",
+    "output_lra": "0.00",
+    "output_thresh": "-26.37",
+    "normalization_type": "dynamic",
+    "target_offset": "0.09"
+  }
+}

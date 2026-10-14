@@ -1,0 +1,25 @@
+{
+  "index": 15,
+  "chapter": "自然语言需求",
+  "start": 105.25,
+  "end": 114.8,
+  "text": "如果不想从参数表开始，就描述你要的配色、形状和节奏。让代理整理配方，再到工作台检查和细调。",
+  "spokenText": "如果不想从参数表开始，就描述你要的配色、形状和节奏。让代理整理配方，再到工作台检查和细调。",
+  "key": "b12ae33b2bc1bdf0d3f4f1873cf11d043b2f6569eaacb9f1c07f6eab1ad7133e",
+  "file": "E:\\视频\\shader-showcase\\narration\\mambo\\lightning\\15.wav",
+  "duration": 8.385625,
+  "nativeSpeed": 1.0,
+  "tempo": 1.0,
+  "sourceLoudness": {
+    "input_i": "-18.61",
+    "input_tp": "-1.91",
+    "input_lra": "1.20",
+    "input_thresh": "-28.94",
+    "output_i": "-15.98",
+    "output_tp": "-1.50",
+    "output_lra": "0.70",
+    "output_thresh": "-26.32",
+    "normalization_type": "dynamic",
+    "target_offset": "-0.02"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "index": 24,
+  "chapter": "真实调参：形状",
+  "start": 144.25,
+  "end": 147.8,
+  "text": "倾角则控制它朝向我们的姿态。",
+  "spokenText": "倾角则控制它朝向我们的姿态。",
+  "key": "8f82748a1809d69b3db69f38703c1c605ea28592c5a7d833647e278672224ed3",
+  "file": "E:\\视频\\shader-showcase\\narration\\mambo\\blackhole\\24.wav",
+  "duration": 2.192188,
+  "nativeSpeed": 1.0,
+  "tempo": 1.0,
+  "sourceLoudness": {
+    "input_i": "-18.25",
+    "input_tp": "-3.48",
+    "input_lra": "0.00",
+    "input_thresh": "-28.25",
+    "output_i": "-16.27",
+    "output_tp": "-1.50",
+    "output_lra": "0.00",
+    "output_thresh": "-26.27",
+    "normalization_type": "linear",
+    "target_offset": "0.27"
+  }
+}

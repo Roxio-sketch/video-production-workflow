@@ -1,0 +1,13 @@
+node_modules/
+.video-workflow/
+__pycache__/
+*.py[cod]
+**/out/
+**/logs/
+**/build/
+**/run/
+.gradle/
+.env
+*.pth
+*.ckpt
+work/

@@ -1,0 +1,25 @@
+{
+  "index": 7,
+  "chapter": "颜色渐变",
+  "start": 40.25,
+  "end": 48.8,
+  "text": "接下来给它配色。拖动渐变比例，两种颜色的占比随之变化，也可以只保留其中一种。",
+  "spokenText": "接下来给它配色。拖动渐变比例，两种颜色的占比随之变化，也可以只保留其中一种。",
+  "key": "1e13221bf7138d822afe26740562b5f9a3b38ff95d5a4fb1d37d142a7cccdcab",
+  "file": "E:\\视频\\shader-showcase\\narration\\mambo\\lightning\\07.wav",
+  "duration": 6.923813,
+  "nativeSpeed": 1.0,
+  "tempo": 1.0,
+  "sourceLoudness": {
+    "input_i": "-18.67",
+    "input_tp": "-1.67",
+    "input_lra": "2.20",
+    "input_thresh": "-29.06",
+    "output_i": "-15.70",
+    "output_tp": "-1.50",
+    "output_lra": "1.10",
+    "output_thresh": "-26.06",
+    "normalization_type": "dynamic",
+    "target_offset": "-0.30"
+  }
+}

@@ -1,0 +1,26 @@
+标题
+我用GPT制作并开源了一款闪电Mod，连雷劫也能自定义
+
+简介
+这是我用GPT辅助制作并开源的闪电效果与演示Mod，从环绕电流到群雷、击地放电，都可以继续调参。
+
+这次以五行仙途高阶雷劫配方为起点，在演示Mod中调整了线宽、亮度与配色。从环绕电流、分形落雷到群雷和击地放电，颜色渐变、分叉概率与层数、落雷数量和范围都能分别设计。视频也展示了实际操作控件的过程，以及固定种子下的形状对照。
+
+可以把想要的配色、形状和节奏描述给支持Skill的AI代理，再到工作台细调、保存配方。相关Skill、参数工作台、Forge演示Mod与源码已经开源，也可以参考源码，把闪电接到自己的模型挂点或技能事件上。
+
+项目与源码：https://github.com/Roxio-sketch/minecraft-agent-skills
+演示Mod与Skill下载：https://github.com/Roxio-sketch/minecraft-agent-skills/releases/tag/vfx-workbench-0.1.0-20261010
+本期Skill：minecraft-lightning
+游戏环境：Minecraft 1.20.1 / Forge / Java 17
+
+配乐署名
+'Helios' by Scott Buckley — released under CC-BY 4.0.
+www.scottbuckley.com.au
+曲目来源：https://www.scottbuckley.com.au/library/helios/
+许可：https://creativecommons.org/licenses/by/4.0/
+本视频对配乐进行了截取、音量调整和淡入淡出。
+
+配音：MamboTTS社区预设生成的AI配音。
+
+建议标签
+我的世界，Minecraft，雷劫，闪电，五行仙途，模组，开源，AI，Skill

@@ -1,0 +1,56 @@
+[
+  {
+    "file": "E:\\视频\\exports\\自定义黑洞与白洞-曼波配音版.mp4",
+    "seconds": 246.0,
+    "width": 1920,
+    "height": 1080,
+    "fps": "30/1",
+    "audio": "aac",
+    "sampleRate": "48000",
+    "channels": 2,
+    "videoBitstreamUnchanged": true,
+    "videoSHA256": "SHA256=d1b1961534f34a82ff075d86c2ecaad10e9296b9b6b97377473d94cfd410e149",
+    "fullDecode": "passed",
+    "cueCount": 39,
+    "timing": "passed",
+    "loudness": {
+      "input_i": "-16.66",
+      "input_tp": "-4.26",
+      "input_lra": "4.50",
+      "input_thresh": "-27.91",
+      "output_i": "-16.23",
+      "output_tp": "-2.82",
+      "output_lra": "4.10",
+      "output_thresh": "-27.33",
+      "normalization_type": "dynamic",
+      "target_offset": "0.23"
+    }
+  },
+  {
+    "file": "E:\\视频\\exports\\自定义闪电与雷劫-曼波配音版.mp4",
+    "seconds": 195.0,
+    "width": 1920,
+    "height": 1080,
+    "fps": "30/1",
+    "audio": "aac",
+    "sampleRate": "48000",
+    "channels": 2,
+    "videoBitstreamUnchanged": true,
+    "videoSHA256": "SHA256=fd204c6cd1812d209915a6d96a9671faaef574e91ee8f1f510c0e3a9e91505eb",
+    "fullDecode": "passed",
+    "cueCount": 29,
+    "timing": "passed",
+    "loudness": {
+      "input_i": "-16.74",
+      "input_tp": "-4.32",
+      "input_lra": "4.80",
+      "input_thresh": "-27.89",
+      "output_i": "-16.27",
+      "output_tp": "-2.75",
+      "output_lra": "4.30",
+      "output_thresh": "-27.19",
+      "normalization_type": "dynamic",
+      "target_offset": "0.27"
+    }
+  }
+]

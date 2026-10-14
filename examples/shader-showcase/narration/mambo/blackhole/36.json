@@ -1,0 +1,25 @@
+{
+  "index": 36,
+  "chapter": "白洞真实调参",
+  "start": 210.25,
+  "end": 213.8,
+  "text": "最后加入光壳，组合成自己的白洞。",
+  "spokenText": "最后加入光壳，组合成自己的白洞。",
+  "key": "b49f40cc157b1f4a0524fc796aedbb1caa4b283bd61dd2d555a3621c75998b75",
+  "file": "E:\\视频\\shader-showcase\\narration\\mambo\\blackhole\\36.wav",
+  "duration": 2.708417,
+  "nativeSpeed": 1.0,
+  "tempo": 1.0,
+  "sourceLoudness": {
+    "input_i": "-18.54",
+    "input_tp": "-2.72",
+    "input_lra": "0.00",
+    "input_thresh": "-28.90",
+    "output_i": "-17.32",
+    "output_tp": "-1.50",
+    "output_lra": "0.00",
+    "output_thresh": "-27.69",
+    "normalization_type": "linear",
+    "target_offset": "1.32"
+  }
+}

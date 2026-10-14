@@ -1,0 +1,25 @@
+{
+  "index": 17,
+  "chapter": "透镜范围扩大",
+  "start": 108.25,
+  "end": 113.8,
+  "text": "范围从三调到十二，覆盖的区域随之扩大。",
+  "spokenText": "范围从三调到十二，覆盖的区域随之扩大。",
+  "key": "58b7229f03a1e1d74d58deed6ee2236b16e7b0461f75a0d03a961d8b1d8ff969",
+  "file": "E:\\视频\\shader-showcase\\narration\\mambo\\blackhole\\17.wav",
+  "duration": 3.282146,
+  "nativeSpeed": 1.0,
+  "tempo": 1.0,
+  "sourceLoudness": {
+    "input_i": "-18.62",
+    "input_tp": "-2.80",
+    "input_lra": "0.40",
+    "input_thresh": "-28.92",
+    "output_i": "-16.19",
+    "output_tp": "-1.50",
+    "output_lra": "0.00",
+    "output_thresh": "-26.49",
+    "normalization_type": "dynamic",
+    "target_offset": "0.19"
+  }
+}

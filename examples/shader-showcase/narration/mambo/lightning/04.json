@@ -1,0 +1,25 @@
+{
+  "index": 4,
+  "chapter": "固定种子B",
+  "start": 25.25,
+  "end": 29.8,
+  "text": "只换一个种子，就能探索另一组主干和分叉。",
+  "spokenText": "只换一个种子，就能探索另一组主干和分叉。",
+  "key": "960d2256e1c135188dc9f0e050981df52ca69352ac4f39208ce4d7a6bc413347",
+  "file": "E:\\视频\\shader-showcase\\narration\\mambo\\lightning\\04.wav",
+  "duration": 3.345313,
+  "nativeSpeed": 1.0,
+  "tempo": 1.0,
+  "sourceLoudness": {
+    "input_i": "-19.13",
+    "input_tp": "-2.21",
+    "input_lra": "0.70",
+    "input_thresh": "-29.28",
+    "output_i": "-16.23",
+    "output_tp": "-1.50",
+    "output_lra": "0.00",
+    "output_thresh": "-26.38",
+    "normalization_type": "dynamic",
+    "target_offset": "0.23"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "index": 1,
+  "chapter": "开场：自定义黑洞",
+  "start": 0.25,
+  "end": 7.8,
+  "text": "这样的黑洞，也可以放进你的世界。盘面、颜色和运动，都能按自己的想法设计。",
+  "spokenText": "这样的黑洞，也可以放进你的世界。盘面、颜色和运动，都能按自己的想法设计。",
+  "key": "57f1dfceefd5b91cdd0e23cd0f649c01548d039228c1d1b26d9ff11ae2ec7230",
+  "file": "E:\\视频\\shader-showcase\\narration\\mambo\\blackhole\\01.wav",
+  "duration": 6.771979,
+  "nativeSpeed": 1.0,
+  "tempo": 1.0,
+  "sourceLoudness": {
+    "input_i": "-18.57",
+    "input_tp": "-1.58",
+    "input_lra": "1.20",
+    "input_thresh": "-28.72",
+    "output_i": "-15.95",
+    "output_tp": "-1.50",
+    "output_lra": "1.70",
+    "output_thresh": "-26.16",
+    "normalization_type": "dynamic",
+    "target_offset": "-0.05"
+  }
+}

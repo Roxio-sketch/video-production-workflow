@@ -1,0 +1,25 @@
+{
+  "index": 39,
+  "chapter": "开源资源",
+  "start": 234.25,
+  "end": 245.8,
+  "text": "想亲手试试？技能包、工作台、演示模组和源码都已开源。项目链接与下载入口放在视频简介里。",
+  "spokenText": "想亲手试试？技能包、工作台、演示模组和源码都已开源。项目链接与下载入口放在视频简介里。",
+  "key": "71aa0a55ca8c99e755fc7dff2fa0fa902ace103644357dd6c691cd54ec504c96",
+  "file": "E:\\视频\\shader-showcase\\narration\\mambo\\blackhole\\39.wav",
+  "duration": 8.659021,
+  "nativeSpeed": 1.0,
+  "tempo": 1.0,
+  "sourceLoudness": {
+    "input_i": "-18.59",
+    "input_tp": "-1.59",
+    "input_lra": "1.20",
+    "input_thresh": "-28.79",
+    "output_i": "-16.28",
+    "output_tp": "-1.50",
+    "output_lra": "1.20",
+    "output_thresh": "-26.57",
+    "normalization_type": "dynamic",
+    "target_offset": "0.28"
+  }
+}

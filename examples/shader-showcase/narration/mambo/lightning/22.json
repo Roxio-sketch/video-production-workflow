@@ -1,0 +1,25 @@
+{
+  "index": 22,
+  "chapter": "实际调参：分叉",
+  "start": 143.25,
+  "end": 146.8,
+  "text": "分叉的层数增加，形状就更丰富了。",
+  "spokenText": "分叉的层数增加，形状就更丰富了。",
+  "key": "0c86e38cd35941691f4fceef16a36b372269867658ae8f728f2ce0d49522e431",
+  "file": "E:\\视频\\shader-showcase\\narration\\mambo\\lightning\\22.wav",
+  "duration": 2.626542,
+  "nativeSpeed": 1.0,
+  "tempo": 1.0,
+  "sourceLoudness": {
+    "input_i": "-19.03",
+    "input_tp": "-3.64",
+    "input_lra": "0.00",
+    "input_thresh": "-29.22",
+    "output_i": "-16.91",
+    "output_tp": "-1.50",
+    "output_lra": "0.00",
+    "output_thresh": "-27.10",
+    "normalization_type": "linear",
+    "target_offset": "0.91"
+  }
+}

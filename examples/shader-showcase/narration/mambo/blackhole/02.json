@@ -1,0 +1,25 @@
+{
+  "index": 2,
+  "chapter": "介绍能力",
+  "start": 8.25,
+  "end": 16.8,
+  "text": "先把它拆开来看。核心和盘面决定外形，盘纹与粒子负责运动，透镜则让周围的场景弯曲。",
+  "spokenText": "先把它拆开来看。核心和盘面决定外形，盘纹与粒子负责运动，透镜则让周围的场景弯曲。",
+  "key": "5e6482898dc9a4d09d176bcd40b9e5c389270ed2705f822a1670d824d480b29c",
+  "file": "E:\\视频\\shader-showcase\\narration\\mambo\\blackhole\\02.wav",
+  "duration": 8.026458,
+  "nativeSpeed": 1.0,
+  "tempo": 1.0,
+  "sourceLoudness": {
+    "input_i": "-18.94",
+    "input_tp": "-0.95",
+    "input_lra": "1.20",
+    "input_thresh": "-29.38",
+    "output_i": "-16.09",
+    "output_tp": "-1.50",
+    "output_lra": "1.10",
+    "output_thresh": "-26.51",
+    "normalization_type": "dynamic",
+    "target_offset": "0.09"
+  }
+}

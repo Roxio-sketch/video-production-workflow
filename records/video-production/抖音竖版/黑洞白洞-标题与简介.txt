@@ -1,0 +1,16 @@
+标题
+我用GPT制作并开源了一款黑洞Mod，黑洞和白洞都能自定义
+
+简介
+盘面、配色、厚度、透镜范围与人物参与，都能调整；白洞也有核心、喷流和外扩光壳。演示Mod、Skill、工作台和源码已开源。
+
+项目与源码：https://github.com/Roxio-sketch/minecraft-agent-skills
+下载：https://github.com/Roxio-sketch/minecraft-agent-skills/releases/tag/vfx-workbench-0.1.0-20261010
+
+配乐：'The Spaces Between' by Scott Buckley — released under CC-BY 4.0.
+www.scottbuckley.com.au
+曲目：https://www.scottbuckley.com.au/library/the-spaces-between/
+许可：https://creativecommons.org/licenses/by/4.0/
+本视频对配乐进行了截取、音量调整、旁白期间压低和淡入淡出。
+
+配音：MamboTTS社区预设生成的AI配音。

@@ -1,0 +1,234 @@
+[
+  {
+    "index": 1,
+    "chapter": "开场：自定义闪电",
+    "expected": "从环绕电流，到分形落雷与击地放电。",
+    "recognized": "从环药店鸟,到森行洛雷,于基地专店。",
+    "similarity": 0.3333333333333333,
+    "reviewNeeded": true
+  },
+  {
+    "index": 2,
+    "chapter": "三种通道",
+    "expected": "闪电提供三种通道：围绕对象的电流，从起点到终点的单次落雷，以及范围内的多道群雷。",
+    "recognized": "闪电提供三种通道,围绕对下面电流,从起点到终点的单子落雷,以及范围内的多道琴雷。",
+    "similarity": 0.8888888888888888,
+    "reviewNeeded": false
+  },
+  {
+    "index": 3,
+    "chapter": "固定种子A",
+    "expected": "同一配方、端点和种子，复现同一拓扑。",
+    "recognized": "同一配三,端点和粒子,复线同一突破。",
+    "similarity": 0.6666666666666666,
+    "reviewNeeded": false
+  },
+  {
+    "index": 4,
+    "chapter": "固定种子B",
+    "expected": "只改变种子，探索另一种闪电形状。",
+    "recognized": "使改变种子,探索另一种响电形状。",
+    "similarity": 0.8571428571428571,
+    "reviewNeeded": false
+  },
+  {
+    "index": 5,
+    "chapter": "少分叉",
+    "expected": "关闭分叉，留下简洁的主雷。",
+    "recognized": "逛地深岔,留下简洁的祖雷。",
+    "similarity": 0.5454545454545454,
+    "reviewNeeded": true
+  },
+  {
+    "index": 6,
+    "chapter": "多分叉",
+    "expected": "提高分叉概率，形成更丰富的结构。",
+    "recognized": "提高分叉概率,形成更丰富的结构。",
+    "similarity": 1.0,
+    "reviewNeeded": false
+  },
+  {
+    "index": 7,
+    "chapter": "颜色渐变",
+    "expected": "渐变起始色占比，从 百分之零 调到 百分之百。",
+    "recognized": "渐渐起始色降比,从0%调到100%。",
+    "similarity": 0.5,
+    "reviewNeeded": true
+  },
+  {
+    "index": 8,
+    "chapter": "材质层解释",
+    "expected": "核心和光晕可以分开设计。渐变选择作用层，颜色选择叠加方式，线宽、亮度和时间包络也能独立调整。",
+    "recognized": "核心和光晕可以分开设计。渐变选择作用层,颜色选择敌加方式。限宽、亮度和时间包裹也能独立调整。",
+    "similarity": 0.926829268292683,
+    "reviewNeeded": false
+  },
+  {
+    "index": 9,
+    "chapter": "环形电弧",
+    "expected": "环形电弧：围绕对象安排固定根部与扫掠范围。",
+    "recognized": "喊醒电伙,不要对象安排固定根部与扫劣赞违。",
+    "similarity": 0.5789473684210527,
+    "reviewNeeded": true
+  },
+  {
+    "index": 10,
+    "chapter": "延伸电流",
+    "expected": "延伸电流：每条电弧沿自己的方向生长。",
+    "recognized": "严兴电苗,每条电弧沿自己的方向伸展。",
+    "similarity": 0.6875,
+    "reviewNeeded": false
+  },
+  {
+    "index": 11,
+    "chapter": "集束群雷",
+    "expected": "集束落雷：把多道雷集中在一个区域。",
+    "recognized": "急秀落雷,把多大雷集中在一个区域。",
+    "similarity": 0.8,
+    "reviewNeeded": false
+  },
+  {
+    "index": 12,
+    "chapter": "散布群雷",
+    "expected": "散布落雷：扩大范围，形成不同的布局。",
+    "recognized": "散步落雷,扩大散维,形成不同的不及。",
+    "similarity": 0.6666666666666666,
+    "reviewNeeded": false
+  },
+  {
+    "index": 13,
+    "chapter": "击地特写",
+    "expected": "命中后，继续播放电弧、扩散断环与火花。",
+    "recognized": "命中后,继续播放电壶,扩散断怀疑火花。",
+    "similarity": 0.8125,
+    "reviewNeeded": false
+  },
+  {
+    "index": 14,
+    "chapter": "五行仙途雷劫配方",
+    "expected": "一百二十九 格落雷，高密度分叉与多次回击。",
+    "recognized": "129格洛雷,高密度分叉,与多次回击。",
+    "similarity": 0.7058823529411765,
+    "reviewNeeded": false
+  },
+  {
+    "index": 15,
+    "chapter": "自然语言需求",
+    "expected": "描述你想要的落雷形状、配色与节奏，再在工作台中观察结果，保存可以复用的参数配方。",
+    "recognized": "你要受你想要的洛雷形状、配色已节奏。在家工作台中观察结果,保存可以附用的拆绣配方。",
+    "similarity": 0.7671232876712328,
+    "reviewNeeded": false
+  },
+  {
+    "index": 16,
+    "chapter": "实际调参：粗细亮度",
+    "expected": "调节主雷核心宽度。",
+    "recognized": "调节酒雷核心宽度",
+    "similarity": 0.875,
+    "reviewNeeded": false
+  },
+  {
+    "index": 17,
+    "chapter": "实际调参：粗细亮度",
+    "expected": "增加光晕宽度，改变发光层次。",
+    "recognized": "增加光晕宽度,改变砂工程式。",
+    "similarity": 0.6666666666666666,
+    "reviewNeeded": false
+  },
+  {
+    "index": 18,
+    "chapter": "实际调参：粗细亮度",
+    "expected": "修改核心亮度，观察显色。",
+    "recognized": "修改核心亮度,观察显色。",
+    "similarity": 1.0,
+    "reviewNeeded": false
+  },
+  {
+    "index": 19,
+    "chapter": "实际调参：渐变光晕",
+    "expected": "把起始色占比从 百分之零 调到 百分之百。",
+    "recognized": "把七十色箭比从百分之零,调到百分之百。",
+    "similarity": 0.8235294117647058,
+    "reviewNeeded": false
+  },
+  {
+    "index": 20,
+    "chapter": "实际调参：渐变光晕",
+    "expected": "再调整光晕亮度。",
+    "recognized": "再调讲光晕亮度。",
+    "similarity": 0.8571428571428571,
+    "reviewNeeded": false
+  },
+  {
+    "index": 21,
+    "chapter": "实际调参：分叉",
+    "expected": "提高分叉概率。",
+    "recognized": "D高分家概率",
+    "similarity": 0.6666666666666666,
+    "reviewNeeded": false
+  },
+  {
+    "index": 22,
+    "chapter": "实际调参：分叉",
+    "expected": "改变分叉深度，丰富拓扑。",
+    "recognized": "带电增加先度,双付突破。",
+    "similarity": 0.1,
+    "reviewNeeded": true
+  },
+  {
+    "index": 23,
+    "chapter": "实际调参：分叉",
+    "expected": "调整分叉预算，控制复杂程度。",
+    "recognized": "调整增加益算,控制复杂程度。",
+    "similarity": 0.75,
+    "reviewNeeded": false
+  },
+  {
+    "index": 24,
+    "chapter": "实际调参：多道落雷",
+    "expected": "增加群雷数量。",
+    "recognized": "增加全围绣量。",
+    "similarity": 0.5,
+    "reviewNeeded": true
+  },
+  {
+    "index": 25,
+    "chapter": "实际调参：多道落雷",
+    "expected": "扩大落雷散布范围。",
+    "recognized": "扩大洛雷 三不散为",
+    "similarity": 0.5,
+    "reviewNeeded": true
+  },
+  {
+    "index": 26,
+    "chapter": "实际调参：多道落雷",
+    "expected": "改变击地放电半径。",
+    "recognized": "改变基地放电半径。",
+    "similarity": 0.875,
+    "reviewNeeded": false
+  },
+  {
+    "index": 27,
+    "chapter": "使用路线",
+    "expected": "安装对应的技能包，在工作台中调参，导出配方保存你的方案。你可以安装演示模组，也可以参考源码接入自己的模组。",
+    "recognized": "按照对应的技能爆,在工作台中挑战,导致可以放保存你的方案。你可以按照延续模组,也可以参考研码介入自己的模组。",
+    "similarity": 0.7010309278350515,
+    "reviewNeeded": false
+  },
+  {
+    "index": 28,
+    "chapter": "展示收尾",
+    "expected": "同一个内核，设计属于你的电流与落雷。",
+    "recognized": "同一个内核,设计属于你的电流与落雷。",
+    "similarity": 1.0,
+    "reviewNeeded": false
+  },
+  {
+    "index": 29,
+    "chapter": "开源资源",
+    "expected": "两个技能包、参数工作台、演示模组和源码都已开源。项目链接和下载入口在视频简介中。欢迎做出你的版本。",
+    "recognized": "两个技能包、参秀工作台、演戏模组和研码都已开源。项目链接和下载入口,在视频简介中。欢迎做出你的版本。",
+    "similarity": 0.9318181818181818,
+    "reviewNeeded": false
+  }
+]

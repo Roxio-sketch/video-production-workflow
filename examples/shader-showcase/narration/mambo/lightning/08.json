@@ -1,0 +1,25 @@
+{
+  "index": 8,
+  "chapter": "材质层解释",
+  "start": 49.25,
+  "end": 58.8,
+  "text": "颜色之外，还要看光的层次。核心与光晕可以分开设计，分别调整宽度、亮度和持续时间。",
+  "spokenText": "颜色之外，还要看光的层次。核心与光晕可以分开设计，分别调整宽度、亮度和持续时间。",
+  "key": "480f430d40844a9c61d8a83c95d32ecc08cf517a8c4cb3565b781a3a88f453d2",
+  "file": "E:\\视频\\shader-showcase\\narration\\mambo\\lightning\\08.wav",
+  "duration": 7.689125,
+  "nativeSpeed": 1.0,
+  "tempo": 1.0,
+  "sourceLoudness": {
+    "input_i": "-18.76",
+    "input_tp": "-2.13",
+    "input_lra": "1.00",
+    "input_thresh": "-29.07",
+    "output_i": "-16.26",
+    "output_tp": "-1.50",
+    "output_lra": "1.80",
+    "output_thresh": "-26.57",
+    "normalization_type": "dynamic",
+    "target_offset": "0.26"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "index": 19,
+  "chapter": "实际调参：渐变光晕",
+  "start": 127.25,
+  "end": 132.8,
+  "text": "配色时，可以让两种颜色渐变，也能选一种纯色。",
+  "spokenText": "配色时，可以让两种颜色渐变，也能选一种纯色。",
+  "key": "3b37dfc22b74bd64c8b69c834c8013440df8075d8bca7466dfd87f553c0d0a4e",
+  "file": "E:\\视频\\shader-showcase\\narration\\mambo\\lightning\\19.wav",
+  "duration": 3.899063,
+  "nativeSpeed": 1.0,
+  "tempo": 1.0,
+  "sourceLoudness": {
+    "input_i": "-19.15",
+    "input_tp": "-4.58",
+    "input_lra": "0.60",
+    "input_thresh": "-29.48",
+    "output_i": "-15.62",
+    "output_tp": "-1.50",
+    "output_lra": "0.00",
+    "output_thresh": "-25.99",
+    "normalization_type": "dynamic",
+    "target_offset": "-0.38"
+  }
+}

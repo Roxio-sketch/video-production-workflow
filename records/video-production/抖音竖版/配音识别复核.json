@@ -1,0 +1,10 @@
+[
+  {
+    "kind": "blackhole",
+    "index": 4,
+    "expected": "再看引力透镜。开启以后，真实背景会发生扭曲。",
+    "recognized": "再看隐秘透镜。开启以后,监视背景会发生扭曲。",
+    "similarity": 0.7894736842105263,
+    "reviewNeeded": false
+  }
+]

@@ -1,0 +1,25 @@
+{
+  "index": 3,
+  "chapter": "颗粒盘",
+  "start": 17.25,
+  "end": 22.8,
+  "text": "先选一种盘面。颗粒风格，把吸积盘的结构清楚地显出来。",
+  "spokenText": "先选一种盘面。颗粒风格，把吸积盘的结构清楚地显出来。",
+  "key": "e06a6df05f170254261a821e03212e2d3ab24175a88d5ce504fdc510afca8e64",
+  "file": "E:\\视频\\shader-showcase\\narration\\mambo\\blackhole\\03.wav",
+  "duration": 5.334,
+  "nativeSpeed": 1.0,
+  "tempo": 1.0,
+  "sourceLoudness": {
+    "input_i": "-18.66",
+    "input_tp": "-1.30",
+    "input_lra": "1.30",
+    "input_thresh": "-28.90",
+    "output_i": "-15.81",
+    "output_tp": "-1.50",
+    "output_lra": "1.40",
+    "output_thresh": "-26.11",
+    "normalization_type": "dynamic",
+    "target_offset": "-0.19"
+  }
+}

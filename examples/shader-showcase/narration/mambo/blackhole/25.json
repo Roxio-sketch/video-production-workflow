@@ -1,0 +1,25 @@
+{
+  "index": 25,
+  "chapter": "真实调参：颜色",
+  "start": 148.25,
+  "end": 152.8,
+  "text": "配色也在这里改，先把内盘换成冰蓝色。",
+  "spokenText": "配色也在这里改，先把内盘换成冰蓝色。",
+  "key": "1c20d6e27aec64cfd7ca8e81ddd5210e260c090cfc280ad1f50ce9e8eba68613",
+  "file": "E:\\视频\\shader-showcase\\narration\\mambo\\blackhole\\25.wav",
+  "duration": 3.110063,
+  "nativeSpeed": 1.0,
+  "tempo": 1.0,
+  "sourceLoudness": {
+    "input_i": "-19.06",
+    "input_tp": "-1.59",
+    "input_lra": "0.30",
+    "input_thresh": "-29.36",
+    "output_i": "-16.11",
+    "output_tp": "-1.50",
+    "output_lra": "0.00",
+    "output_thresh": "-26.42",
+    "normalization_type": "dynamic",
+    "target_offset": "0.11"
+  }
+}

@@ -1,0 +1,26 @@
+标题
+我用GPT制作并开源了一款黑洞Mod，黑洞和白洞都能自定义
+
+简介
+这是我用GPT辅助制作并开源的黑洞、白洞效果与演示Mod，支持实时调参和自定义配方。
+
+盘面风格、配色、厚度、倾角、旋转和粒子都能改；世界透镜的强度、覆盖范围，以及人物是否参与扭曲，也可以分别控制。这期还展示了白洞的明亮核心、双极喷流和外扩光壳，以及演示Mod里的实际调参过程。
+
+可以从一句视觉描述开始，让支持Skill的AI代理整理参数，再到工作台细调、保存配方。相关Skill、参数工作台、Forge演示Mod与源码已经开源，欢迎做出自己的版本。
+
+项目与源码：https://github.com/Roxio-sketch/minecraft-agent-skills
+演示Mod与Skill下载：https://github.com/Roxio-sketch/minecraft-agent-skills/releases/tag/vfx-workbench-0.1.0-20261010
+本期Skill：minecraft-black-hole
+游戏环境：Minecraft 1.20.1 / Forge / Java 17
+
+配乐署名
+'The Spaces Between' by Scott Buckley — released under CC-BY 4.0.
+www.scottbuckley.com.au
+曲目来源：https://www.scottbuckley.com.au/library/the-spaces-between/
+许可：https://creativecommons.org/licenses/by/4.0/
+本视频对配乐进行了截取、音量调整和淡入淡出。
+
+配音：MamboTTS社区预设生成的AI配音。
+
+建议标签
+我的世界，Minecraft，黑洞，白洞，模组，着色器，开源，AI，Skill

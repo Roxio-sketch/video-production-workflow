@@ -1,0 +1,25 @@
+{
+  "index": 35,
+  "chapter": "白洞真实调参",
+  "start": 206.25,
+  "end": 209.8,
+  "text": "配合上下喷流，增强向外释放的感觉。",
+  "spokenText": "配合上下喷流，增强向外释放的感觉。",
+  "key": "fc702ee3a6160306017a8067946f8e9406549fd827a88f03e7f6ee42d97d53a1",
+  "file": "E:\\视频\\shader-showcase\\narration\\mambo\\blackhole\\35.wav",
+  "duration": 3.018375,
+  "nativeSpeed": 1.0,
+  "tempo": 1.0,
+  "sourceLoudness": {
+    "input_i": "-18.63",
+    "input_tp": "-4.24",
+    "input_lra": "0.20",
+    "input_thresh": "-28.63",
+    "output_i": "-15.82",
+    "output_tp": "-1.50",
+    "output_lra": "0.00",
+    "output_thresh": "-25.82",
+    "normalization_type": "dynamic",
+    "target_offset": "-0.18"
+  }
+}

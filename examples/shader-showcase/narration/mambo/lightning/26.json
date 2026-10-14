@@ -1,0 +1,25 @@
+{
+  "index": 26,
+  "chapter": "实际调参：多道落雷",
+  "start": 159.25,
+  "end": 162.8,
+  "text": "击地半径也能单独改，搭配整体布局。",
+  "spokenText": "击地半径也能单独改，搭配整体布局。",
+  "key": "7703c1e225bba374d7f828bfa901752ddbfdd0e9381c528be1bff66eac9e53c7",
+  "file": "E:\\视频\\shader-showcase\\narration\\mambo\\lightning\\26.wav",
+  "duration": 3.065583,
+  "nativeSpeed": 1.0,
+  "tempo": 1.0,
+  "sourceLoudness": {
+    "input_i": "-17.71",
+    "input_tp": "-1.11",
+    "input_lra": "1.00",
+    "input_thresh": "-27.86",
+    "output_i": "-16.33",
+    "output_tp": "-1.50",
+    "output_lra": "0.00",
+    "output_thresh": "-26.49",
+    "normalization_type": "dynamic",
+    "target_offset": "0.33"
+  }
+}

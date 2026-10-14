@@ -1,0 +1,25 @@
+{
+  "index": 3,
+  "chapter": "固定种子A",
+  "start": 20.25,
+  "end": 24.8,
+  "text": "想复现同一种形状？保持配方、端点和种子不变。",
+  "spokenText": "想复现同一种形状？保持配方、端点和种子不变。",
+  "key": "8aa036cda9686fceff5eeda4bf65742f3a38e364830f21993b2c81071e159e1b",
+  "file": "E:\\视频\\shader-showcase\\narration\\mambo\\lightning\\03.wav",
+  "duration": 4.512604,
+  "nativeSpeed": 1.0,
+  "tempo": 1.029171396895787,
+  "sourceLoudness": {
+    "input_i": "-17.57",
+    "input_tp": "-1.02",
+    "input_lra": "0.60",
+    "input_thresh": "-28.32",
+    "output_i": "-16.35",
+    "output_tp": "-1.50",
+    "output_lra": "0.20",
+    "output_thresh": "-26.94",
+    "normalization_type": "dynamic",
+    "target_offset": "0.35"
+  }
+}

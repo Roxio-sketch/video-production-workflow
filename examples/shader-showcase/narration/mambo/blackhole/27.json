@@ -1,0 +1,25 @@
+{
+  "index": 27,
+  "chapter": "真实调参：运动",
+  "start": 158.25,
+  "end": 161.8,
+  "text": "先让盘面转得更快，观察纹理的变化。",
+  "spokenText": "先让盘面转得更快，观察纹理的变化。",
+  "key": "caf5ec7e2ae6fab29dc6ca84096ef32705c918e1f14cb85d06d223eec21daafb",
+  "file": "E:\\视频\\shader-showcase\\narration\\mambo\\blackhole\\27.wav",
+  "duration": 2.876438,
+  "nativeSpeed": 1.0,
+  "tempo": 1.0,
+  "sourceLoudness": {
+    "input_i": "-18.22",
+    "input_tp": "-1.72",
+    "input_lra": "0.00",
+    "input_thresh": "-28.39",
+    "output_i": "-17.99",
+    "output_tp": "-1.50",
+    "output_lra": "0.00",
+    "output_thresh": "-28.16",
+    "normalization_type": "linear",
+    "target_offset": "1.99"
+  }
+}

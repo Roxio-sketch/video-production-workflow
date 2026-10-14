@@ -1,0 +1,25 @@
+{
+  "index": 32,
+  "chapter": "白洞双极喷流",
+  "start": 186.25,
+  "end": 193.8,
+  "text": "再打开双极喷流。除了强度，长度、宽度、速度和两端颜色也能设计。",
+  "spokenText": "再打开双极喷流。除了强度，长度、宽度、速度和两端颜色也能设计。",
+  "key": "f2c4e45e72d8ab057b6fcc68c74f8c18eaa3ee79788e6224abfe4c85565f6c49",
+  "file": "E:\\视频\\shader-showcase\\narration\\mambo\\blackhole\\32.wav",
+  "duration": 5.699771,
+  "nativeSpeed": 1.0,
+  "tempo": 1.0,
+  "sourceLoudness": {
+    "input_i": "-19.54",
+    "input_tp": "-2.31",
+    "input_lra": "0.20",
+    "input_thresh": "-29.88",
+    "output_i": "-16.03",
+    "output_tp": "-1.50",
+    "output_lra": "1.90",
+    "output_thresh": "-26.38",
+    "normalization_type": "dynamic",
+    "target_offset": "0.03"
+  }
+}

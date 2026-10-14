@@ -1,0 +1,25 @@
+{
+  "index": 38,
+  "chapter": "展示收尾",
+  "start": 226.25,
+  "end": 233.8,
+  "text": "从黑洞到白洞，把形状、颜色和运动组合起来，就能做出自己的风格。",
+  "spokenText": "从黑洞到白洞，把形状、颜色和运动组合起来，就能做出自己的风格。",
+  "key": "f2c1471547f80cb8ca8c3d243992142e92396f577638e6aa99c8c9db86be9d8b",
+  "file": "E:\\视频\\shader-showcase\\narration\\mambo\\blackhole\\38.wav",
+  "duration": 5.385125,
+  "nativeSpeed": 1.0,
+  "tempo": 1.0,
+  "sourceLoudness": {
+    "input_i": "-19.17",
+    "input_tp": "-2.25",
+    "input_lra": "1.90",
+    "input_thresh": "-29.33",
+    "output_i": "-16.73",
+    "output_tp": "-1.50",
+    "output_lra": "2.20",
+    "output_thresh": "-26.90",
+    "normalization_type": "dynamic",
+    "target_offset": "0.73"
+  }
+}

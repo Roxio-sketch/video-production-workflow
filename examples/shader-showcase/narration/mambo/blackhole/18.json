@@ -1,0 +1,25 @@
+{
+  "index": 18,
+  "chapter": "玩家透镜关闭",
+  "start": 114.25,
+  "end": 120.8,
+  "text": "那么，人物也要跟着变形吗？关闭玩家参与，身体和装备就能保持完整。",
+  "spokenText": "那么，人物也要跟着变形吗？关闭玩家参与，身体和装备就能保持完整。",
+  "key": "00a51d510bdba7943fa88652654cd138f14203edf4086427df80575a10153896",
+  "file": "E:\\视频\\shader-showcase\\narration\\mambo\\blackhole\\18.wav",
+  "duration": 6.350917,
+  "nativeSpeed": 1.0,
+  "tempo": 1.0,
+  "sourceLoudness": {
+    "input_i": "-18.69",
+    "input_tp": "-1.43",
+    "input_lra": "0.30",
+    "input_thresh": "-29.10",
+    "output_i": "-16.15",
+    "output_tp": "-1.50",
+    "output_lra": "1.10",
+    "output_thresh": "-26.61",
+    "normalization_type": "dynamic",
+    "target_offset": "0.15"
+  }
+}

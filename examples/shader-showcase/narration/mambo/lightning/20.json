@@ -1,0 +1,25 @@
+{
+  "index": 20,
+  "chapter": "实际调参：渐变光晕",
+  "start": 133.25,
+  "end": 138.8,
+  "text": "光晕亮度独立调整，不必改动颜色比例。",
+  "spokenText": "光晕亮度独立调整，不必改动颜色比例。",
+  "key": "6037f283966d795ff5dcffe8012343bd178a8067f94fec6b447bfcd348d4c000",
+  "file": "E:\\视频\\shader-showcase\\narration\\mambo\\lightning\\20.wav",
+  "duration": 3.118875,
+  "nativeSpeed": 1.0,
+  "tempo": 1.0,
+  "sourceLoudness": {
+    "input_i": "-18.49",
+    "input_tp": "-2.20",
+    "input_lra": "0.80",
+    "input_thresh": "-28.79",
+    "output_i": "-16.31",
+    "output_tp": "-1.50",
+    "output_lra": "0.00",
+    "output_thresh": "-26.62",
+    "normalization_type": "dynamic",
+    "target_offset": "0.31"
+  }
+}

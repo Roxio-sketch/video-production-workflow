@@ -1,0 +1,25 @@
+{
+  "index": 1,
+  "chapter": "开场：自定义闪电",
+  "start": 0.25,
+  "end": 9.8,
+  "text": "这样的雷劫，来自五行仙途的参数配方。从环绕电流到密集落雷，每一道闪电都能继续设计。",
+  "spokenText": "这样的雷劫，来自五行仙途的参数配方。从环绕电流到密集落雷，每一道闪电都能继续设计。",
+  "key": "5325195c7e29fbc9d086e6a7a90d8b511a44e91f42b46b96c46c99039a8e9fc8",
+  "file": "E:\\视频\\shader-showcase\\narration\\mambo\\lightning\\01.wav",
+  "duration": 7.496021,
+  "nativeSpeed": 1.0,
+  "tempo": 1.0,
+  "sourceLoudness": {
+    "input_i": "-18.50",
+    "input_tp": "-1.56",
+    "input_lra": "0.80",
+    "input_thresh": "-28.72",
+    "output_i": "-16.20",
+    "output_tp": "-1.50",
+    "output_lra": "1.20",
+    "output_thresh": "-26.39",
+    "normalization_type": "dynamic",
+    "target_offset": "0.20"
+  }
+}

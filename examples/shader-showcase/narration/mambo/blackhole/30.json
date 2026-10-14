@@ -1,0 +1,25 @@
+{
+  "index": 30,
+  "chapter": "白洞完整展示",
+  "start": 170.25,
+  "end": 177.8,
+  "text": "同一套工具，还能设计白洞。明亮的核心，配合上下喷流和向外运动的粒子。",
+  "spokenText": "同一套工具，还能设计白洞。明亮的核心，配合上下喷流和向外运动的粒子。",
+  "key": "2fbb830c283afb72fd418938e2739abe97e654fb79fe09cc67ba89edece5b6a5",
+  "file": "E:\\视频\\shader-showcase\\narration\\mambo\\blackhole\\30.wav",
+  "duration": 6.346208,
+  "nativeSpeed": 1.0,
+  "tempo": 1.0,
+  "sourceLoudness": {
+    "input_i": "-19.21",
+    "input_tp": "-3.55",
+    "input_lra": "1.30",
+    "input_thresh": "-29.46",
+    "output_i": "-15.83",
+    "output_tp": "-1.50",
+    "output_lra": "1.40",
+    "output_thresh": "-26.12",
+    "normalization_type": "dynamic",
+    "target_offset": "-0.17"
+  }
+}

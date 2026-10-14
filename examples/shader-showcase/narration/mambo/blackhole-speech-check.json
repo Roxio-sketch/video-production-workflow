@@ -1,0 +1,314 @@
+[
+  {
+    "index": 1,
+    "chapter": "开场：自定义黑洞",
+    "expected": "世界中的黑洞，可以按自己的想法调整。",
+    "recognized": "世界中的黑洞,可以按自己的想法调整。",
+    "similarity": 1.0,
+    "reviewNeeded": false
+  },
+  {
+    "index": 2,
+    "chapter": "介绍能力",
+    "expected": "一个黑洞可以分成多个可编辑层。核心与盘面决定形状，盘纹和粒子负责运动，世界透镜让真实场景参与扭曲。",
+    "recognized": "一个黑洞可以分成多个可编辑藏、核心与盘面决定形状、爬门和粒子负责运动、世界透镜、将真实场景参与扭曲。",
+    "similarity": 0.9111111111111111,
+    "reviewNeeded": false
+  },
+  {
+    "index": 3,
+    "chapter": "颗粒盘",
+    "expected": "颗粒盘：用清晰的颗粒结构构成吸积盘。",
+    "recognized": "颗粒牌,用清晰的颗粒结构,构成吸积牌。",
+    "similarity": 0.875,
+    "reviewNeeded": false
+  },
+  {
+    "index": 4,
+    "chapter": "层叠光带",
+    "expected": "层叠光带：突出环带与发光层次。",
+    "recognized": "承离光袋,突出寒袋以撒光层次。",
+    "similarity": 0.46153846153846156,
+    "reviewNeeded": true
+  },
+  {
+    "index": 5,
+    "chapter": "经典程序光带",
+    "expected": "经典光带：冰蓝内盘，紫色外缘。",
+    "recognized": "经典光代、冰蓝内排、紫色外圆。",
+    "similarity": 0.75,
+    "reviewNeeded": false
+  },
+  {
+    "index": 6,
+    "chapter": "体积尘埃",
+    "expected": "体积尘埃：云雾与细丝构成不同的层次。",
+    "recognized": "提起前来,萤物以细丝构强不同的层次。",
+    "similarity": 0.5,
+    "reviewNeeded": true
+  },
+  {
+    "index": 7,
+    "chapter": "金橙配色",
+    "expected": "先给它一组暖色：金色内盘，橙色外盘。",
+    "recognized": "先给它一组蓝色,金色媚盘、橙色外盘。",
+    "similarity": 0.8666666666666667,
+    "reviewNeeded": false
+  },
+  {
+    "index": 8,
+    "chapter": "自然语言需求",
+    "expected": "例如，告诉代理：做一个冰蓝色黑洞，盘面薄一些，旋转缓慢，保留清晰暗核。再用工作台检查和调整。",
+    "recognized": "例如,到处待里,做一个冰蓝色黑洞,盘面薄一些,弦角缓慢,保留清晰暗河,再用工作台检查和调整。",
+    "similarity": 0.8205128205128205,
+    "reviewNeeded": false
+  },
+  {
+    "index": 9,
+    "chapter": "冰蓝配色",
+    "expected": "冰蓝色：同一盘面，换成冷色层次。",
+    "recognized": "冰蓝色,同一盘面,换成冷色准则。",
+    "similarity": 0.8461538461538461,
+    "reviewNeeded": false
+  },
+  {
+    "index": 10,
+    "chapter": "紫色配色",
+    "expected": "紫色：继续改变风格，不必重做整个效果。",
+    "recognized": "紫色,继续改叠风格,不必重做整个效果。",
+    "similarity": 0.9375,
+    "reviewNeeded": false
+  },
+  {
+    "index": 11,
+    "chapter": "形状实时修改",
+    "expected": "现在改变盘面倾角与厚度。",
+    "recognized": "现在改变盘面清脚与厚度。",
+    "similarity": 0.8181818181818182,
+    "reviewNeeded": false
+  },
+  {
+    "index": 12,
+    "chapter": "速度对照",
+    "expected": "旋转和径向内流，分别调整。",
+    "recognized": "弦掌和镜像内流,分别调整。",
+    "similarity": 0.6363636363636364,
+    "reviewNeeded": true
+  },
+  {
+    "index": 13,
+    "chapter": "独立粒子",
+    "expected": "加入独立尘粒，强调螺旋吸入的运动。",
+    "recognized": "加入独立成立,强调螺旋吸入的逆动。",
+    "similarity": 0.8,
+    "reviewNeeded": false
+  },
+  {
+    "index": 14,
+    "chapter": "世界透镜关闭",
+    "expected": "先关闭背景透镜，观察原来的网格。",
+    "recognized": "先关闭对镜透镜、观察原来的网格。",
+    "similarity": 0.8571428571428571,
+    "reviewNeeded": false
+  },
+  {
+    "index": 15,
+    "chapter": "世界透镜开启",
+    "expected": "开启背景透镜，真实场景出现扭曲。",
+    "recognized": "开启背景透镜,监视场景出现扭曲。",
+    "similarity": 0.8571428571428571,
+    "reviewNeeded": false
+  },
+  {
+    "index": 16,
+    "chapter": "透镜范围较小",
+    "expected": "范围较小：扭曲集中在黑洞附近。",
+    "recognized": "再为较小,扭曲集中在黑洞附近。",
+    "similarity": 0.8461538461538461,
+    "reviewNeeded": false
+  },
+  {
+    "index": 17,
+    "chapter": "透镜范围扩大",
+    "expected": "扩大范围，让更宽的真实场景参与扭曲。",
+    "recognized": "扩大散位,让更宽的继续场景参与扭曲。",
+    "similarity": 0.75,
+    "reviewNeeded": false
+  },
+  {
+    "index": 18,
+    "chapter": "玩家透镜关闭",
+    "expected": "背景可以扭曲，同时保持人物完整。",
+    "recognized": "背景可以扭曲、捧鞋、保持人物完整。",
+    "similarity": 0.8571428571428571,
+    "reviewNeeded": false
+  },
+  {
+    "index": 19,
+    "chapter": "玩家透镜开启",
+    "expected": "开启参与，让人物也进入透镜映射。",
+    "recognized": "开启参与,向节目也进入透镜印象。",
+    "similarity": 0.6428571428571429,
+    "reviewNeeded": true
+  },
+  {
+    "index": 20,
+    "chapter": "真实调参：形状",
+    "expected": "改变核心半径，观察暗核大小。",
+    "recognized": "改叠核心半径,观察暗核大小。",
+    "similarity": 0.9166666666666666,
+    "reviewNeeded": false
+  },
+  {
+    "index": 21,
+    "chapter": "真实调参：形状",
+    "expected": "调整盘面厚度，改变吸积盘体积。",
+    "recognized": "调整盘面厚度,带变吸积盘体积。",
+    "similarity": 0.9230769230769231,
+    "reviewNeeded": false
+  },
+  {
+    "index": 22,
+    "chapter": "真实调参：形状",
+    "expected": "修改盘面倾角，选择你想要的姿态。",
+    "recognized": "修改谈面倾角,选择你想要的姿态。",
+    "similarity": 0.9285714285714286,
+    "reviewNeeded": false
+  },
+  {
+    "index": 23,
+    "chapter": "真实调参：颜色",
+    "expected": "改变内盘色，从暖橙过渡到冰蓝。",
+    "recognized": "改变内盘色,从暖城过渡到冰来。",
+    "similarity": 0.8461538461538461,
+    "reviewNeeded": false
+  },
+  {
+    "index": 24,
+    "chapter": "真实调参：颜色",
+    "expected": "再改变外盘色，分别设计内外层次。",
+    "recognized": "再改变外盘色,分叠血积内外层次。",
+    "similarity": 0.7857142857142857,
+    "reviewNeeded": false
+  },
+  {
+    "index": 25,
+    "chapter": "真实调参：运动",
+    "expected": "提高差速旋转，改变盘纹流动。",
+    "recognized": "提高差速显窄,改变盘文流动。",
+    "similarity": 0.75,
+    "reviewNeeded": false
+  },
+  {
+    "index": 26,
+    "chapter": "真实调参：运动",
+    "expected": "调节径向内流，改变吸入节奏。",
+    "recognized": "调节进行内流,带电吸入节奏。",
+    "similarity": 0.6666666666666666,
+    "reviewNeeded": false
+  },
+  {
+    "index": 27,
+    "chapter": "真实调参：运动",
+    "expected": "调整粒子速度，强调螺旋轨迹。",
+    "recognized": "调整粒子速度,强调螺纤轨迹。",
+    "similarity": 0.9166666666666666,
+    "reviewNeeded": false
+  },
+  {
+    "index": 28,
+    "chapter": "真实调参：透镜",
+    "expected": "逐渐增加透镜强度。",
+    "recognized": "球键增加透镜强度。",
+    "similarity": 0.75,
+    "reviewNeeded": false
+  },
+  {
+    "index": 29,
+    "chapter": "真实调参：透镜",
+    "expected": "改变透镜范围，观察背景网格。",
+    "recognized": "台电透镜站维,观察地景网格。",
+    "similarity": 0.5833333333333334,
+    "reviewNeeded": true
+  },
+  {
+    "index": 30,
+    "chapter": "白洞完整展示",
+    "expected": "明亮核心、双极喷流与向外运动的粒子。",
+    "recognized": "明亮核心,相极喷流与向外运动的粒子。",
+    "similarity": 0.9375,
+    "reviewNeeded": false
+  },
+  {
+    "index": 31,
+    "chapter": "白洞核心",
+    "expected": "增加核心光晕，扩大柔和发光范围。",
+    "recognized": "增加核心光益、扩大油和砂工范围。",
+    "similarity": 0.7142857142857143,
+    "reviewNeeded": false
+  },
+  {
+    "index": 32,
+    "chapter": "白洞双极喷流",
+    "expected": "打开双极喷流，逐渐提高喷流强度。",
+    "recognized": "打开双击喷流,逐渐提高喷流强度。",
+    "similarity": 0.9285714285714286,
+    "reviewNeeded": false
+  },
+  {
+    "index": 33,
+    "chapter": "白洞外扩光壳",
+    "expected": "启用外扩光壳，让能量一层层向外传播。",
+    "recognized": "啟用外阔光壳,让能量一层层向外强迫。",
+    "similarity": 0.75,
+    "reviewNeeded": false
+  },
+  {
+    "index": 34,
+    "chapter": "白洞真实调参",
+    "expected": "调节白洞核心光晕。",
+    "recognized": "调节白洞核心光晕。",
+    "similarity": 1.0,
+    "reviewNeeded": false
+  },
+  {
+    "index": 35,
+    "chapter": "白洞真实调参",
+    "expected": "改变双极喷流强度。",
+    "recognized": "改变相机喷流强斗。",
+    "similarity": 0.625,
+    "reviewNeeded": true
+  },
+  {
+    "index": 36,
+    "chapter": "白洞真实调参",
+    "expected": "修改外扩光壳强度。",
+    "recognized": "修改外阔光壳强度。",
+    "similarity": 0.875,
+    "reviewNeeded": false
+  },
+  {
+    "index": 37,
+    "chapter": "使用路线",
+    "expected": "安装对应的技能包，在工作台中调参，导出配方保存你的方案。你可以安装演示模组，也可以参考源码接入自己的模组。",
+    "recognized": "和装对应的技能包,在工作台中挑战,导出配方保证你的方案。你可以安装也是模组,也可以参考研码介入自己的模组。",
+    "similarity": 0.8333333333333334,
+    "reviewNeeded": false
+  },
+  {
+    "index": 38,
+    "chapter": "展示收尾",
+    "expected": "形态、色彩与运动，组合成你的视觉语言。",
+    "recognized": "形态色彩与运动,组合抢你的细节语言。",
+    "similarity": 0.8125,
+    "reviewNeeded": false
+  },
+  {
+    "index": 39,
+    "chapter": "开源资源",
+    "expected": "两个技能包、参数工作台、演示模组和源码都已开源。项目链接和下载入口在视频简介中。欢迎做出你的版本。",
+    "recognized": "两个技能包、参秀工作台、演示模组和圆码都已开援。项目链接和下载入口,在视频剪接中。欢迎做出你的版本。",
+    "similarity": 0.8863636363636364,
+    "reviewNeeded": false
+  }
+]

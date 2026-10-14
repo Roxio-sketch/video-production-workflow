@@ -1,0 +1,25 @@
+{
+  "index": 27,
+  "chapter": "使用路线",
+  "start": 163.25,
+  "end": 174.8,
+  "text": "调好的效果可以保存成配方，在演示模组中载入。也能参考技能包里的源码，把端点接到模型挂点或技能事件上。",
+  "spokenText": "调好的效果可以保存成配方，在演示模组中载入。也能参考技能包里的源码，把端点接到模型挂点或技能事件上。",
+  "key": "476b87a7da3fa57781871cc79a9a431e523a2daab8de84672d3c8af75a1b4a1f",
+  "file": "E:\\视频\\shader-showcase\\narration\\mambo\\lightning\\27.wav",
+  "duration": 8.842396,
+  "nativeSpeed": 1.0,
+  "tempo": 1.0,
+  "sourceLoudness": {
+    "input_i": "-18.47",
+    "input_tp": "-1.82",
+    "input_lra": "2.20",
+    "input_thresh": "-28.79",
+    "output_i": "-16.40",
+    "output_tp": "-1.50",
+    "output_lra": "1.40",
+    "output_thresh": "-26.67",
+    "normalization_type": "dynamic",
+    "target_offset": "0.40"
+  }
+}

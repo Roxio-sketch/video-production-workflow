@@ -1,0 +1,25 @@
+{
+  "index": 21,
+  "chapter": "真实调参：透镜",
+  "start": 132.25,
+  "end": 135.8,
+  "text": "再调覆盖范围，两个参数分别控制。",
+  "spokenText": "再调覆盖范围，两个参数分别控制。",
+  "key": "bd6e1d9e2d24e95207848ad8527a21e6748624cfb96041d802ed6ec9fbf2e215",
+  "file": "E:\\视频\\shader-showcase\\narration\\mambo\\blackhole\\21.wav",
+  "duration": 2.874917,
+  "nativeSpeed": 1.0,
+  "tempo": 1.0,
+  "sourceLoudness": {
+    "input_i": "-18.46",
+    "input_tp": "-3.21",
+    "input_lra": "0.00",
+    "input_thresh": "-28.63",
+    "output_i": "-16.75",
+    "output_tp": "-1.50",
+    "output_lra": "0.00",
+    "output_thresh": "-26.92",
+    "normalization_type": "linear",
+    "target_offset": "0.75"
+  }
+}

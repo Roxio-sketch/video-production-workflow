@@ -1,0 +1,25 @@
+{
+  "index": 23,
+  "chapter": "真实调参：形状",
+  "start": 140.25,
+  "end": 143.8,
+  "text": "盘面厚度，决定吸积盘的体积。",
+  "spokenText": "盘面厚度，决定吸积盘的体积。",
+  "key": "836e752cc2344b30471d15e4772f84102173ff03097aa1dde5758d87365ada21",
+  "file": "E:\\视频\\shader-showcase\\narration\\mambo\\blackhole\\23.wav",
+  "duration": 2.418042,
+  "nativeSpeed": 1.0,
+  "tempo": 1.0,
+  "sourceLoudness": {
+    "input_i": "-19.63",
+    "input_tp": "-3.07",
+    "input_lra": "0.00",
+    "input_thresh": "-29.83",
+    "output_i": "-18.04",
+    "output_tp": "-1.50",
+    "output_lra": "0.00",
+    "output_thresh": "-28.24",
+    "normalization_type": "linear",
+    "target_offset": "2.04"
+  }
+}

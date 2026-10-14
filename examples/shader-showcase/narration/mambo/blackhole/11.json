@@ -1,0 +1,25 @@
+{
+  "index": 11,
+  "chapter": "形状实时修改",
+  "start": 70.25,
+  "end": 77.8,
+  "text": "颜色之外，外形也能继续调整。改变倾角和厚度，看看盘面怎样展开。",
+  "spokenText": "颜色之外，外形也能继续调整。改变倾角和厚度，看看盘面怎样展开。",
+  "key": "adb5bdc30c1255041fbe0621efe3f82cc6879c862b0754a7996eb85912132e2f",
+  "file": "E:\\视频\\shader-showcase\\narration\\mambo\\blackhole\\11.wav",
+  "duration": 6.087833,
+  "nativeSpeed": 1.0,
+  "tempo": 1.0,
+  "sourceLoudness": {
+    "input_i": "-19.04",
+    "input_tp": "-2.43",
+    "input_lra": "0.60",
+    "input_thresh": "-29.37",
+    "output_i": "-16.21",
+    "output_tp": "-1.50",
+    "output_lra": "1.50",
+    "output_thresh": "-26.61",
+    "normalization_type": "dynamic",
+    "target_offset": "0.21"
+  }
+}

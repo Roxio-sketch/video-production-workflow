@@ -1,0 +1,25 @@
+{
+  "index": 16,
+  "chapter": "实际调参：粗细亮度",
+  "start": 115.25,
+  "end": 118.8,
+  "text": "现在实际调一次，先改变主雷的粗细。",
+  "spokenText": "现在实际调一次，先改变主雷的粗细。",
+  "key": "2eb4ae2c93cc96ad6f901f84d062a775eb74d0a71c9d7e53beae9cee6779984e",
+  "file": "E:\\视频\\shader-showcase\\narration\\mambo\\lightning\\16.wav",
+  "duration": 3.011542,
+  "nativeSpeed": 1.0,
+  "tempo": 1.0,
+  "sourceLoudness": {
+    "input_i": "-18.88",
+    "input_tp": "-2.91",
+    "input_lra": "0.20",
+    "input_thresh": "-29.18",
+    "output_i": "-15.84",
+    "output_tp": "-1.50",
+    "output_lra": "0.00",
+    "output_thresh": "-26.15",
+    "normalization_type": "dynamic",
+    "target_offset": "-0.16"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "index": 29,
+  "chapter": "真实调参：运动",
+  "start": 166.25,
+  "end": 169.8,
+  "text": "粒子速度也能单独调，不必跟着盘面走。",
+  "spokenText": "粒子速度也能单独调，不必跟着盘面走。",
+  "key": "212cde2e892c9a3c579a81e0ae40d478b0abc3769431b87f73f0711d48d11872",
+  "file": "E:\\视频\\shader-showcase\\narration\\mambo\\blackhole\\29.wav",
+  "duration": 3.193688,
+  "nativeSpeed": 1.0,
+  "tempo": 1.0,
+  "sourceLoudness": {
+    "input_i": "-18.92",
+    "input_tp": "-2.27",
+    "input_lra": "0.50",
+    "input_thresh": "-29.22",
+    "output_i": "-15.93",
+    "output_tp": "-1.50",
+    "output_lra": "0.00",
+    "output_thresh": "-26.24",
+    "normalization_type": "dynamic",
+    "target_offset": "-0.07"
+  }
+}

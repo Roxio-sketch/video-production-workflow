@@ -1,0 +1,25 @@
+{
+  "index": 7,
+  "chapter": "金橙配色",
+  "start": 43.25,
+  "end": 48.8,
+  "text": "选好盘面，再来配色。这里先用金色内盘和橙色外缘。",
+  "spokenText": "选好盘面，再来配色。这里先用金色内盘和橙色外缘。",
+  "key": "05acc376a751bf4e2ceb3f42f178f2dbeedb5ddbb9d1a89c38a5b6aa74c1268e",
+  "file": "E:\\视频\\shader-showcase\\narration\\mambo\\blackhole\\07.wav",
+  "duration": 4.96975,
+  "nativeSpeed": 1.0,
+  "tempo": 1.0,
+  "sourceLoudness": {
+    "input_i": "-18.96",
+    "input_tp": "-1.38",
+    "input_lra": "0.60",
+    "input_thresh": "-29.40",
+    "output_i": "-15.85",
+    "output_tp": "-1.50",
+    "output_lra": "0.40",
+    "output_thresh": "-26.26",
+    "normalization_type": "dynamic",
+    "target_offset": "-0.15"
+  }
+}

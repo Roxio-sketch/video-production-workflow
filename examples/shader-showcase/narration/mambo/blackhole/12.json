@@ -1,0 +1,25 @@
+{
+  "index": 12,
+  "chapter": "速度对照",
+  "start": 78.25,
+  "end": 85.8,
+  "text": "接着让它动起来。旋转和向内流动各有自己的速度，可以分别调节。",
+  "spokenText": "接着让它动起来。旋转和向内流动各有自己的速度，可以分别调节。",
+  "key": "0364da54db160c222fa58f4cc56bf2c5e24df534792572e26717aaf303439c07",
+  "file": "E:\\视频\\shader-showcase\\narration\\mambo\\blackhole\\12.wav",
+  "duration": 5.353854,
+  "nativeSpeed": 1.0,
+  "tempo": 1.0,
+  "sourceLoudness": {
+    "input_i": "-19.53",
+    "input_tp": "-2.52",
+    "input_lra": "1.80",
+    "input_thresh": "-29.87",
+    "output_i": "-16.61",
+    "output_tp": "-1.50",
+    "output_lra": "1.30",
+    "output_thresh": "-26.98",
+    "normalization_type": "dynamic",
+    "target_offset": "0.61"
+  }
+}

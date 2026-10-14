@@ -1,0 +1,30 @@
+{
+  "name": "video-production-showcase",
+  "version": "1.0.0",
+  "description": "Editable Chinese video and real-screenshot cover workflow",
+  "repository": {},
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "@remotion/cli": "4.0.534",
+    "react": "19.2.3",
+    "react-dom": "19.2.3",
+    "remotion": "4.0.534"
+  },
+  "devDependencies": {
+    "@remotion/eslint-config-flat": "4.0.534",
+    "@types/react": "19.2.7",
+    "@types/web": "0.0.166",
+    "eslint": "9.39.5",
+    "prettier": "3.8.1",
+    "typescript": "5.9.3"
+  },
+  "scripts": {
+    "dev": "remotion studio --no-open",
+    "studio:zh": "node ../../tools/studio-zh/launch.cjs",
+    "studio:en": "node ../../tools/studio-zh/manage.cjs restore --project . && remotion studio --no-open",
+    "check": "tsc --noEmit",
+    "render:landscape": "remotion render Landscape out/landscape.mp4 --codec=h264",
+    "render:portrait": "remotion render Portrait out/portrait.mp4 --codec=h264"
+  }
+}
